@@ -1,0 +1,41 @@
+html, body {
+	background-color: rgba(0, 0, 0, 0.02);
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	opacity: 0.8;
+}
+
+.hero{
+	background: url("../feup.jpg");
+	background-size: cover;
+	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height: 70%;
+}
+
+.hero .row {
+	height: 100%;
+}
+
+.hero .row h1 {
+	background: url("../jobit.png") no-repeat;
+	background-position: center;
+	width: 469px;
+	height: 100%;
+	text-indent: -119988px;
+	margin: 0;
+	padding: 0;
+}
+
+.about {
+	padding-top: 0.9375rem;
+	text-align: justify;
+    text-justify: inter-word;
+}

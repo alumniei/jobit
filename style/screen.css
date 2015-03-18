@@ -66,14 +66,15 @@ section:nth-child(2n) {
 }
 
 #details {
-	color: #413D3E;
+	color: black;
 	padding: 1.875rem;
 	text-align: center;
 
 }
 
-#details p {
+#details .small-4 p{
 	text-align: center;
+	font-weight: normal;
 }
 
 #program {

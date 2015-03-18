@@ -112,7 +112,25 @@ section:nth-child(2n) {
 }
 
 footer {
-	padding: 4rem;
+}
+
+footer #contacts{
+	color: #413D3E;
+  	font-size: 1.5rem;
+	height: 70px;
+	background: rgba(255, 255, 255, 0.7);
+	margin-top: 10px;
+	text-align: center;
+}
+
+footer #contacts .columns {
+	line-height: 70px;
+}
+
+footer i {
+	font-size: 2.5rem;
+	color: #413D3E;
+	padding: 1rem;
 }
 
 .icon-content {

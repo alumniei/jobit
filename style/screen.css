@@ -29,6 +29,7 @@ hr {
 
 header {
 	height: 100%;
+	background-color: rgba(0,0,0,0.4);
 }
 
 header h1 {

@@ -23,6 +23,10 @@ hr {
 	opacity: 0.8;
 }
 
+.small-split-5 {
+	width: 20%;
+}
+
 .small, .small p {
 	font-size: 0.8rem;
 }
@@ -107,6 +111,36 @@ section:nth-child(2n) {
 
 #program p {
 	text-align: center;
+}
+
+#commitee {
+	padding: 1.875rem;
+}
+
+#commitee .elements {
+	height: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#commitee .elements .element a {
+	display: block;
+	color: inherit;
+}
+
+#commitee .elements .element {
+	text-align: center;
+	height: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#commitee .elements .element i {
+	color: rgb(63, 190, 225);
+}
+
+#commitee span {
+	padding-left: 3px;
 }
 
 #others {

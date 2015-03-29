@@ -114,6 +114,10 @@ section:nth-child(2n) {
 	text-align: center;
 }
 
+#program .day .columns {
+	line-height: 54px;
+}
+
 #commitee {
 	padding: 1.875rem;
 }

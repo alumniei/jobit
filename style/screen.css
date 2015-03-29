@@ -23,6 +23,11 @@ hr {
 	opacity: 0.8;
 }
 
+.has-tip,
+.has-tip:hover {
+	border: none;
+}
+
 .small, .small p {
 	font-size: 0.8rem;
 }

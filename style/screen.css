@@ -35,16 +35,21 @@ hr {
 header {
 	height: 100%;
 	background-color: rgba(0,0,0,0.4);
+	text-align: center;
 }
 
 header h1 {
-	background: url("../images/jobit.png") no-repeat;
-	background-position: center;
-	width: 469px;
 	height: 100%;
 	text-indent: -119988px;
-	margin: 0 auto;
-	padding: 0;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+header img {
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: -4px;
+	padding: 10px;
 }
 
 .backg-init .more {
@@ -78,7 +83,7 @@ section:nth-child(2n) {
 
 }
 
-#details .small-4 p{
+#details .columns:not(.small) p{
 	text-align: center;
 	font-weight: normal;
 }
@@ -93,8 +98,10 @@ section:nth-child(2n) {
 }
 
 #program .day {
-	padding-top: 0.9375rem;
-	padding-bottom: 0.9375rem;
+	margin-top: 0.9375rem;
+	margin-bottom: 0.9375rem;
+	padding-top: 0.625rem;
+	background: rgb(245, 245, 245);
 }
 
 #program {
@@ -116,14 +123,15 @@ section:nth-child(2n) {
 
 #program .day .columns {
 	line-height: 54px;
+	height: 118px;
 }
 
 #commitee {
 	padding: 1.875rem;
 }
 
-#commitee .elements {
-	height: 120px;
+#commitee .elements,
+#commitee .elements .row {
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -148,6 +156,10 @@ section:nth-child(2n) {
 	padding: 1.875rem;
 }
 
+#others .columns {
+	padding: 0.9375rem;
+}
+
 #others .legend {
 	position: absolute;
 	top: 50%;
@@ -160,12 +172,12 @@ section:nth-child(2n) {
 }
 
 footer {
+	padding-bottom: 10px;
 }
 
 footer #contacts{
 	color: #413D3E;
   	font-size: 1.5rem;
-	height: 70px;
 	background: rgba(255, 255, 255, 0.7);
 	margin-top: 10px;
 	text-align: center;

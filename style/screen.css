@@ -97,6 +97,10 @@ section:nth-child(2n) {
 	padding-bottom: 0.9375rem;
 }
 
+#program h3 i {
+	font-size: 2rem;
+}
+
 #program .day {
 	margin-top: 0.9375rem;
 	margin-bottom: 0.9375rem;

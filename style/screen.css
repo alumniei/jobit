@@ -217,3 +217,9 @@ footer i {
 	line-height: 110px;
 	color: #413D3E;
 }
+
+@media only screen and (min-width: 40.063em) {
+	.medium-for-13 {
+		width: 7.69%;
+	}	
+}

@@ -6,11 +6,10 @@ html, body, p {
 }
 
 body{
-	background: url("../images/fundo2.png") rgba(0, 0, 0, 0.02);
+	background: url("../images/feup.png") rgba(0, 0, 0, 0.02);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position-y: 90%;
 	height: 100%;
 }
 
@@ -35,7 +34,7 @@ hr {
 
 header {
 	height: 100%;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0.4);
 	text-align: center;
 }
 

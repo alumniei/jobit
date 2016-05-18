@@ -127,10 +127,6 @@ section:nth-child(2n) {
 	text-align: center;
 }
 
-#program img {
-	border-radius: 25px;
-}
-
 #program i {
 	font-size: 2.5em;
 	line-height: 53px;
@@ -143,6 +139,8 @@ section:nth-child(2n) {
 #program .day .columns {
 	line-height: 54px;
 	height: 118px;
+	padding-right: 7px;
+	padding-left: 7px;
 }
 
 #commitee {
@@ -225,5 +223,9 @@ footer i {
 @media only screen and (min-width: 40.063em) {
 	.medium-for-13 {
 		width: 7.69%;
+	}	
+
+	.medium-for-16 {
+		width: 6.25%;
 	}	
 }

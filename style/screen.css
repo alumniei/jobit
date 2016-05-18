@@ -33,6 +33,16 @@ hr {
 	font-size: 0.8rem;
 }
 
+.h-center-flex {
+	display: flex;
+	justify-content: center;
+}
+
+.v-center-flex {
+	display: flex;
+	align-items: center;
+}
+
 header {
 	height: 100%;
 	background-color: rgba(0,0,0,0.3);
@@ -133,17 +143,6 @@ section:nth-child(2n) {
 
 #commitee {
 	padding: 1.875rem;
-}
-
-#commitee .elements,
-#commitee .elements .row {
-	display: inline-block;
-	vertical-align: middle;
-}
-
-#commitee .elements .element a {
-	display: block;
-	color: inherit;
 }
 
 #commitee .elements .element {

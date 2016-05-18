@@ -34,12 +34,16 @@ hr {
 }
 
 .h-center-flex {
-	display: flex;
+	display: -webkit-flex; 
+	display: flex;         
+	-webkit-justify-content: center;
 	justify-content: center;
 }
 
 .v-center-flex {
-	display: flex;
+	display: -webkit-flex; 
+	display: flex;         
+	-webkit-align-items: center;
 	align-items: center;
 }
 

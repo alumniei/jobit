@@ -138,7 +138,8 @@ section:nth-child(2n) {
 
 #program .day .columns {
 	line-height: 54px;
-	height: 118px;
+	/* height: 118px; */
+	height: 130px;
 	padding-right: 7px;
 	padding-left: 7px;
 }

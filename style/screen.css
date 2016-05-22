@@ -104,7 +104,8 @@ section:nth-child(2n) {
 }
 
 #program {
-	padding: 1.875rem;
+	padding: 1.875rem 0;
+	text-align: center;
 }
 
 #program h3 {
@@ -120,11 +121,6 @@ section:nth-child(2n) {
 	margin-top: 0.9375rem;
 	margin-bottom: 0.9375rem;
 	padding-top: 0.625rem;
-	background: rgb(245, 245, 245);
-}
-
-#program {
-	text-align: center;
 }
 
 #program i {
@@ -136,9 +132,14 @@ section:nth-child(2n) {
 	text-align: center;
 }
 
+#program .row {
+	max-width: 100%;
+}
+
 #program .day .columns {
 	line-height: 54px;
-	height: 118px;
+	/* height: 118px; */
+	height: 130px;
 	padding-right: 7px;
 	padding-left: 7px;
 }

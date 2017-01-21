@@ -5,13 +5,17 @@ html, body, p {
 	line-height: 2.2;
 }
 
-body{
-	background: url("../images/fundo2.png") rgba(0, 0, 0, 0.02);
+/*body{
+	background: url("../images/gif4.gif") rgba(0, 0, 0, 0.02) no-repeat center center fixed;
 	background-size: cover;
-	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position-y: 90%;
 	height: 100%;
+}*/
+
+.carousel-inner{
+  width:100%;
+  overflow: hidden;
 }
 
 hr {
@@ -55,7 +59,6 @@ header {
 
 header h1 {
 	height: 100%;
-	text-indent: -119988px;
 	vertical-align: middle;
 	display: inline-block;
 }
@@ -229,4 +232,64 @@ footer i {
 	.medium-for-16 {
 		width: 6.25%;
 	}	
+}
+
+.Estilodecaracterenormal1
+{
+	font-family : Myriad Pro;
+	font-size : 60px;
+	letter-spacing : -2.04px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecaracterenormal
+{
+	font-family : SoftLine;
+	font-size : 21px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-outline : #FFFFFF;
+	text-outline : rgb(255, 255, 255);
+}
+.Estilodecaracterenormal2
+{
+	font-family : SoftLine;
+	font-size : 21px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-outline : #FFFFFF;
+	text-outline : rgb(255, 255, 255);
+}
+.XMLID_46_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 2px;
+}
+.XMLID_120_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.XMLID_45_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 2px;
+}
+.XMLID_36_
+{
+	background-image : url(XMLID_36_.png);
+	background-repeat : no-repeat;
+}
+.XMLID_19_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
 }

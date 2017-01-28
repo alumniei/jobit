@@ -1,5 +1,25 @@
+.body{
+	font-family: "Open Sans";
+}
+
 .full-screen {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+#footer{
+	padding-bottom: 10px;
+	text-shadow: none;
+	font-size: 9px;
+	color: #aba7a7;
+}
+
+#footer > a{
+	color: #aba7a7;
+}
+
+#footer > a:hover { 
+	text-decoration: none;
+    color: #fff;
 }

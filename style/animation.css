@@ -1,0 +1,180 @@
+@font-face {
+    font-family: SoftLine;
+    src: url("font/SoftLine.otf") format("opentype");
+}
+body{
+  background-color:#5d5d5d;
+}
+#logo{
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  text-align: center;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+#logo > svg{
+  vertical-align: middle;
+}
+
+.animated-logo{
+  animation-name: onload;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+@-webkit-keyframes onload {
+    0% {transform: translate(0%,10%); opacity: 0}
+    100% {transform: translate(0%,0%); opacity: 100}
+}
+/* Standard syntax */
+@keyframes onload {
+  0% {transform: translate(0%,10%); opacity: 0}
+  100% {transform: translate(0%,0%); opacity: 100}
+}
+
+/* Ciclo de palestras text */
+#XMLID_127_ > *{
+  opacity: 0; animation-fill-mode: forwards; animation-name: onload-text; animation-duration: 0.2s;
+}
+#path5937   { animation-delay: 1s;}
+#path5939  { animation-delay: 1.1s;}
+#path5941   { animation-delay: 1.2s;}
+#path5943  { animation-delay: 1.3s;}
+#path5945  { animation-delay: 1.4s;}
+#path5947  { animation-delay: 1.5s;}
+#path5949  { animation-delay: 1.6s;}
+#path5951  { animation-delay: 1.7s;}
+#path5953  { animation-delay: 1.8s;}
+#path5955  { animation-delay: 1.9s;}
+#path5957  { animation-delay: 2.0s;}
+#path5959  { animation-delay: 2.1s;}
+#path5961  { animation-delay: 2.2s;}
+#path5963  { animation-delay: 2.3s;}
+#path5965  { animation-delay: 2.4s;}
+#path5967  { animation-delay: 2.5s;}
+#path5969  { animation-delay: 2.6s;}
+#path5971  { animation-delay: 2.7s;}
+#path5973  { animation-delay: 2.8s;}
+#path5975  { animation-delay: 2.9s;}
+#path5977  { animation-delay: 3.0s;}
+#path5979  { animation-delay: 3.1s;}
+#path5981  { animation-delay: 3.2s;}
+#path5983  { animation-delay: 3.3s;}
+#path5985  { animation-delay: 3.4s;}
+#path5987  { animation-delay: 3.5s;}
+#path5989  { animation-delay: 3.6s;}
+
+
+@-webkit-keyframes onload-text {
+    0% {transform: translateY(0.5%); opacity: 0}
+    100% {transform: translateY(0%); opacity: 100}
+}
+/* Standard syntax */
+@keyframes onload-text {
+  0% {transform: translateY(-0.5%); opacity: 0}
+  100% {transform: translateY(0%); opacity: 100}
+}
+
+/****** ON HOVER ******/
+
+/* Whole logo */
+#Camada_1:hover{
+  -webkit-animation-name: Logo; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: Logo;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes Logo {
+  50% {transform:scale(1.02)}
+}
+/* Standard syntax */
+@keyframes Logo {
+  50% {transform:scale(1.02)}
+}
+
+#Camada_1:hover #XMLID_130_{
+  -webkit-animation-name: XMLID_130_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_130_;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes XMLID_130_ {
+  50% {transform: translate(10px,-10px)}
+}
+/* Standard syntax */
+@keyframes XMLID_130_ {
+  50% {transform: translate(10px,-10px)}
+}
+
+/* Bottom-right corner */
+#Camada_1:hover #XMLID_129_{
+  -webkit-animation-name: XMLID_129_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_129_;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes XMLID_129_ {
+  50% {transform: translate(10px,10px)}
+}
+/* Standard syntax */
+@keyframes XMLID_129_ {
+  50% {transform: translate(10px,10px)}
+}
+
+/* Bottom-left corner */
+#Camada_1:hover #XMLID_125_{
+  -webkit-animation-name: XMLID_125_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_125_;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes XMLID_125_ {
+  50% {transform: translate(-10px,10px)}
+}
+/* Standard syntax */
+@keyframes XMLID_125_ {
+  50% {transform: translate(-10px,10px)}
+}
+
+
+/* Top-left corner */
+#Camada_1:hover #XMLID_128_{
+  -webkit-animation-name: XMLID_128_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_128_;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes XMLID_128_ {
+  50% {transform: translate(-10px,-10px)}
+}
+/* Standard syntax */
+@keyframes XMLID_128_ {
+  50% {transform: translate(-10px,-10px)}
+}
+
+/* Text
+#Camada_1:hover #XMLID_15_ > *{
+  -webkit-animation-name: XMLID_15_;
+  -webkit-animation-duration: 0.5s;
+  animation-name: XMLID_15_;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes XMLID_15_ {
+  50% {transform: translateY(-2%);}
+}
+
+@keyframes XMLID_15_ {
+  50% {transform: translateY(-2%);}
+}
+*/

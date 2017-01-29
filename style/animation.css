@@ -41,7 +41,7 @@ body{
 #XMLID_127_ > *{
   opacity: 0; animation-fill-mode: forwards; animation-name: onload-text; animation-duration: 0.2s;
 }
-#path5937   { animation-delay: 1s;}
+#path5937   { animation-delay: 0.5s;}
 #path5939  { animation-delay: 1.1s;}
 #path5941   { animation-delay: 1.2s;}
 #path5943  { animation-delay: 1.3s;}
@@ -97,12 +97,13 @@ body{
 @keyframes Logo {
   50% {transform:scale(1.02)}
 }
-
+/* Top-right corner */
 #Camada_1:hover #XMLID_130_{
   -webkit-animation-name: XMLID_130_; /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
   animation-name: XMLID_130_;
   animation-duration: 1s;
+  animation-delay: 0.5s;
   animation-iteration-count: infinite;
 }
 @-webkit-keyframes XMLID_130_ {
@@ -135,6 +136,7 @@ body{
   -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
   animation-name: XMLID_125_;
   animation-duration: 1s;
+  animation-delay: 0.5s;
   animation-iteration-count: infinite;
 }
 @-webkit-keyframes XMLID_125_ {

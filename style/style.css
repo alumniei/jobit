@@ -11,15 +11,26 @@
 #footer{
 	padding-bottom: 10px;
 	text-shadow: none;
-	font-size: 9px;
+	font-size: 10px;
 	color: #aba7a7;
+	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
 #footer > a{
 	color: #aba7a7;
 }
 
-#footer > a:hover { 
+#footer > a:hover {
 	text-decoration: none;
     color: #fff;
+}
+.small p{
+	font-weight: normal;
+	color: #444;
+}
+#mycarousel{
+	position:fixed;
+	height:100%;
+	width:100%;
+	z-index: -1;
 }

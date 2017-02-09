@@ -10,20 +10,22 @@
 
 #footer{
 	text-align: center;
-	width:70%;
 	margin:auto;
+	margin-right: 15px;
 	text-shadow: none;
 	font-size: 14px;
 	color: #ddd;
 	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
-
-#footer > a{
+.previous-years{
+	display: inline-block;
+	margin: auto 15px;
+}
+.previous-years > a{
 	color: #ddd;
 	margin:auto;
 }
-
-#footer > a:hover {
+.previous-years > a:hover {
 	text-decoration: none;
 	font-weight: bold;
   color: #fff;
@@ -59,7 +61,7 @@
 	margin:auto;
 }
 #social-media{
-	margin-left: 30px;
+	margin: auto 15px;
 }
 #social-media,
 #social-media > *{
@@ -78,6 +80,7 @@
 
 @media only screen and (max-width: 600px) {
    #logo > h3 { margin: 20px 0px; font-size: 2em; }
+
 }
 
 @media only screen and (max-width: 400px) {

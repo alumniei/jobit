@@ -63,7 +63,12 @@
 }
 #social-media,
 #social-media > *{
+	font-family: SoftLine;
 	display: inline-block;
+	vertical-align: middle;
+}
+.social > a{
+	font-family: SoftLine;
 }
 .fi{
 	color: white;

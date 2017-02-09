@@ -22,28 +22,64 @@ body{
   vertical-align: middle;
 }
 
-.animated-logo{
+/* ON LOAD ANIMATION */
+
+#logo{
+  -webkit-animation-name: onload; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
   animation-name: onload;
   animation-duration: 1s;
-  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
 }
-@-webkit-keyframes onload {
-    0% {transform: translate(0%,10%); opacity: 0}
-    100% {transform: translate(0%,0%); opacity: 100}
+.animated-logo{
+  -webkit-animation-name: Logo; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: Logo;
+  animation-duration: 1s;
+  animation-iteration-count: 2;
 }
-/* Standard syntax */
-@keyframes onload {
-  0% {transform: translate(0%,10%); opacity: 0}
-  100% {transform: translate(0%,0%); opacity: 100}
+#XMLID_130_{
+  -webkit-animation-name: XMLID_130_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_130_;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-iteration-count: 2;
 }
+
+#XMLID_129_{
+  -webkit-animation-name: XMLID_129_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_129_;
+  animation-duration: 1s;
+  animation-iteration-count: 2;
+}
+
+#XMLID_125_{
+  -webkit-animation-name: XMLID_125_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_125_;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-iteration-count: 2;
+}
+
+#XMLID_128_{
+  -webkit-animation-name: XMLID_128_; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s; /* Safari 4.0 - 8.0 */
+  animation-name: XMLID_128_;
+  animation-duration: 1s;
+  animation-iteration-count: 2;
+}
+
 
 /* Ciclo de palestras text */
 #XMLID_127_ > *{
   opacity: 0; animation-fill-mode: forwards; animation-name: onload-text; animation-duration: 0.2s;
 }
-#path5937   { animation-delay: 0.5s;}
+#path5937  { animation-delay: 1.0s;}
 #path5939  { animation-delay: 1.1s;}
-#path5941   { animation-delay: 1.2s;}
+#path5941  { animation-delay: 1.2s;}
 #path5943  { animation-delay: 1.3s;}
 #path5945  { animation-delay: 1.4s;}
 #path5947  { animation-delay: 1.5s;}
@@ -69,6 +105,15 @@ body{
 #path5987  { animation-delay: 3.5s;}
 #path5989  { animation-delay: 3.6s;}
 
+@-webkit-keyframes onload {
+    0% {opacity: 0}
+    100% {opacity: 100}
+}
+/* Standard syntax */
+@keyframes onload {
+  0% {opacity: 0}
+  100% {opacity: 100}
+}
 
 @-webkit-keyframes onload-text {
     0% {transform: translateY(0.5%); opacity: 0}

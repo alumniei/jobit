@@ -15,25 +15,40 @@
 	text-shadow: none;
 	font-size: 14px;
 	color: #ddd;
+	padding-top: 20px;
+	padding-bottom: 10px;
 	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 .previous-years{
 	display: inline-block;
-	margin: auto 15px;
 }
 .previous-years > a{
-	color: #ddd;
+	color: rgba(255, 255, 255  ,0.7);
 	margin:auto;
 }
+
+.mail > a{
+	color: rgba(255, 255, 255, 0.7);
+}
+
+.mail:hover > a{
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1);
+}
+
+#dates{
+	padding-top: 3%;
+	padding-bottom: 6%;
+}
+
 .previous-years > a:hover {
 	text-decoration: none;
-	font-weight: bold;
   color: #fff;
 }
-#logo > h3{
+#logo > h3, h4{
 	font-family: SoftLine;
-	margin: 30px 0px;
-	color: white;
+	width: 100%;
+	color: rgba(45, 220, 204, 0.8);
 	font-weight:bold;
 	font-size: 2.2em;
 }
@@ -43,7 +58,8 @@
 	text-align: center;
 }
 #team .columns{
-	width:100px;
+	width:90px;
+	height:90px;
 }
 #team .columns,
 #team .columns p {
@@ -60,6 +76,10 @@
 	background-repeat: no-repeat;
 	margin:auto;
 }
+
+.round-img:hover { opacity: 0.3; 
+	filter: alpha(opacity=30); } 
+
 #social-media{
 	margin: auto 15px;
 }
@@ -73,9 +93,13 @@
 	font-family: SoftLine;
 }
 .fi{
-	color: white;
+	color: rgba(255,255,255,0.7);
 	font-size: 1.6em;
 	margin:auto 5px;
+}
+
+.fi:hover{
+	color: rgba(255,255,255,1);
 }
 
 @media only screen and (max-width: 600px) {

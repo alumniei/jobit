@@ -52,6 +52,7 @@
 	font-weight:bold;
 	font-size: 2.2em;
 }
+
 #team{
 	z-index: 2;
 	width:100%;
@@ -77,8 +78,8 @@
 	margin:auto;
 }
 
-.round-img:hover { opacity: 0.3; 
-	filter: alpha(opacity=30); } 
+.round-img:hover { opacity: 0.3;
+	filter: alpha(opacity=30); }
 
 #social-media{
 	margin: auto 15px;

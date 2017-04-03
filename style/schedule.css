@@ -418,6 +418,14 @@ Main Components
           transform-origin: top center;
 }
 
+.cd-schedule .event-modal .speaker {
+  display: block;
+  color: white;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .cd-schedule .event-modal .close {
   /* this is the 'X' icon */
   position: absolute;

@@ -120,7 +120,17 @@ jQuery(document).ready(function($){
 		this.modalBody.find('.event-info').load('events/'+event.parent().attr('data-content')+'.html .event-info > *', function(data){
 			//once the event content has been loaded
 			self.element.addClass('content-loaded');
+			console.log("added images cycle");
 		});
+
+
+		//update event images
+		this.modalHeader.find('.event-images').load('events/'+event.parent().attr('data-content')+'.html .event-images > *', function(data){
+			//once the event content has been loaded
+			self.element.addClass('content-loaded');
+		});
+
+
 
 		this.element.addClass('modal-is-open');
 

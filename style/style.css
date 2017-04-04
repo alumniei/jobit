@@ -1,113 +1,127 @@
-.body{
-	font-family: "Open Sans";
+.body {
+    font-family: "Open Sans";
 }
 
 .full-screen {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-#footer{
-	text-align: center;
-	margin:auto;
-	margin-right: 15px;
-	text-shadow: none;
-	font-size: 14px;
-	color: #ddd;
-	padding-top: 20px;
-	padding-bottom: 10px;
-	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-}
-.previous-years{
-	display: inline-block;
-}
-.previous-years > a{
-	color: rgba(255, 255, 255  ,0.7);
-	margin:auto;
+#footer {
+    text-align: center;
+    margin: auto;
+    margin-right: 15px;
+    text-shadow: none;
+    font-size: 14px;
+    color: #ddd;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 }
 
-.mail > a{
-	color: rgba(255, 255, 255, 0.7);
+.previous-years {
+    display: inline-block;
 }
 
-.mail:hover > a{
-	text-decoration: none;
-	color: rgba(255, 255, 255, 1);
+.previous-years>a {
+    color: rgba(255, 255, 255, 0.7);
+    margin: auto;
 }
 
-#dates{
-	padding-top: 3%;
-	padding-bottom: 6%;
+.mail>a {
+    color: rgba(255, 255, 255, 0.7);
 }
 
-.previous-years > a:hover {
-	text-decoration: none;
-  color: #fff;
-}
-#logo > h3, h4{
-	font-family: SoftLine;
-	width: 100%;
-	color: rgba(45, 220, 204, 0.8);
-	font-weight:bold;
-	font-size: 2.2em;
+.mail:hover>a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
 }
 
-#team{
-	z-index: 2;
-	width:100%;
-	text-align: center;
-}
-#team .columns{
-	width:90px;
-	height:90px;
-}
-#team .columns,
-#team .columns p {
-	display: inline-block;
-	text-align: center;
-	color: #aba7a7;
-	font-family: SoftLine;
-}
-.round-img{
-	border-radius:50%;
-	width:65px;
-	height:65px;
-	background-size: 65px 65px;
-	background-repeat: no-repeat;
-	margin:auto;
+#dates {
+    padding-top: 3%;
+    padding-bottom: 6%;
 }
 
-.round-img:hover { opacity: 0.3;
-	filter: alpha(opacity=30); }
-
-#social-media{
-	margin: auto 15px;
-}
-#social-media,
-#social-media > *{
-	font-family: SoftLine;
-	display: inline-block;
-	vertical-align: middle;
-}
-.social > a{
-	font-family: SoftLine;
-}
-.fi{
-	color: rgba(255,255,255,0.7);
-	font-size: 1.6em;
-	margin:auto 5px;
+.previous-years>a:hover {
+    text-decoration: none;
+    color: #fff;
 }
 
-.fi:hover{
-	color: rgba(255,255,255,1);
+#logo>h3, h4 {
+    font-family: SoftLine;
+    width: 100%;
+    color: rgba(45, 220, 204, 0.8);
+    font-weight: bold;
+    font-size: 2.2em;
+}
+
+#team {
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+}
+
+#team .columns {
+    width: 90px;
+    height: 90px;
+}
+
+#team .columns, #team .columns p {
+    display: inline-block;
+    text-align: center;
+    color: #aba7a7;
+    font-family: SoftLine;
+}
+
+.round-img {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    background-size: 65px 65px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.round-img:hover {
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+}
+
+#social-media {
+    margin: auto 15px;
+}
+
+#social-media, #social-media>* {
+    font-family: SoftLine;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.social>a {
+    font-family: SoftLine;
+}
+
+.fi {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.6em;
+    margin: auto 5px;
+}
+
+.fi:hover {
+    color: rgba(255, 255, 255, 1);
 }
 
 @media only screen and (max-width: 600px) {
-   #logo > h3 { margin: 20px 0px; font-size: 2em; }
-
+    #logo>h3 {
+        margin: 20px 0px;
+        font-size: 2em;
+    }
 }
 
 @media only screen and (max-width: 400px) {
-	#logo > h3 { margin: 15px 0px; font-size: 1.5em; }
+    #logo>h3 {
+        margin: 15px 0px;
+        font-size: 1.5em;
+    }
 }

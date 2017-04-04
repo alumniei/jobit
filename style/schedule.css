@@ -110,9 +110,12 @@ Main Components
 
 .cd-schedule .events .top-info > span {
   display: inline-block;
-  line-height: 1.2;
+  line-height: 2;
   margin-bottom: 10px;
-  font-weight: bold;
+  font-weight: bold !important;
+  font-family: SoftLine;
+  font-size:1.5em;
+
 }
 
 .cd-schedule .events .events-group > ul {
@@ -273,9 +276,11 @@ Main Components
   display: block;
   color: white;
   font-weight: bold;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 
 .cd-schedule .event-name {
   font-size: 1.4rem;
@@ -364,6 +369,13 @@ Main Components
   width: 100%;
 }
 
+.event-logo{
+	height:80px;
+	background-size: 65px 65px;
+	background-repeat: no-repeat;
+	margin:auto;
+}
+
 .cd-schedule .event-modal .header .content {
   position: relative;
   z-index: 3;
@@ -418,13 +430,27 @@ Main Components
           transform-origin: top center;
 }
 
-.cd-schedule .event-modal .speaker {
+.cd-schedule .event-modal .speaker-label {
   display: block;
   color: white;
   font-weight: bold;
+  font-family: SoftLine;
+  font-size:1em;
+  margin-bottom: 2em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+.speaker-img {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    background-size: 65px 65px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
 
 .cd-schedule .event-modal .close {
   /* this is the 'X' icon */

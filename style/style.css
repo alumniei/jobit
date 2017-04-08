@@ -88,6 +88,15 @@
     filter: alpha(opacity=30);
 }
 
+.speaker-img {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    background-size: 65px 65px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
 #social-media {
     margin: auto 15px;
 }

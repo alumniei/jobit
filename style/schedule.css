@@ -7,6 +7,7 @@ Main Components
 .calendario {
     /* background: rgba(255, 255, 255, 0.35); */
     background-color: #f0f5f5;
+    display: flex;
 }
 
 .cd-schedule {
@@ -191,8 +192,9 @@ Main Components
         width: 100%;
     }
     .cd-schedule .events .events-group {
-        width: 30%;
-        float: left;
+        width: 33%;
+        /* float: left; APAGADO PARA TER SO UMA COLUNA; MUDAR */
+        display: inline-block;
         /* reset style */
         margin-bottom: 0;
     }
@@ -260,8 +262,13 @@ Main Components
 @media only screen and (min-width: 1000px) {
     .cd-schedule .events {
         /* 60px is the .timeline element width */
-        width: calc(100% - 60px);
+
+      /* FIX CALENDAR NOT CENTERED
+       width: calc(100% - 60px);
         margin-left: 60px;
+
+        */
+        width:100%;
     }
 }
 

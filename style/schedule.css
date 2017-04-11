@@ -7,6 +7,7 @@ Main Components
 .calendario {
     /* background: rgba(255, 255, 255, 0.35); */
     background-color: #f0f5f5;
+
     display: flex;
 }
 
@@ -19,6 +20,7 @@ Main Components
     /* never visible - this is used in js to check the current MQ */
     content: 'mobile';
     display: none;
+    margin: 2em 0;
 }
 
 @media only screen and (min-width: 800px) {
@@ -98,7 +100,6 @@ Main Components
 .cd-schedule .events {
     position: relative;
     z-index: 1;
-    margin-top: 50px;
 }
 
 .cd-schedule .events .events-group {
@@ -119,9 +120,16 @@ Main Components
     font-size: 1.5em;
 }
 
+
+
+ol, ul {
+  list-style-type: none;
+}
+
 .cd-schedule .events .events-group>ul {
     position: relative;
     padding: 0 5%;
+    list-style-type: none;
     /* force its children to stay on one line */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -138,6 +146,7 @@ Main Components
     height: 100%;
     opacity: 0;
     color: transparent;
+    list-style-type: none;
 }
 
 .cd-schedule .events .single-event {
@@ -329,6 +338,7 @@ Main Components
 @media only screen and (min-width: 800px) {
     .cd-schedule .event-name {
         font-size: 1.6rem;
+        font-family: Softline;
     }
 }
 

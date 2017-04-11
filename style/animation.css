@@ -11,7 +11,7 @@ body{
   height:50%;
 }
 #logo{
-  /*overflow: auto;*/
+  overflow: auto;
   position:absolute;
   width: 100%;
   height: 100%;

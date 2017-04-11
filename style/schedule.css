@@ -213,7 +213,7 @@ ol, ul {
     .cd-schedule .events .top-info {
         /* vertically center its content */
         display: table;
-        height: 80px;
+        height: 100px;
         border-bottom: 1px solid #ffffff;
         /* reset style */
         padding: 0;
@@ -229,7 +229,7 @@ ol, ul {
         margin-bottom: 0;
     }
     .cd-schedule .events .events-group>ul {
-        height: 1450px;
+        height: 1750px;
         /* reset style */
         display: block;
         overflow: visible;
@@ -419,10 +419,14 @@ li.single-event {
 }
 
 .event-logo {
-    height: 80px;
-    background-size: 65px 65px;
+
+    /*background-size: 65px 65px; */
     background-repeat: no-repeat;
     margin: auto;
+    height:auto;
+    width:auto;
+    max-width: 200px;
+    max-height:85px;
 }
 
 .cd-schedule .event-modal .header .content {
@@ -491,22 +495,58 @@ li.single-event {
 }
 
 .cd-schedule .event-modal .speaker-label {
-    display: block;
+    display: inline-block;
     color: white;
     font-weight: bold;
     font-size: 1em;
     margin-bottom: 2em;
+    margin-top: 0.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 1px solid #47476b;
+    background-color:#47476b;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    padding:5px;
+
+
+
+    /*
+
+
+
+    */
+
 }
+
 
 .speaker-img {
     border-radius: 50%;
-    width: 65px;
-    height: 65px;
-    background-size: 65px 65px;
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px;
     background-repeat: no-repeat;
     margin: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.speaker-img img{
+  position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 100%;
+    width: auto;
+    -webkit-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+            transform: translate(-50%,-50%);
+}
+
+.speaker-img img.portrait {
+  width: 100%;
+  height: auto;
 }
 
 .cd-schedule .event-modal .close {

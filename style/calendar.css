@@ -14,10 +14,13 @@
   font-weight: 500;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+.schedule .buttons{
+  opacity: 0;
+}
 .schedule .table-day{
   border-radius: 10px;
     border: solid 2px #30A195;
-    padding: 5px 20px;
+    padding: 5px 10px;
     background-color: white;
     color: #30A195;
     width: 80%;
@@ -68,45 +71,58 @@ border-right: solid 7px #f0f5f5;
   font-weight: 900;
   margin:5px;
 }
-.schedule .categories{
-  border: solid 1px;
-  border-radius: 10px;
-}
-.schedule ul {
-    list-style-type: disc;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+.company-category{
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 1px solid #47476b;
+  padding:5px;
+  font-size: 1rem;
+  line-height: 1.2;
+  margin-bottom: .2em;
+  margin: 0 5px 0 0;
+  color:#fff;
+  background-color:#47476b;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+
+
+
 }
 
-.schedule ul li {
-    display: inline-block;
-    text-align: center;
-    font-size:12px;
-}
-.schedule ul li:after {
-  padding: 7px;
-  font-size: 15px;
-  content: " \2022";
-}
-.schedule ul li:last-child:after {
-  content: none;
+.company-category-tech{
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 1px solid #47476b;
+  padding:5px;
+  font-size: 1rem;
+  line-height: 1.2;
+  margin-bottom: .2em;
+  margin: 0 5px 0 0;
+  color:#fff;
+  background-color:#9494b8;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }
 
 
 @media screen and (max-width: 640px) {
+  .schedule .buttons{
+    opacity: 1;
+  }
 	.schedule {
 		overflow-x: auto;
 		display: block;
-    width: 80%;
+    width: 500px;
+    margin-left: 4.5em;
+    margin-right: 1em;
 	}
   .schedule .table-day{
     width:50px;
     padding: 5px 5px;
   }
   .schedule .table-hour{
-    width:100px;
-    padding-right: 10px;
+    width:3em;
+    position: absolute;
+    margin-left: -3em;
   }
 }

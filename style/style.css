@@ -26,6 +26,7 @@
     background: #70A6A4;
     padding: 1.875rem;
     font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    background-image: url("../images/pattern3.png");
 }
 
 #about {
@@ -68,10 +69,11 @@
 
 
 #details {
-    background: rgb(152, 193, 195);
+    background: #78BCB5;
     padding: 1.875rem;
     font-size: 22px;
     font-family: SoftLine;
+    background-image: url("../images/pattern3.png")
 }
 
 #details .columns,
@@ -130,7 +132,7 @@
     z-index: 2;
     width: 100%;
     text-align: center;
-    background-color: #ABC5B9;
+    background-color: #A4D39D;
 
 }
 

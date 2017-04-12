@@ -14,8 +14,8 @@
   font-weight: 500;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-.schedule .buttons{
-  opacity: 0;
+.schedule #all{
+  display:inline-block;
 }
 .schedule .table-day{
   border-radius: 10px;
@@ -103,17 +103,23 @@ border-right: solid 7px #f0f5f5;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
-
-
+@media screen and (min-width: 640px) {
+  .schedule .day1, .schedule .day2, .schedule .day3{
+    display:table-cell;
+  }
+}
 @media screen and (max-width: 640px) {
-  .schedule .buttons{
-    opacity: 1;
+  .schedule .day2, .schedule .day3{
+    display:none;
+  }
+  .schedule #all{
+    display: none;
   }
 	.schedule {
 		overflow-x: auto;
 		display: block;
     width: 500px;
-    margin-left: 4.5em;
+    margin-left: 4em;
     margin-right: 1em;
 	}
   .schedule .table-day{

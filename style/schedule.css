@@ -7,10 +7,19 @@ Main Components
 .calendario {
     /* background: rgba(255, 255, 255, 0.35); */
     background-color: #f0f5f5;
-
-    display: flex;
+    padding:5px;
 }
-
+.calendario h3{
+  text-align: center;
+  color:black;
+  display: inline-block;
+  padding: 1.875rem;
+  font-size: 40px;
+  font-family: SoftLine;
+  text-align: center;
+  margin-top:40px;
+  padding-top:10px; !important
+}
 .cd-schedule {
     position: relative;
     margin: 2em 0;
@@ -124,6 +133,8 @@ Main Components
 
 ol, ul {
   list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 .cd-schedule .events .events-group>ul {
@@ -133,8 +144,7 @@ ol, ul {
     /* force its children to stay on one line */
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
-    overflow-x: scroll;
+    display: block;
     -webkit-overflow-scrolling: touch;
 }
 
@@ -153,19 +163,13 @@ ol, ul {
     /* force them to stay on one line */
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    float: left;
     height: 150px;
-    width: 70%;
-    max-width: 300px;
     box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.2);
     margin-right: 20px;
     -webkit-transition: opacity .2s, background .2s;
     transition: opacity .2s, background .2s;
 }
 
-.cd-schedule .events .single-event:last-of-type {
-    margin-right: 5%;
-}
 
 .cd-schedule .events .single-event a {
     display: block;
@@ -188,12 +192,12 @@ ol, ul {
     height: 50%;
     padding: .8em;
 }
-
+/*
 @media only screen and (min-width: 550px) {
     .cd-schedule .events .single-event {
         width: 40%;
     }
-}
+}*/
 
 @media only screen and (min-width: 800px) {
     .cd-schedule .events {
@@ -201,8 +205,8 @@ ol, ul {
         width: 100%;
     }
     .cd-schedule .events .events-group {
-        width: 33%;
-        /* float: left; APAGADO PARA TER SO UMA COLUNA; MUDAR */
+        width: 60%;
+        /*float: left;*/
         display: inline-block;
         /* reset style */
         margin-bottom: 0;
@@ -337,7 +341,7 @@ ol, ul {
 
 @media only screen and (min-width: 800px) {
     .cd-schedule .event-name {
-        font-size: 1.6rem;
+        font-size: 2rem;
         font-family: Softline;
     }
 }
@@ -356,8 +360,11 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="consultoria"], .cd-schedule [data-event="consultoria"] .header-bg {
-    /* this is used to set a background color for the event and the modal window */
-    background: #b4becb;
+  font-weight: bold;
+  color: #555;
+  background-color: white;
+  border-bottom: solid 2px #78BCB5;
+  margin:auto;
 }
 
 .cd-schedule .single-event[data-event="consultoria"]:hover {
@@ -365,7 +372,11 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="development"], .cd-schedule [data-event="development"] .header-bg {
-    background: #98c2c1;
+  font-weight: bold;
+  color: #555;
+  background-color: white;
+  border-bottom: solid 2px #78BCB5;
+  margin:auto;
 }
 
 .cd-schedule .single-event[data-event="development"]:hover {
@@ -373,7 +384,11 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="games"], .cd-schedule [data-event="games"] .header-bg {
-    background: #d8e6f3;
+  font-weight: bold;
+  color: #555;
+  background-color: white;
+  border-bottom: solid 2px #78BCB5;
+  margin:auto;
 }
 
 .cd-schedule .single-event[data-event="games"]:hover {
@@ -381,7 +396,13 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="general"], .cd-schedule [data-event="general"] .header-bg {
-    background: #C9D8D1;
+  background-color: #CAF4F0;
+  font-weight: 800;
+  color:#19756B;
+  border-bottom: solid 2px #78BCB5;
+  border-top: solid 2px #78BCB5;
+  font-family: SoftLine;
+  margin:auto;
 }
 
 .cd-schedule .single-event[data-event="general"]:hover {

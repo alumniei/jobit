@@ -119,6 +119,7 @@ Main Components
 
 .cd-schedule .events .events-group {
     margin-bottom: 30px;
+    display:inline-block;
 }
 
 .cd-schedule .events .top-info {
@@ -171,7 +172,7 @@ ol, ul {
     /* force its children to stay on one line */
     display: -webkit-box;
     display: -ms-flexbox;
-    display: none;
+    display: inline-block;
     -webkit-overflow-scrolling: touch;
 }
 
@@ -226,13 +227,29 @@ ol, ul {
     }
 }*/
 
-@media only screen and (min-width: 800px) {
+.cd-schedule .events .top-info>span>a {
+    display:none;
+}
+@media only screen and (max-width: 700px) {
+
+  .cd-schedule .events .top-info>span>a {
+      display:inline;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .cd-schedule .events .events-group {
+      width:100%;
+      display:block;
+      margin:auto;
+  }
+}
+@media only screen and (min-width: 1000px) {
     .cd-schedule .events {
         float: left;
         width: 100%;
     }
     .cd-schedule .events .events-group {
-        width: 60%;
+        width: 33%;
         /*float: left;*/
         display: inline-block;
         /* reset style */
@@ -266,12 +283,15 @@ ol, ul {
         font-family: SoftLine;
         font-size: 30px;
     }
+
     .cd-schedule .events .events-group>ul {
         height: 2100px;
         /* reset style */
-        display: none;
+        display: block;
         overflow: visible;
         padding: 0;
+        margin-left:5px;
+        margin-right:5px;
     }
     .cd-schedule .events .events-group>ul::after {
         clear: both;
@@ -288,7 +308,7 @@ ol, ul {
         /* top position and height will be set using js */
         width: calc(100% + 2px);
         left: -1px;
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), inset 0 -3px 0 rgba(0, 0, 0, 0.2);
+        /*box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), inset 0 -3px 0 rgba(0, 0, 0, 0.2);*/
         /* reset style */
         -ms-flex-negative: 1;
         flex-shrink: 1;

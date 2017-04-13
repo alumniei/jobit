@@ -307,7 +307,7 @@
                             </span>
                           </div>
 
-                          <ul class="day1" style="display:none">
+                          <ul class="day1">
                               <li class="single-event" data-start="14:30" data-end="14:45" data-content="event-keyone" data-event="general">
                                   <div class="afterhour">
                                       <strong class="event-name">Abertura</strong>
@@ -424,7 +424,7 @@
                             </span>
                           </div>
 
-                          <ul class="day2" style="display:none">
+                          <ul class="day2">
                               <li class="single-event" data-start="14:30" data-end="14:45" data-content="event-keyone" data-event="general">
                                   <div class="afterhour">
                                       <strong class="event-name">Abertura</strong>
@@ -541,7 +541,7 @@
                             </span>
                           </div>
 
-                          <ul class="day3" style="display:none">
+                          <ul class="day3">
                               <li class="single-event" data-start="14:30" data-end="14:45" data-content="event-keyone" data-event="general">
                                   <div class="afterhour">
                                       <strong class="event-name">Abertura</strong>
@@ -823,6 +823,15 @@
         </script>
         <script>
         $(function() {
+          $(window).on('resize', function(event){
+              var windowWidth = $(window).width();
+              if(windowWidth > 700){
+                console.log("HERE!!");
+                $('.day1').css("display", "block");
+                $('.day2').css("display", "block");
+                $('.day3').css("display", "block");
+              }
+          });
         	$('#day1').on('click', function(e) {
 
         		e.preventDefault();

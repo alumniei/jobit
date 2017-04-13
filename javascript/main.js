@@ -1,5 +1,13 @@
 jQuery(document).ready(function($){
 
+	$( ".round-img" ).hover(function() {
+		$( this ).parent().parent().find("p").css('opacity',1.0);
+	});
+
+$( ".round-img" ).mouseleave(function() {
+$( this ).parent().parent().find("p").css('opacity',0.0);
+});
+
 	var transitionEnd = 'webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend';
 	var transitionsSupported = ( $('.csstransitions').length > 0 );
 	//if browser does not support transitions - use a different event to trigger them

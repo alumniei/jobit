@@ -192,7 +192,7 @@ ol, ul {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     height: 150px;
-    box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 -3px 0 rgba(71, 71, 107, 0.2);
     margin-right: 20px;
     -webkit-transition: opacity .2s, background .2s;
     transition: opacity .2s, background .2s;
@@ -347,7 +347,7 @@ ol, ul {
 
 .cd-schedule .event-name, .cd-schedule .event-date {
     display: block;
-    color: #f3e9e8;
+    color: #47476b;
     font-weight: bold;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -368,9 +368,9 @@ ol, ul {
 
 }
 .cd-schedule .company-category{
-  background-color: white;
-  color:#2A841C;
-  border: solid 2px #55AB47;
+  background-color: #47476b;
+  color:white;
+  border: solid 2px #47476b;
   width:120px;
   display: inline-block;
 }
@@ -404,53 +404,55 @@ li.single-event {
 
 .cd-schedule .single-event[data-event="consultoria"], .cd-schedule [data-event="consultoria"] .header-bg {
   font-weight: bold;
-  color: #555;
-  background-color: white;
-  border-bottom: solid 2px #78BCB5;
+  color: white;
+  background-color: #C9D8D0;
+  border-bottom: solid 2px #47476b;
   margin:auto;
 }
 
 .cd-schedule .single-event[data-event="consultoria"]:hover {
-    background: #d2d8e0;
+    background: #b5c9bf;
 }
 
 .cd-schedule .single-event[data-event="development"], .cd-schedule [data-event="development"] .header-bg {
   font-weight: bold;
-  color: #555;
-  background-color: white;
-  border-bottom: solid 2px #78BCB5;
+  color: white;
+  background-color: #C9D8D0;
+  border-bottom: solid 2px #47476b;
   margin:auto;
 }
 
 
 .cd-schedule .single-event[data-event="development"]:hover {
-    background: #cfe3e2;
+    background: #b5c9bf;
 }
 
 .cd-schedule .single-event[data-event="games"], .cd-schedule [data-event="games"] .header-bg {
   font-weight: bold;
-  color: #555;
-  background-color: white;
-  border-bottom: solid 2px #78BCB5;
+  color: white;
+  background-color: #C9D8D0;
+  border-bottom: solid 2px #47476b;
   margin:auto;
 }
 
 .cd-schedule .single-event[data-event="games"]:hover {
-    background: #b1cce7;
+    background: #b5c9bf;
 }
 
 .cd-schedule .single-event[data-event="general"], .cd-schedule [data-event="general"] .header-bg {
-  background-color: rgba(227, 94, 95, 0.73);
+  background-color: #e1eae5;
   font-weight: 800;
-  color:#624f62;
+  color:#f0e6ff;
+  /*
   border-bottom: solid 2px #624f62;
   border-top: solid 2px #624f62;
+  */
   font-family: SoftLine;
   margin:auto;
 }
 
 .cd-schedule .single-event[data-event="general"]:hover {
-    background: #C9D8D1;
+    background: #e1eae5;
 }
 
 .cd-schedule .event-modal {
@@ -493,6 +495,8 @@ li.single-event {
     max-width: 200px;
     max-height:85px;
     margin-bottom:5px;
+    padding-top: 10px;
+    
 }
 
 .cd-schedule .event-modal .header .content {
@@ -502,7 +506,7 @@ li.single-event {
     display: table-cell;
     vertical-align: middle;
     padding: .6em 5%;
-  background-color:#78BCB5;
+  background-color:#C9D8D0;
 }
 
 .cd-schedule .event-modal .body {
@@ -520,7 +524,7 @@ li.single-event {
     line-height: 1.4;
     height: 100%;
     overflow: hidden;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans";
     text-align: justify;
     background-color: white;
 }
@@ -531,9 +535,11 @@ li.single-event {
   text-align:center;
   width:100%;
   margin-top:20px;
+  font-family: "Open Sans";
 }
 
 .cd-schedule .event-modal .event-info p{
+    text-align: justify;
 }
 
 .cd-schedule .event-modal .event-info>div {
@@ -762,6 +768,7 @@ li.single-event {
 .cd-schedule.modal-is-open .event-modal .person{
     display:inline-block;
     margin-top:5px;
+    padding-top:10px;
 }
 .cd-schedule.modal-is-open .event-modal .event-info>div {
     /* smooth scroll on iOS touch devices */

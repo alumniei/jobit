@@ -6,15 +6,15 @@ Main Components
 
 .calendario {
     /* background: rgba(255, 255, 255, 0.35); */
-    background-color: #f0f5f5;
+    background-color: #fafdfd;
     padding:5px;
 }
 .calendario h3{
   text-align: center;
-  color:black;
+  color:#624f62;
   display: inline-block;
-  padding: 1.875rem;
-  font-size: 40px;
+  padding: 1rem;
+  font-size: 55px;
   font-family: SoftLine;
   text-align: center;
   margin-top:40px;
@@ -141,10 +141,10 @@ Main Components
     font-weight: normal;
     margin-bottom: 0;
     border-radius: 10px;
-    border: solid 2px #30A195;
+    border: solid 2.5px #624f62;
     padding: 5px 10px;
     background-color: white;
-    color: #30A195;
+    color: #30a195;
     width: 45%;
     margin: auto;
     font-family: SoftLine;
@@ -274,11 +274,11 @@ ol, ul {
         font-weight: normal;
         margin-bottom: 0;
         border-radius: 10px;
-        border: solid 2px #30A195;
+        border: solid 2.5px #624f62;
         padding: 5px 10px;
         background-color: white;
-        color: #30A195;
-        width: 45%;
+        color: #30a195;
+        width: 60%;
         margin: auto;
         font-family: SoftLine;
         font-size: 30px;
@@ -347,7 +347,15 @@ ol, ul {
 
 .cd-schedule .event-name, .cd-schedule .event-date {
     display: block;
-    color: #47476b;
+    color: #f3e9e8;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.cd-schedule .event-name-2, .cd-schedule .event-date-2 {
+    display: block;
+    color: #ffffff;
     font-weight: bold;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -414,6 +422,7 @@ li.single-event {
   margin:auto;
 }
 
+
 .cd-schedule .single-event[data-event="development"]:hover {
     background: #cfe3e2;
 }
@@ -431,11 +440,11 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="general"], .cd-schedule [data-event="general"] .header-bg {
-  background-color: #BDF7B4;
+  background-color: rgba(227, 94, 95, 0.73);
   font-weight: 800;
-  color:#53D43F;
-  border-bottom: solid 2px #53D43F;
-  border-top: solid 2px #53D43F;
+  color:#624f62;
+  border-bottom: solid 2px #624f62;
+  border-top: solid 2px #624f62;
   font-family: SoftLine;
   margin:auto;
 }
@@ -799,6 +808,6 @@ li.single-event {
 }
 
 .top-info .fa{
-  color: #30A195;
-  font-size: 0.85em;
+  color: #e35e5f;
+  font-size: 0.8em;
 }

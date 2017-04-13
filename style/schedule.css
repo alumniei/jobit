@@ -20,6 +20,12 @@ Main Components
   margin-top:40px;
   padding-top:10px; !important
 }
+.calendario .day1, .calendario .day2, .calendario .day3{
+    display: block;
+}
+.calendario .no-display{
+  display: none;
+}
 .cd-schedule {
     position: relative;
     margin: 2em 0;
@@ -119,6 +125,7 @@ Main Components
     width: 100%;
     padding: 0 5%;
     color: #47476b;
+    margin-bottom:10px;
 }
 
 .cd-schedule .events .top-info>span {
@@ -127,8 +134,28 @@ Main Components
     margin-bottom: 20px;
     font-weight: bold !important;
     font-size: 1.5em;
+
+    vertical-align: middle;
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 0;
+    border-radius: 10px;
+    border: solid 2px #30A195;
+    padding: 5px 10px;
+    background-color: white;
+    color: #30A195;
+    width: 45%;
+    margin: auto;
+    font-family: SoftLine;
+    font-size: 30px;
 }
 
+@media only screen and (max-width: 660px) {
+    .cd-schedule .events .top-info>span {
+        width: 70%;
+        font-size: 25px;
+    }
+}
 
 
 ol, ul {
@@ -144,7 +171,7 @@ ol, ul {
     /* force its children to stay on one line */
     display: -webkit-box;
     display: -ms-flexbox;
-    display: block;
+    display: none;
     -webkit-overflow-scrolling: touch;
 }
 
@@ -218,24 +245,31 @@ ol, ul {
         /* vertically center its content */
         display: table;
         height: 100px;
-        border-bottom: 1px solid #ffffff;
         /* reset style */
         padding: 0;
     }
     .cd-schedule .events .top-info>span {
         /* vertically center inside its parent */
-        display: table-cell;
+        /*display: table-cell;*/
         vertical-align: middle;
-        padding: 0 .5em;
         text-align: center;
         /* reset style */
         font-weight: normal;
         margin-bottom: 0;
+        border-radius: 10px;
+        border: solid 2px #30A195;
+        padding: 5px 10px;
+        background-color: white;
+        color: #30A195;
+        width: 45%;
+        margin: auto;
+        font-family: SoftLine;
+        font-size: 30px;
     }
     .cd-schedule .events .events-group>ul {
-        height: 1750px;
+        height: 2100px;
         /* reset style */
-        display: block;
+        display: none;
         overflow: visible;
         padding: 0;
     }
@@ -300,58 +334,39 @@ ol, ul {
 }
 
 .cd-schedule .event-name {
-    font-size: 1.6rem;
+    font-size: 2em;
+    font-family: SoftLine;
     /* padding-top: 10px; */
 
 }
-
-
 .cd-schedule .company-category{
-  -moz-border-radius: 15px;
-  border-radius: 15px;
-  border: 1px solid #47476b;
-  padding:5px;
-  font-size: 1rem;
-  line-height: 1.2;
-  margin-bottom: .2em;
-  margin: 0 5px 0 0;
-  color:#fff;
-  background-color:#47476b;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: bold;
-
-
-
+  background-color: white;
+  color:#2A841C;
+  border: solid 2px #55AB47;
+  width:120px;
+  display: inline-block;
 }
-
 .cd-schedule .company-category-tech{
-  -moz-border-radius: 15px;
-  border-radius: 15px;
-  border: 1px solid #47476b;
-  padding:5px;
-  font-size: 1rem;
-  line-height: 1.2;
-  margin-bottom: .2em;
-  margin: 0 5px 0 0;
-  color:#fff;
-  background-color:#9494b8;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  background-color: white;
+  color:#27274E;
+  border: solid 2px #47476b;
+  width:120px;
+  display: inline-block;
 }
 
 @media only screen and (min-width: 800px) {
     .cd-schedule .event-name {
-        font-size: 2rem;
+        font-size: 2em;
         font-family: Softline;
     }
 }
 
 .cd-schedule .event-date {
     /* they are not included in the the HTML but added using JavScript */
-    font-size: 1rem;
-    opacity: .7;
+    font-size: 1em;
     line-height: 1.2;
     margin-bottom: .2em;
+    font-family: SoftLine;
 }
 
 li.single-event {
@@ -433,7 +448,7 @@ li.single-event {
 
 .cd-schedule .event-modal .header {
     position: relative;
-    height: 70px;
+    height: 40%;
     /* vertically center its content */
     display: table;
     width: 100%;
@@ -448,6 +463,7 @@ li.single-event {
     width:auto;
     max-width: 200px;
     max-height:85px;
+    margin-bottom:5px;
 }
 
 .cd-schedule .event-modal .header .content {
@@ -457,13 +473,16 @@ li.single-event {
     display: table-cell;
     vertical-align: middle;
     padding: .6em 5%;
+  background-color:#78BCB5;
 }
 
 .cd-schedule .event-modal .body {
-    position: relative;
     width: 100%;
+    height:60%;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
     /* 70px is the .header height */
-    height: calc(100% - 70px);
+    /*height: calc(100% - 70px);*/
 }
 
 .cd-schedule .event-modal .event-info {
@@ -474,12 +493,15 @@ li.single-event {
     overflow: hidden;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: justify;
+    background-color: white;
 }
 
 .cd-schedule .event-modal .event-info h3{
   font-weight:bold;
   color:#47476b;
   text-align:center;
+  width:100%;
+  margin-top:20px;
 }
 
 .cd-schedule .event-modal .event-info p{
@@ -488,7 +510,7 @@ li.single-event {
 .cd-schedule .event-modal .event-info>div {
     overflow: auto;
     height: 100%;
-    padding: 1.4em 5%;
+    padding: 1.4em 10%;
 }
 
 .cd-schedule .event-modal .header-bg, .cd-schedule .event-modal .body-bg {
@@ -520,7 +542,6 @@ li.single-event {
     color: white;
     font-weight: bold;
     font-size: 1em;
-    margin-bottom: 2em;
     margin-top: 0.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -576,13 +597,13 @@ li.single-event {
     top: 0;
     right: 0;
     z-index: 3;
-    background: rgba(0, 0, 0, 0.1);
+    background:#70A6A4;
     /* replace text with icon */
-    color: transparent;
     white-space: nowrap;
     text-indent: 100%;
-    height: 70px;
-    width: 70px;
+    height: 50px;
+    width: 50px;
+    opacity:0.7;
 }
 
 .cd-schedule .event-modal .close::before, .cd-schedule .event-modal .close::after {
@@ -642,11 +663,8 @@ li.single-event {
         transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
     }
     .cd-schedule .event-modal .header {
-        position: absolute;
         display: block;
-        top: 0;
-        left: 0;
-        height: 100%;
+        height: 40%;
     }
     .cd-schedule .event-modal .header .content {
         /* reset style */
@@ -657,8 +675,10 @@ li.single-event {
         padding: 2em 3em 2em 2em;
     }
     .cd-schedule .event-modal .body {
-        height: 100%;
+        height: 60%;
         width: auto;
+        overflow-y:hidden;
+        margin-top:25px;
     }
     .cd-schedule .event-modal .header-bg, .cd-schedule .event-modal .body-bg {
         /* Force Hardware acceleration */
@@ -681,9 +701,6 @@ li.single-event {
         -webkit-transform: none;
         -ms-transform: none;
         transform: none;
-    }
-    .cd-schedule .event-modal .event-date {
-        display: block;
     }
     .cd-schedule .event-modal .close, .cd-schedule .event-modal .event-info {
         opacity: 0;
@@ -711,8 +728,12 @@ li.single-event {
     -ms-transform: translateX(0);
     transform: translateX(0);
     visibility: visible;
+    overflow: hidden;
 }
-
+.cd-schedule.modal-is-open .event-modal .person{
+    display:inline-block;
+    margin-top:5px;
+}
 .cd-schedule.modal-is-open .event-modal .event-info>div {
     /* smooth scroll on iOS touch devices */
     -webkit-overflow-scrolling: touch;
@@ -755,4 +776,9 @@ li.single-event {
 .cd-schedule.modal-is-open .cover-layer {
     opacity: 1;
     visibility: visible;
+}
+
+.top-info .fa{
+  color: #30A195;
+  font-size: 0.85em;
 }

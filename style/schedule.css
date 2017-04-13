@@ -411,11 +411,11 @@ li.single-event {
 }
 
 .cd-schedule .single-event[data-event="general"], .cd-schedule [data-event="general"] .header-bg {
-  background-color: #CAF4F0;
+  background-color: #BDF7B4;
   font-weight: 800;
-  color:#19756B;
-  border-bottom: solid 2px #78BCB5;
-  border-top: solid 2px #78BCB5;
+  color:#53D43F;
+  border-bottom: solid 2px #53D43F;
+  border-top: solid 2px #53D43F;
   font-family: SoftLine;
   margin:auto;
 }

@@ -498,10 +498,11 @@ li.single-event {
     margin: auto;
     height:auto;
     width:auto;
-    max-width: 230px;
-    max-height:130px;
-    margin-bottom:40px;
-    padding-top: 20px;
+    max-width: 200px;
+    max-height:85px;
+    margin-bottom: 5px;
+
+
 
 }
 
@@ -540,12 +541,16 @@ li.single-event {
   color:#47476b;
   text-align:center;
   width:100%;
-  margin-top:20px;
   font-family: "Open Sans";
+}
+
+p#final {
+  margin-bottom: 200px;
 }
 
 .cd-schedule .event-modal .event-info p{
     text-align: justify;
+
 }
 
 .cd-schedule .event-modal .event-info>div {
@@ -610,8 +615,8 @@ li.single-event {
 
 .speaker-img {
     border-radius: 50%;
-    width: 90px;
-    height: 90px;
+    width: 80px;
+    height: 80px;
     background-size: 80px 80px;
     background-repeat: no-repeat;
     margin: auto;
@@ -778,11 +783,8 @@ li.single-event {
 }
 .cd-schedule.modal-is-open .event-modal .person{
     display:inline-block;
-    margin-right: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px !important;
-    /*margin-top:5px;*/
-    /*padding-top:10px;*/
+    margin-top: 5px;
+    padding-top:10px;
 }
 .cd-schedule.modal-is-open .event-modal .event-info>div {
     /* smooth scroll on iOS touch devices */

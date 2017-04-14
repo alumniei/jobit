@@ -29,6 +29,9 @@ $( this ).parent().parent().find("p").css('opacity',0.0);
 		this.singleEvents = this.eventsGroup.find('.single-event');
 		this.eventSlotHeight = 20+this.eventsGroup.eq(0).children('.top-info').outerHeight();
 
+		if(this.eventSlotHeight<120)
+			this.eventSlotHeight = 120;
+
 		this.modal = this.element.find('.event-modal');
 		this.modalHeader = this.modal.find('.header');
 		this.modalHeaderBg = this.modal.find('.header-bg');
@@ -52,6 +55,9 @@ $( this ).parent().parent().find("p").css('opacity',0.0);
 		if( mq == 'desktop' && !this.element.hasClass('js-full') ) {
 			//in this case you are on a desktop version (first load or resize from mobile)
 			this.eventSlotHeight = 20+this.eventsGroup.eq(0).children('.top-info').outerHeight();
+			if(this.eventSlotHeight<120)
+				this.eventSlotHeight = 120;
+
 			this.element.addClass('js-full');
 			this.placeEvents();
 			this.element.hasClass('modal-is-open') && this.checkEventModal();
@@ -106,12 +112,12 @@ $( this ).parent().parent().find("p").css('opacity',0.0);
 			var eventTop = self.eventSlotHeight*(start - self.timelineStart)/self.timelineUnitDuration,
 				eventHeight = self.eventSlotHeight*duration/self.timelineUnitDuration;
 
+
 			$(this).css({
 				top: (eventTop-5) +'px',
 				height: (eventHeight+1)+'px'
 			});
 		});
-
 		this.element.removeClass('loading');
 	};
 
@@ -129,7 +135,6 @@ $( this ).parent().parent().find("p").css('opacity',0.0);
 		this.modalBody.find('.event-info').load('events/'+event.parent().attr('data-content')+'.html .event-info > *', function(data){
 			//once the event content has been loaded
 			self.element.addClass('content-loaded');
-			console.log("added images cycle");
 		});
 
 

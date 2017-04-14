@@ -496,7 +496,7 @@ li.single-event {
     max-height:85px;
     margin-bottom:5px;
     padding-top: 10px;
-    
+
 }
 
 .cd-schedule .event-modal .header .content {
@@ -724,6 +724,7 @@ li.single-event {
         backface-visibility: hidden;
     }
     .cd-schedule .event-modal .header-bg {
+      background-color: white;
         -webkit-transition: -webkit-transform .4s;
         transition: -webkit-transform .4s;
         transition: transform .4s;
@@ -764,6 +765,7 @@ li.single-event {
     transform: translateX(0);
     visibility: visible;
     overflow: hidden;
+    background-color: white;
 }
 .cd-schedule.modal-is-open .event-modal .person{
     display:inline-block;

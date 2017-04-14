@@ -373,6 +373,7 @@ ol, ul {
   border: solid 2px #47476b;
   width:120px;
   display: inline-block;
+  font-family: Open sans;
 }
 .cd-schedule .company-category-tech{
   background-color: white;
@@ -380,6 +381,7 @@ ol, ul {
   border: solid 2px #47476b;
   width:120px;
   display: inline-block;
+  font-family: Open sans;
 }
 
 @media only screen and (min-width: 800px) {
@@ -492,10 +494,10 @@ li.single-event {
     margin: auto;
     height:auto;
     width:auto;
-    max-width: 200px;
-    max-height:85px;
-    margin-bottom:5px;
-    padding-top: 10px;
+    max-width: 230px;
+    max-height:130px;
+    margin-bottom:40px;
+    padding-top: 20px;
 
 }
 
@@ -574,7 +576,7 @@ li.single-event {
 
 .cd-schedule .event-modal .speaker-label {
     display: inline-block;
-    color: white;
+    color: #47476b;
     font-weight: bold;
     font-size: 1em;
     margin-top: 0.5em;
@@ -582,11 +584,14 @@ li.single-event {
     -moz-osx-font-smoothing: grayscale;
     -moz-border-radius: 15px;
     border-radius: 15px;
-    border: 1px solid #47476b;
-    background-color:#47476b;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 2px solid #47476b;
+    background-color:rgba(256,256,256,0.7);
+    font-family: Open sans;
     font-weight: bold;
-    padding:5px;
+    padding-top:3px;
+    padding-bottom:3px;
+    width: 160px;
+    margin-top: 10px;
 
 
 
@@ -601,8 +606,8 @@ li.single-event {
 
 .speaker-img {
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     background-size: 80px 80px;
     background-repeat: no-repeat;
     margin: auto;
@@ -769,8 +774,11 @@ li.single-event {
 }
 .cd-schedule.modal-is-open .event-modal .person{
     display:inline-block;
-    margin-top:5px;
-    padding-top:10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px !important;
+    /*margin-top:5px;*/
+    /*padding-top:10px;*/
 }
 .cd-schedule.modal-is-open .event-modal .event-info>div {
     /* smooth scroll on iOS touch devices */

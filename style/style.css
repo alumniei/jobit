@@ -23,9 +23,9 @@
     color: #ddd;
     padding-top: 20px;
     padding-bottom: 10px;
-    background-color: #30A195;
+    background-color: #6dbdb5;
     padding: 1.875rem;
-    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-family: Open sans;
 }
 
 #about {
@@ -68,7 +68,7 @@
 
 
 #details {
-    background: #30A195;
+    background: #6dbdb5;
     padding: 1.875rem;
     font-size: 22px;
     font-family: SoftLine;
@@ -87,6 +87,7 @@
 
 .previous-years {
     display: inline-block;
+    font-size: 17px;
 }
 
 .previous-years>a {
@@ -96,6 +97,7 @@
 
 .mail>a {
     color: rgba(255, 255, 255, 0.7);
+    font-size: 18px;
 }
 
 .mail:hover>a {
@@ -131,14 +133,14 @@
     z-index: 2;
     width: 100%;
     text-align: center;
-    background-color: #624f62;
+    background-color: #47476b;
 
 }
 
 #team .columns {
-    width: 90px;
+    width: 120px;
     height: 90px;
-    /* margin-top: 50px; */
+     margin-top: 20px;
     margin-bottom: 50px;
 
 
@@ -148,7 +150,7 @@
     display: inline-block;
     text-align: center;
     color: #624f62;
-    font-family: Open Sans;
+    font-family: Open sans;
 }
 
 #team .columns p {
@@ -158,18 +160,22 @@
    white-space: nowrap;
    width:100%;
    color:white;
-   padding-top:35px;
+   padding-top:45px;
    font-family: "Open Sans";
-   font-weight: bold;
+   font-family: Open sans;
 }
 
 #team .round-img:hover{
   transform: scale(1.8);
+
+  .columns p{
+    margin-top: 20px;
+  }
 }
 .round-img {
     border-radius: 50%;
-    width: 65px;
-    height: 65px;
+    width: 100px;
+    height: 100px;
     background-size: 65px 65px;
     background-repeat: no-repeat;
     margin: auto;
@@ -200,8 +206,8 @@
 
 .speaker-img {
     border-radius: 50%;
-    width: 65px;
-    height: 65px;
+    width: 100px;
+    height: 100px;
     background-size: 65px 65px;
     background-repeat: no-repeat;
     margin: auto;
@@ -221,7 +227,12 @@
 
 .social>a {
     font-family: SoftLine;
-    padding-left:15px;
+    padding-left:5px;
+    padding-bottom:5px;
+}
+
+.col-md-4{
+  padding-bottom: 10px;
 }
 
 .fi {
@@ -234,6 +245,10 @@
     color: rgba(255, 255, 255, 1);
 }
 
+#team .row{
+  padding-bottom: 25px;
+}
+
 @media only screen and (max-width: 600px) {
     #logo>h3 {
         margin: 20px 0px;
@@ -241,11 +256,22 @@
     }
 
     #team .columns p {
-      opacity:1;
+      opacity:0;
       font-size:1em;
-      padding-top:15px;
+      padding-top:45px;
+      font-family: Open sans;
 
 
+    }
+
+    .previous-years {
+        display: inline-block;
+        font-size: 13px;
+    }
+
+    .mail>a {
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 13px;
     }
 }
 
@@ -256,9 +282,11 @@
     }
 
     #team .columns p {
-      opacity:1;
+      opacity:0;
       font-size:1em;
-      padding-top:15px;
-      
+      padding-top:45px;
+      font-family: Open sans;
+
     }
+
 }

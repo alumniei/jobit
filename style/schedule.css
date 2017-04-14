@@ -347,7 +347,7 @@ ol, ul {
 
 .cd-schedule .event-name, .cd-schedule .event-date {
     display: block;
-    color: #47476b;
+    color: #fafdfd;
     font-weight: bold;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -407,8 +407,8 @@ li.single-event {
 .cd-schedule .single-event[data-event="consultoria"], .cd-schedule [data-event="consultoria"] .header-bg {
   font-weight: bold;
   color: white;
-  background-color: #C9D8D0;
-  border-bottom: solid 2px #47476b;
+  background-color: rgba(48, 161, 149, 0.75);
+  border-bottom: solid 2px #e1eae5;
   margin:auto;
 }
 
@@ -419,9 +419,13 @@ li.single-event {
 .cd-schedule .single-event[data-event="development"], .cd-schedule [data-event="development"] .header-bg {
   font-weight: bold;
   color: white;
-  background-color: #C9D8D0;
-  border-bottom: solid 2px #47476b;
+  background-color: rgba(48, 161, 149, 0.75);
+  border-bottom: solid 2px #e1eae5;
   margin:auto;
+}
+
+.cd-schedule [data-event="general"] .event-name,  .cd-schedule [data-event="general"] .event-date{
+  color: #47476b;
 }
 
 
@@ -432,8 +436,8 @@ li.single-event {
 .cd-schedule .single-event[data-event="games"], .cd-schedule [data-event="games"] .header-bg {
   font-weight: bold;
   color: white;
-  background-color: #C9D8D0;
-  border-bottom: solid 2px #47476b;
+  background-color: rgba(48, 161, 149, 0.75);
+  border-bottom: solid 2px #e1eae5;
   margin:auto;
 }
 

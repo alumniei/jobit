@@ -119,8 +119,19 @@
     color: #fff;
     font-weight: bold;
 }
-
-#logo>h3, h4 {
+#dates h3 {
+    font-family: SoftLine;
+    font-weight: bold;
+    width: 170px;
+    margin: auto;
+    font-size: 1.8em;
+    color: white;
+    background-color: rgba(255,255,255,0.3);
+    border: solid 1px white;
+    border-radius: 4px;
+    padding: 12px 0px;
+}
+#dates h4 {
     font-family: SoftLine;
     width: 100%;
     color: rgba(45, 220, 204, 0.8);

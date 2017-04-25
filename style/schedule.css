@@ -220,6 +220,21 @@ ol, ul {
     height: 50%;
     padding: .8em;
 }
+.afterhour h3 {
+  text-align: center;
+  color: rgb(0, 168, 150);
+  display: inline-block;
+  padding: 0.2em 0.3em;
+  font-size: 1.5em;
+  font-family: SoftLine;
+  text-align: center;
+  margin-top: 0px;
+  font-weight: 900;
+  /* padding-top: 10px; */
+  border: 1px solid rgb(0, 168, 150);
+  border-radius: 4px;
+  /* text-decoration: underline; */
+}
 /*
 @media only screen and (min-width: 550px) {
     .cd-schedule .events .single-event {

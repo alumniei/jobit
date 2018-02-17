@@ -4,9 +4,16 @@ jQuery(document).ready(function($){
 		$( this ).parent().parent().find("p").css('opacity',1.0);
 	});
 
-$( ".round-img" ).mouseleave(function() {
-$( this ).parent().parent().find("p").css('opacity',0.0);
-});
+    $( ".round-img" ).mouseleave(function() {
+        $( this ).parent().parent().find("p").css('opacity',0.0);
+    });
+    
+    $(function() {
+      $('#scroll-down-btn').on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+      });
+    });
 
 	var transitionEnd = 'webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend';
 	var transitionsSupported = ( $('.csstransitions').length > 0 );

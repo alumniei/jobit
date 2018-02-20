@@ -3,17 +3,8 @@ html {
     min-height: 100%;
 }
 
-body {
-    margin: 0 0 200px;
-}
-
-@font-face {
-    font-family: SoftLine;
-    src: url("font/SoftLine.otf") format("opentype");
-}
-
-.body {
-    font-family: "Open Sans";
+* {
+    font-family: 'Rubik', sans-serif;
 }
 
 .full-screen {
@@ -44,7 +35,7 @@ body {
     color: #ddd;
     padding-top: 20px;
     padding-bottom: 10px;
-    background-color: #2D4884;
+    /*background-color: #2D4884;*/
     padding: 1.875rem;
     font-family: Open sans;
 }
@@ -126,7 +117,6 @@ body {
     display: inline-block;
     padding-right: 15px;
     padding-left: 15px;
-    font-family: SoftLine;
 }
 
 #about .icon-content {
@@ -139,9 +129,8 @@ body {
   display: inline-block;
   padding: 1.875rem;
   font-size: 40px;
-  font-family: SoftLine;
   text-align: center;
-  padding-top:10px; !important
+  padding-top:10px important!
 }
 
 
@@ -149,7 +138,6 @@ body {
     background: #6dbdb5;
     padding: 1.875rem;
     font-size: 22px;
-    font-family: SoftLine;
 }
 
 #details .columns,
@@ -198,8 +186,6 @@ body {
     font-weight: bold;
 }
 #dates h3 {
-    font-family: SoftLine;
-    font-weight: bold;
     width: 170px;
     margin: auto;
     font-size: 1.8em;
@@ -210,12 +196,12 @@ body {
     padding: 12px 0px;
 }
 #dates h4 {
-    font-family: SoftLine;
     width: 100%;
     color: rgba(255, 255, 255, 0.8);
-    font-weight: bold;
-    font-size: 2.6em;
+    font-size: 2em;
     padding: 20px;
+    font-family: 'Titillium Web Light', sans-serif;
+
 }
 
 #team {
@@ -257,9 +243,7 @@ body {
 #team .round-img:hover{
   transform: scale(1.8);
 
-  .columns p{
-    margin-top: 20px;
-  }
+ 
 }
 .round-img {
     border-radius: 50%;
@@ -269,7 +253,7 @@ body {
     background-repeat: no-repeat;
     margin: auto;
 }
-/*
+
 #team .overlay {
   position:absolute;
   top:0px;
@@ -291,7 +275,7 @@ body {
   opacity: 1;
 }
 
-*/
+
 
 .speaker-img {
     border-radius: 50%;
@@ -315,7 +299,7 @@ body {
 }
 
 .social>a {
-    font-family: SoftLine;
+
     padding-left:5px;
     padding-bottom:5px;
 }

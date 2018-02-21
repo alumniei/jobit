@@ -4,7 +4,10 @@ html {
 }
 
 * {
-    font-family: 'Rubik', sans-serif;
+    /*font-family: 'Rubik', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Ubuntu', sans-serif;*/
+    /*font-family: 'Cairo', sans-serif;*/
 }
 
 .full-screen {
@@ -37,7 +40,6 @@ html {
     padding-bottom: 10px;
     /*background-color: #2D4884;*/
     padding: 1.875rem;
-    font-family: Open sans;
 }
 
 #about {
@@ -318,9 +320,19 @@ html {
     color: white;
 }
 
-#social-media .social a:hover {
-    color: #c3c2c2;
+#social-media .social .social-facebook:hover {
+    color: #3C5A99;
 }
+#social-media .social .social-instagram:hover {
+    color: #F84F4B;
+}
+#social-media .social .social-twitter:hover {
+    color: #00ACED;
+}
+#social-media .social .social-youtube:hover {
+    color: #FF0000;
+}
+
 .col-md-4{
   padding-bottom: 10px;
 }

@@ -26,6 +26,10 @@ html {
     padding: 20px;
 }
 
+#logo img {
+    width: 400px;
+}
+
 #footer {
     position: absolute;
     bottom: 0;

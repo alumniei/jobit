@@ -4,10 +4,7 @@ html {
 }
 
 * {
-    /*font-family: 'Rubik', sans-serif;*/
-    font-family: 'Roboto', sans-serif;
-    /*font-family: 'Ubuntu', sans-serif;*/
-    /*font-family: 'Cairo', sans-serif;*/
+    font-family: 'Quicksand', sans-serif;
 }
 
 .full-screen {
@@ -28,6 +25,25 @@ html {
 
 #logo img {
     width: 400px;
+}
+
+.hidden {
+    opacity:0;
+}
+.console-container {
+    text-align:center;
+    display:block;
+    color:white;
+    margin:auto;
+    width: 100%;
+    font-size: 2.5em;
+    padding: 20px;
+}
+.console-underscore {
+    display:inline-block;
+    position:relative;
+    top:-0.14em;
+    left:10px;
 }
 
 #footer {
@@ -163,7 +179,7 @@ html {
 }
 
 .previous-years>a {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 0.8);
     margin: auto;
     -webkit-transition: 0.1s ease-in-out;
     -moz-transition: 0.1s ease-in-out;
@@ -172,7 +188,7 @@ html {
 }
 
 .mail>a {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 0.8);
     font-size: 18px;
     text-decoration: none;
     -webkit-transition: 0.1s ease-in-out;
@@ -321,7 +337,7 @@ html {
     -moz-transition: 0.1s ease-in-out;
     -o-transition: 0.1s ease-in-out;
     transition: 0.1s ease-in-out;
-    color: white;
+    color: rgba(255, 255, 255, 0.8);
 }
 
 #social-media .social .social-facebook:hover {

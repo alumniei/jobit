@@ -244,6 +244,7 @@ footer i {
 }
 .Estilodecaracterenormal
 {
+	font-family : SoftLine;
 	font-size : 21px;
 	color : #FFFFFF;
 	color : rgb(255, 255, 255);
@@ -252,6 +253,7 @@ footer i {
 }
 .Estilodecaracterenormal2
 {
+	font-family : SoftLine;
 	font-size : 21px;
 	color : #FFFFFF;
 	color : rgb(255, 255, 255);

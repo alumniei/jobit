@@ -232,7 +232,11 @@ html {
 .schedule-day ul li > div {
   margin-left: 10px;
 }
-.schedule-day div .title, .schedule-day div .type {
+.schedule-day div .title {
+  font-weight: 900;
+  font-size: 16px;
+}
+.schedule-day div .type {
   font-weight: 600;
   font-size: 12px;
 }

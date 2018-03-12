@@ -182,28 +182,27 @@ html {
   padding: 1px 100px;
   color: black;
   font-size: 13px;
+  display: flex;
+  flex-direction: column;
 }
 .schedule-day ul:before {
   content: "";
   width: 1px;
   height: 100%;
   position: absolute;
-  border-left: 2px dashed #fff;
+  border-left: 2px solid #fff;
 }
 .schedule-day ul li {
   position: relative;
-  margin-left: 30px;
+  margin: 10px 0 10px 30px;
   background-color: rgba(255, 255, 255, 0.6);
   padding: 14px;
   border-radius: 6px;
   width: 250px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
 }
-.schedule-day ul li.spaced:not(:first-child) {
-  margin-top: 60px;
-}
-.schedule-day ul li:not(.spaced):not(:first-child) .number span:first-child {
-    display: none;
+.schedule-day ul li:not(:last-child) .number span:last-child {
+  display: none;
 }
 .schedule-day ul li > span {
   width: 2px;
@@ -223,6 +222,9 @@ html {
   background: #86b7e7;
   left: -5px;
   top: 0;
+}
+.schedule-day ul li:not(:last-child) > span:after {
+  content: none;
 }
 .schedule-day ul li span:after {
   top: 100%;

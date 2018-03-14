@@ -312,6 +312,14 @@ html {
     background: white;
     text-align: center;
     padding: 20px;
+    box-shadow: 0 0 0 1px #E2E9ED;
+    transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0.2s ease;
+}
+.team-member:hover {
+    z-index: 1;
+    box-shadow: 0 8px 50px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0s ease;
 }
 
 .team-member-photo {
@@ -323,6 +331,21 @@ html {
 
 .team-member-name {
     font-size: 30px;
+}
+
+.team-member-social {
+    opacity: 0;
+    margin: 0 0 -18px;
+    transition: margin 0.2s ease, opacity 0.2s ease;
+}
+
+.team-member:hover .team-member-social {
+    opacity: 1;
+    margin: 16px 0 0;
+}
+
+.team-member-social>* {
+    margin: 10px;
 }
 
 #social-media {

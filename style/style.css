@@ -296,6 +296,35 @@ html {
     color: #c3c2c2;
 }
 
+.team {
+    padding: 30px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.team-member {
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 16.666667%;
+    border: 1px solid #E2E9ED;
+    background: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.team-member-photo {
+    width: 98px;
+    height: 98px;
+    border-radius: 100%;
+    margin: 0 auto 20px;
+}
+
+.team-member-name {
+    font-size: 30px;
+}
+
 #social-media {
   font-size: 20px;
 }

@@ -307,13 +307,14 @@ html {
 .team-member {
     flex-grow: 0;
     flex-shrink: 1;
-    flex-basis: 16.666667%;
+    flex-basis: 14.2857%;
     border: 1px solid #E2E9ED;
     background: white;
     text-align: center;
     padding: 20px;
     box-shadow: 0 0 0 1px #E2E9ED;
     transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0.2s ease;
+    min-width: 15em;
 }
 .team-member:hover {
     z-index: 1;

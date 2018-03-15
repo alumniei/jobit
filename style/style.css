@@ -266,27 +266,41 @@ html, body {
 /* End of schedule */
 
 /* Team */
+#team {
+    background-color: #47476b;
+    margin-top: 100px;
+    padding-bottom: 70px;
+}
+
+#team h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    padding-top: 40px;
+    color: white;
+}
+
 .team {
     padding: 30px 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 100px;
 }
 
 .team-member {
     flex-grow: 0;
     flex-shrink: 1;
-    flex-basis: 14.2857%;
-    border: 1px solid #E2E9ED;
+    flex-basis: 10.2857%;
+    border: 1px solid #47476b;
     background: white;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 0 0 1px #E2E9ED;
+    box-shadow: 0 0 0 1px #47476b;
     transition: box-shadow 0.2s ease, transform 0.2s ease, z-index 0s 0.2s ease;
     min-width: 15em;
 }
 .team-member:hover {
+    border: 1px solid #E2E9ED;
     z-index: 1;
     box-shadow: 0 8px 50px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
@@ -301,7 +315,15 @@ html, body {
 }
 
 .team-member-name {
-    font-size: 30px;
+    font-size: 19px;
+    opacity: 0;
+    margin: 0 0 -30px;
+    transition: margin 0.2s ease, opacity 0.2s ease;
+}
+
+.team-member:hover .team-member-name {
+    opacity: 1;
+    margin: 0px 0 0;
 }
 
 .team-member-social {
@@ -334,49 +356,10 @@ html, body {
 }
 /* End of team */
 
-@media only screen and (max-width: 600px) {
-    #logo>h3 {
-        margin: 20px 0px;
-        font-size: 2em;
-    }
-
-    #team .columns p {
-      opacity:0;
-      font-size:1em;
-      padding-top:45px;
-      font-family: Open sans;
-    }
-
-    .previous-years {
-        display: inline-block;
-        font-size: 13px;
-    }
-
-    .mail>a {
-        color: rgba(255, 255, 255, 0.7);
-        font-size: 13px;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    #logo>h3 {
-        margin: 15px 0px;
-        font-size: 1.5em;
-    }
-
-    #team .columns p {
-      opacity:0;
-      font-size:1em;
-      padding-top:45px;
-      font-family: Open sans;
-    }
-}
-
-
 /* Footer */
 #footer {
     position: relative;
-    margin: 20px auto 0 auto;
+    margin: 0 auto;
     width: 100%;
     text-align: center;
     text-shadow: none;
@@ -416,19 +399,6 @@ html, body {
     font-size: 20px;
 }
 
-#social-media .fa{
-    color: rgba(255, 255, 255, 0.7)
-}
-
-#social-media .fa:hover {
-    color: rgba(255, 255, 255, 1)
-}
-
-.social>a {
-    padding-left:5px;
-    padding-bottom:5px;
-}
-
 #social-media .social a {
     -webkit-transition: 0.1s ease-in-out;
     -moz-transition: 0.1s ease-in-out;
@@ -439,5 +409,17 @@ html, body {
 
 #social-media .social a:hover {
     color: rgba(255, 255, 255, 1);
+}
+
+@media only screen and (max-width: 600px) {
+    .previous-years {
+        display: inline-block;
+        font-size: 13px;
+    }
+
+    .mail>a {
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 13px;
+    }
 }
 /* End of footer */

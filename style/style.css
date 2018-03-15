@@ -1,35 +1,55 @@
-html {
-    position: relative;
-    min-height: 100%;
+html, body {
+    width: 100%;
+    height: 100%;
 }
 
 * {
     font-family: 'Quicksand', sans-serif;
 }
 
-.full-screen {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+.fill {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-color: white;
+    z-index: -2;
+}
+
+.carousel-fixed {
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
+
+.carousel {
+    filter: brightness(30%);
+}
+
+#content {
+    background-color: white;
 }
 
 #introduction {
     text-align: center;
-    margin-top: 20vh;
-}
-
-#logo {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
     width: 100%;
-    padding: 20px;
+    overflow: hidden;
+    z-index: 1;
 }
 
-#logo img {
+#logo-date {
+    width: 100%;
+    top: 20%;
+    position: relative;
+}
+
+#logo-date img {
     width: 400px;
 }
 
-.hidden {
-    opacity:0;
-}
 .console-container {
     text-align:center;
     display:block;
@@ -39,6 +59,7 @@ html {
     font-size: 2.5em;
     padding: 20px;
 }
+
 .console-underscore {
     display:inline-block;
     position:relative;
@@ -46,115 +67,78 @@ html {
     left:10px;
 }
 
-#footer {
-    margin: 20px auto 0 auto;
-    width: 100%;
-    text-align: center;
-    text-shadow: none;
-    font-size: 14px;
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    /*background-color: #2D4884;*/
-    padding: 1.875rem;
-}
-
-#about {
-    background: #fafdfd;
-    padding: 70px;
-    width: 100%;
-    font-size: 2em;
-}
-
-#background-carousel {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    top: 0;
-    left: 0;
-    filter: brightness(30%);
-}
-
 /* Scroll down button */
 #scroll-down-btn {
     color: white;
     text-decoration: none;
 }
+
 #scroll-down-btn:hover {
     opacity: 0.5;
 }
 
 #scroll-down-btn div {
-  position: relative;
-  bottom: 30px;
-  left: 50%;
-  width: 24px;
-  height: 24px;
-  margin-left: -12px;
-  border-left: 1px solid #fff;
-  border-bottom: 1px solid #fff;
-  -webkit-transform: rotate(-45deg);
-  transform: rotate(-45deg);
-  -webkit-animation: sdb04 2s infinite;
-  animation: sdb04 2s infinite;
-  box-sizing: border-box;
+    position: absolute;
+    bottom: 100px;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-animation: sdb04 2s infinite;
+    animation: sdb04 2s infinite;
+    box-sizing: border-box;
 }
+
 @-webkit-keyframes sdb04 {
-  0% {
-    -webkit-transform: rotate(-45deg) translate(0, 0);
-  }
-  20% {
-    -webkit-transform: rotate(-45deg) translate(-10px, 10px);
-  }
-  40% {
-    -webkit-transform: rotate(-45deg) translate(0, 0);
-  }
+    0% {
+        -webkit-transform: rotate(-45deg) translate(0, 0);
+    }
+    20% {
+        -webkit-transform: rotate(-45deg) translate(-10px, 10px);
+    }
+    40% {
+        -webkit-transform: rotate(-45deg) translate(0, 0);
+    }
 }
+
 @keyframes sdb04 {
-  0% {
-    transform: rotate(-45deg) translate(0, 0);
-  }
-  20% {
-    transform: rotate(-45deg) translate(-10px, 10px);
-  }
-  40% {
-    transform: rotate(-45deg) translate(0, 0);
-  }
+    0% {
+        transform: rotate(-45deg) translate(0, 0);
+    }
+    20% {
+        transform: rotate(-45deg) translate(-10px, 10px);
+    }
+    40% {
+        transform: rotate(-45deg) translate(0, 0);
+    }
 }
 /* End of scroll down button */
 
-.fa{
-  font-size: 85%;
-  color: #3b3e3b;
-}
-
-#about .columns,
-#about .columns p {
+#icons {
+    position: relative;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 80px;
+    padding-bottom: 12px;
+    font-size: 22px;
+    margin-top: 3%;
+    margin-bottom: 3%;
     text-align: center;
-    color: #413D3E;
-    display: inline-block;
-    padding-right: 15px;
-    padding-left: 15px;
 }
 
-#about .icon-content {
-    font-size: 4em;
+#icons .col-md-2 p {
+    padding-top: 25px;
+    font-weight: bold;
+    font-size: 27px;
 }
-
-#team h3{
-  text-align: center;
-  color: white;
-  display: inline-block;
-  padding: 1.875rem;
-  font-size: 40px;
-  text-align: center;
-  padding-top:10px important!
-}
-
 
 #details {
-    background: #6dbdb5;
+    position: relative;
+    background: #2d4884;
     padding: 1.875rem;
     font-size: 22px;
 }
@@ -170,17 +154,34 @@ html {
     margin-bottom: 3%;
 }
 
+/* Schedule */
 .schedule {
     list-style-type: none;
 }
 
+#schedule {
+    margin-top: 30px;
+}
+#schedule h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.row-center {
+    text-align:center;
+}
+
+.col-center {
+    display:inline-block;
+    float:none;
+}
+
 .schedule-day ul {
-  margin: 0;
-  margin-top: 100px;
+  margin-top: 50px;
   list-style: none;
   position: relative;
-  padding: 1px 100px;
-  color: black;
+  color: #333;
   font-size: 13px;
   display: flex;
   flex-direction: column;
@@ -190,15 +191,15 @@ html {
   width: 1px;
   height: 100%;
   position: absolute;
-  border-left: 2px solid #fff;
+  border-left: 2px solid #333;
 }
 .schedule-day ul li {
   position: relative;
-  margin: 10px 0 10px 30px;
+  margin: 0px 0 10px 30px;
   background-color: rgba(255, 255, 255, 0.6);
   padding: 14px;
   border-radius: 6px;
-  width: 250px;
+  width: 300px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
 }
 .schedule-day ul li:not(:last-child) .number span:last-child {
@@ -207,19 +208,19 @@ html {
 .schedule-day ul li > span {
   width: 2px;
   height: 100%;
-  background: #fff;
+  background: #333;
   left: -30px;
   top: 0;
   position: absolute;
 }
 .schedule-day ul li > span:before, .schedule-day ul li > span:after {
   content: "";
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
-  border: 2px solid #fff;
+  border: 2px solid #333;
   position: absolute;
-  background: #86b7e7;
+  background: #2d4884;
   left: -5px;
   top: 0;
 }
@@ -234,7 +235,7 @@ html {
 }
 .schedule-day div .title {
   font-weight: 900;
-  font-size: 16px;
+  font-size: 25px;
 }
 .schedule-day div .type {
   font-weight: 600;
@@ -251,51 +252,20 @@ html {
 }
 .schedule-day span.number span {
   position: absolute;
-  font-size: 10px;
-  left: -35px;
+  font-size: 16px;
+  left: -47px;
   font-weight: bold;
-  color: white;
+  color: #333;
 }
 .schedule-day span.number span:first-child {
-  top: 0;
+  top: -6px;
 }
 .schedule-day span.number span:last-child {
   top: 100%;
 }
+/* End of schedule */
 
-.previous-years {
-    display: inline-block;
-    font-size: 17px;
-}
-
-.previous-years>a {
-    color: rgba(255, 255, 255, 0.8);
-    margin: auto;
-    -webkit-transition: 0.1s ease-in-out;
-    -moz-transition: 0.1s ease-in-out;
-    -o-transition: 0.1s ease-in-out;
-    transition: 0.1s ease-in-out;
-}
-
-.mail>a {
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 18px;
-    text-decoration: none;
-    -webkit-transition: 0.1s ease-in-out;
-    -moz-transition: 0.1s ease-in-out;
-    -o-transition: 0.1s ease-in-out;
-    transition: 0.1s ease-in-out;
-}
-
-.mail>a:hover {
-    color: #c3c2c2;
-}
-
-.previous-years>a:hover {
-    text-decoration: none;
-    color: #c3c2c2;
-}
-
+/* Team */
 .team {
     padding: 30px 50px;
     display: flex;
@@ -349,48 +319,6 @@ html {
     margin: 10px;
 }
 
-#social-media {
-  font-size: 20px;
-}
-
-#social-media .fa{
-  color: rgba(255, 255, 255, 0.7)
-}
-
-#social-media .fa:hover {
-  color: rgba(255, 255, 255, 1)
-}
-
-.social>a {
-    padding-left:5px;
-    padding-bottom:5px;
-}
-
-#social-media .social a {
-    -webkit-transition: 0.1s ease-in-out;
-    -moz-transition: 0.1s ease-in-out;
-    -o-transition: 0.1s ease-in-out;
-    transition: 0.1s ease-in-out;
-    color: rgba(255, 255, 255, 0.8);
-}
-
-#social-media .social .social-facebook:hover {
-    color: #3C5A99;
-}
-#social-media .social .social-instagram:hover {
-    color: #F84F4B;
-}
-#social-media .social .social-twitter:hover {
-    color: #00ACED;
-}
-#social-media .social .social-youtube:hover {
-    color: #FF0000;
-}
-
-.col-md-4{
-  padding-bottom: 10px;
-}
-
 .fi {
     color: rgba(255, 255, 255, 0.7);
     font-size: 1.6em;
@@ -404,6 +332,7 @@ html {
 #team .row{
   padding-bottom: 25px;
 }
+/* End of team */
 
 @media only screen and (max-width: 600px) {
     #logo>h3 {
@@ -416,8 +345,6 @@ html {
       font-size:1em;
       padding-top:45px;
       font-family: Open sans;
-
-
     }
 
     .previous-years {
@@ -442,7 +369,75 @@ html {
       font-size:1em;
       padding-top:45px;
       font-family: Open sans;
-
     }
-
 }
+
+
+/* Footer */
+#footer {
+    position: relative;
+    margin: 20px auto 0 auto;
+    width: 100%;
+    text-align: center;
+    text-shadow: none;
+    font-size: 14px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #2d4884;
+    padding: 1.875rem;
+}
+
+.previous-years>a {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 17px;
+    text-decoration: none;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+}
+
+.mail>a {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 18px;
+    text-decoration: none;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+}
+
+.mail>a:hover, .previous-years>a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+#social-media {
+    font-size: 20px;
+}
+
+#social-media .fa{
+    color: rgba(255, 255, 255, 0.7)
+}
+
+#social-media .fa:hover {
+    color: rgba(255, 255, 255, 1)
+}
+
+.social>a {
+    padding-left:5px;
+    padding-bottom:5px;
+}
+
+#social-media .social a {
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+#social-media .social a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+/* End of footer */

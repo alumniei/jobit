@@ -285,6 +285,10 @@ html, body {
     -webkit-transition: margin 0.2s ease, opacity 0.2s ease;
     transition: margin 0.2s ease, opacity 0.2s ease;
     font-size: 15px;
+    font-weight: 600;
+}
+.schedule-speaker-name.xing  {
+    margin: 0 0 -35px;
 }
 .schedule-day ul li:not(.diff):hover .schedule-speaker-name {
     margin: 5px 0 0;
@@ -394,6 +398,13 @@ button.close {
     padding-top: 20px;
     margin-bottom: 0;
 }
+.speakers-photo {
+    display:inline-block;
+    text-align:center;
+}
+.speakers-photo:not(:first-child) {
+    padding-left: 60px;
+}
 .speaker-photo {
     width: 100px;
     height: 100px;
@@ -405,9 +416,9 @@ button.close {
 .tab-content .speaker-name {
     text-align: center;
     font-weight: 600;
-    margin-bottom: 0;
     padding-top: 10px;
     font-size: 15px;
+    margin: 0 auto;
 }
 
 /* End of modals */

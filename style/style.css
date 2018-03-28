@@ -178,97 +178,239 @@ html, body {
 }
 
 .schedule-day ul {
-  margin-top: 50px;
-  list-style: none;
-  position: relative;
-  color: #333;
-  font-size: 13px;
-  display: flex;
-  flex-direction: column;
+    margin-top: 50px;
+    list-style: none;
+    position: relative;
+    color: #333;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
 }
 .schedule-day ul:before {
-  content: "";
-  width: 1px;
-  height: 100%;
-  position: absolute;
-  border-left: 2px solid #333;
+    content: "";
+    width: 1px;
+    height: 100%;
+    position: absolute;
+    border-left: 2px solid #333;
 }
 .schedule-day ul li {
-  position: relative;
-  margin: 0px 0 10px 30px;
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 28px 14px 28px 14px;
-  border-radius: 6px;
-  width: 300px;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
+    position: relative;
+    margin: 0px 0 10px 30px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 28px 14px 28px 14px;
+    border-radius: 1px;
+    width: 300px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
 }
 .schedule-day .diff {
-    background-color: #f7f7f7;
+    background-color: #ebebeb;
     padding-top: 40px;
     padding-bottom: 40px;
 }
+.schedule-day ul li:not(.diff):hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+    padding-bottom: 20px;
+}
 .schedule-day ul li:not(:last-child) .number span:last-child {
-  display: none;
+    display: none;
 }
 .schedule-day ul li > span {
-  width: 2px;
-  height: 100%;
-  background: #333;
-  left: -30px;
-  top: 0;
-  position: absolute;
+    width: 2px;
+    height: 100%;
+    background: #333;
+    left: -30px;
+    top: 0;
+    position: absolute;
 }
 .schedule-day ul li > span:before, .schedule-day ul li > span:after {
-  content: "";
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  border: 2px solid #333;
-  position: absolute;
-  background: #2d4884;
-  left: -5px;
-  top: 0;
+    content: "";
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid #333;
+    position: absolute;
+    background: #2d4884;
+    left: -5px;
+    top: 0;
 }
 .schedule-day ul li:not(:last-child) > span:after {
-  content: none;
+    content: none;
 }
 .schedule-day ul li span:after {
-  top: 100%;
+    top: 100%;
 }
 .schedule-day ul li > div {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 .schedule-day div .title {
-  font-weight: 900;
-  font-size: 25px;
+    font-weight: 900;
+    font-size: 25px;
 }
 .schedule-day div .type {
-  font-weight: 600;
-  font-size: 12px;
+    font-weight: 600;
+    font-size: 12px;
 }
 .schedule-day div .info {
-  font-weight: 300;
+    font-weight: 500;
+    font-size: 15px;
 }
 .schedule-day div > div {
-  margin-top: 5px;
+    margin-top: 5px;
 }
 .schedule-day span.number {
-  height: 100%;
+    height: 100%;
 }
 .schedule-day span.number span {
-  position: absolute;
-  font-size: 16px;
-  left: -47px;
-  font-weight: bold;
-  color: #333;
+    position: absolute;
+    font-size: 16px;
+    left: -47px;
+    font-weight: bold;
+    color: #333;
 }
 .schedule-day span.number span:first-child {
-  top: -6px;
+    top: -6px;
 }
 .schedule-day span.number span:last-child {
-  top: 100%;
+    top: 100%;
+}
+.schedule-speaker-name {
+    margin: 0 0 -18px;
+    padding: 0px;
+    opacity: 0;
+    -webkit-transition: margin 0.2s ease, opacity 0.2s ease;
+    transition: margin 0.2s ease, opacity 0.2s ease;
+    font-size: 15px;
+}
+.schedule-day ul li:not(.diff):hover .schedule-speaker-name {
+    margin: 5px 0 0;
+    opacity: 1;
 }
 /* End of schedule */
+
+/* Modals */
+
+div.modal-content{
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+
+    border: 0px;
+}
+
+.modal {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    .modal:before {
+        display: inline-block;
+        vertical-align: middle;
+        content: " ";
+        height: 100%;
+    }
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.modal.fade .modal-dialog {
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+    opacity: 0;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.modal.fade.in .modal-dialog {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+
+button.close {
+    font-size: 30px;
+    line-height: 0.2;
+}
+
+.nav-pills li {
+    padding: 8px;
+}
+.nav-pills li a {
+    background-color: white;
+    color: #333;
+    font-weight: 500;
+    font-size: 19px;
+    border-radius: 0px;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+}
+.nav-pills li a:hover, .nav-pills li.active a:hover, .nav-pills li.active a:focus {
+    background-color: inherit;
+    color: inherit;
+}
+.nav-pills li.active a{
+    background-color: inherit;
+    color: #333;
+    font-weight: 500;
+    font-size: 19px;
+    border-bottom: 2px solid #2d4884;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+}
+.tab-content {
+    padding: 25px;
+}
+.company-logo {
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+.biography {
+    text-align: justify;
+    font-weight: 600;
+    font-size: 15px;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+.speaker-photo {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
+}
+.tab-content .speaker-name {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+/* End of modals */
 
 /* Team */
 #team {

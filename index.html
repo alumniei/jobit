@@ -118,28 +118,26 @@
                                     <div class="title">Opening</div>
                                 </div> <span class="number"><span>14:30</span> <span>14:45</span></span>
                             </li>
-                            <li>
+                            <li data-toggle="modal" data-target="#xpandit-modal">
                                 <div><span></span>
                                     <div class="title">XpandIT</div>
-                                    
+                                    <div class="schedule-speaker-name">Luís Gomes</div>
                                 </div> <span class="number"><span>14:45</span> <span>15:05</span></span>
                             </li>
-                            <li>
+                            <li data-toggle="modal" data-target="#criticalsoft-modal">
                                 <div><span></span>
-                                    <div class="title">Critical Software</div>
-                                    
+                                    <div class="title">CRITICAL Software</div>
+                                    <div class="schedule-speaker-name">Sofia Oliveira</div>
                                 </div> <span class="number"><span>15:05</span> <span>15:25</span>
                             </li>
                             <li>
                                 <div><span></span>
                                     <div class="title">Accenture</div>
-                                    
                                 </div> <span class="number"><span>15:25</span> <span>15:45</span>
                             </li>
                             <li>
                                 <div><span></span>
                                     <div class="title">Bosch</div>
-                                    
                                 </div> <span class="number"><span>15:45</span> <span>16:05</span>
                             </li>
                             <li class="diff">
@@ -150,26 +148,22 @@
                             <li>
                                 <div><span></span>
                                     <div class="title">Blip</div>
-                                    
                                 </div> <span class="number"><span>16:35</span> <span>16:55</span>
                             </li>
                             <li>
                                 <div><span></span>
                                     <div class="title">HostelWorld</div>
                                     <div class="info">What skills do employers look for in college graduates?</div>
-                                    
                                 </div> <span class="number"><span>16:55</span> <span>17:25</span>
                             </li>
                             <li>
                                 <div><span></span>
                                     <div class="title">Life On Mars</div>
-                                    
                                 </div> <span class="number"><span>17:25</span> <span>17:45</span>
                             </li>
                             <li>
                                 <div><span></span>
                                     <div class="title">Jscrambler</div>
-                                    
                                 </div> <span class="number"><span>17:45</span> <span>18:05</span>
                             </li>
                             <li class="diff">
@@ -610,7 +604,63 @@
                     </div>
                 </div>
             </div>
+        </div>
 
+        <!-- Information modals for companies/speakers -->
+
+        <div id="xpandit-modal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <ul class="nav nav-pills nav-justified">
+                            <li class="active"><a data-toggle="pill" href="#xpandit">About Xpand IT</a></li>
+                            <li><a data-toggle="pill" href="#xpandit-speaker">Speaker</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div id="xpandit" class="tab-pane fade in active">
+                                <img class="company-logo" src="images/companies/xpandit/logo.png">
+                                <p class="biography">Na Xpand IT inspiramos pessoas e organizações a alcançarem resultados de excelência. Apostamos na especialização tecnológica como eixo diferenciador para a criação de valor de negócio. Como empresa global, especialista em BI & Analytics, Big Data, Enterprise Middleware, Mobilidade Empresarial e Colaboração & Desenvolvimento de Software, temos uma vasta oferta de produtos e serviços usados pelas principais empresas da Fortune 500. Com uma postura de honestidade e cooperação para com mais de 180 clientes na área de serviços e mais de 3000 que utilizam os nossos produtos em 76 países, a Xpand IT é reconhecida pelo seu know-how tecnológico e “Paixão pela Excelência”.</p>                            </div>
+                            <div id="xpandit-speaker" class="tab-pane fade">
+                                <img class="speaker-photo" src="images/companies/xpandit/gomes.jpg">
+                                <p class="speaker-name">Luís Gomes</p>
+                                <p class="biography">Luís is a Software Engineer who got his MsC in Computer Engineering at FEUP. Loves web and software architecture. Worked closely with companies like Atlassian, Dropbox, Google or Egnyte and after winning the Best Atlassian Cloud Integration award back in 2016, he’s now currently working in the cloud team at Xpand IT. Thinks the second page of Google results is a myth.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="criticalsoft-modal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <ul class="nav nav-pills nav-justified">
+                            <li class="active"><a data-toggle="pill" href="#criticalsoft">About CRITICAL Software</a></li>
+                            <li><a data-toggle="pill" href="#criticalsoft-speaker">Speaker</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div id="criticalsoft" class="tab-pane fade in active">
+                                <img class="company-logo" src="images/companies/criticalsoft/logo.jpg">
+                                <p class="biography">
+                                    A CRITICAL Software é especializada no desenvolvimento de soluções de software, serviços e tecnologias fiáveis para o suporte de sistemas críticos orientados à segurança, à missão e ao negócio das empresas.
+                                    Tendo como objectivo atrair, selecionar e complementar a formação de jovens engenheiros surgiu a iTGROW - empresa participada equitativamente pelo Banco BPI e pela CRITICAL Software.
+                                    Nesse sentido, a iTGROW promove o desenvolvimento de competências valorizadas pelo mercado de IT através da exposição dos seus colaboradores às melhores práticas, envolvendo-os em projetos exigentes e ambiciosos no domínio da engenharia de software.
+                                </p>
+                            </div>
+                            <div id="criticalsoft-speaker" class="tab-pane fade">
+                                <img class="speaker-photo" src="images/companies/criticalsoft/oliveira.JPG">
+                                <p class="speaker-name">Sofia Oliveira</p>
+                                <p class="biography">
+                                    Sofia Oliveira trabalha na CRITICAL Software e iTGROW na área de Recursos Humanos – Recrutamento e Gestão de Talentos. Adora lidar com jovens estudantes e tecnologias e na CRITICAL junta o melhor dos dois Mundos, lida com jovens que desenvolvem tecnologias críticas e alinham em projetos desafiantes.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>

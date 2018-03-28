@@ -141,7 +141,7 @@ var events = [
     {
         name: "Natixis",
         logo: "images/companies/natixis/logo.jpg",
-        description: "TBA",
+        description: "Natixis is the international corporate and investment banking, asset management, insurance and financial services arm of Groupe BPCE, the 2nd-largest banking group in France. Natixis in Portugal is an IT Center of Expertise that provides innovative solutions for Natixis business operations worldwide, supporting four units: Corporate Investment Banking, Retail Banking, Infrastructure and Security and Support Functions.",
         speakers: ["TBA"],
         speakersPhotos: [],
         speakersBio: "TBA"

@@ -71,7 +71,7 @@ var events = [
         logo: "images/companies/jscrambler/logo.png",
         description: "Jscrambler is a Web startup that works on highly innovative security products to protect Web and Mobile Applications. Its flagship product, Jscrambler, is the leader in JavaScript Application Security and the only client-side RASP solution to make apps self-defensive and resilient to tampering and reverse-engineering. It is used in more than 150 countries and has so far been trusted by more than 30000 companies and individuals, including Fortune 500 businesses.",
         speakers: ["Carlos Matias"],
-        speakersPhotos: ["images/companies/jscrambler/matias.jpg"],
+        speakersPhotos: ["images/companies/jscrambler/matias.JPG"],
         speakersBio: "Carlos Matias is a Full-Stack Developer and Scrum Master at Jscrambler. Born in Porto and with an MSc in Informatics Engineering from FEUP (2016), he's focused on developing robust web applications and maintaining a healthy team environment."
     },
 

@@ -25,6 +25,11 @@ html, body {
     filter: brightness(30%);
 }
 
+.carousel .item {
+    background-position: center;
+    background-size: cover;
+}
+
 #content {
     background-color: white;
 }

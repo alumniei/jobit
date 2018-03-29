@@ -168,8 +168,8 @@ var events = [
         "At Abyssal we love futuristic fiction characters because they always reinforce our team’s belief that there are no “impossibilities”. We believe Dr. Emmett Brown in the 1985 movie Back to the Future, when he says: \"Roads? Where we are going we don't need roads\".",
         speakers: ["João Portela", "Cristiano Carvalheiro"],
         speakersPhotos: ["images/companies/abyssal/portela.jpg", "images/companies/abyssal/carvalheiro.jpg"],
-        speakersBio: "Software Engineer at Abyssal, he’s been there since the beginning (2012). Naturally curious, he’s always ready to learn or teach something new because, like everyone, he still has much to learn. At Abyssal, with exciting and challenging problems to be solved and the need to quick adaptation, João found the right place to further develop his multidisciplinary abilities.<br>" +
-        "If we could choose a quote that describes João that would be: “Develop a passion for learning. If you do, you will never cease to grow” , Anthony J. D'Angelo.<br>" +
+        speakersBio: "Software Engineer at Abyssal, João has been there since the beginning (2012). Naturally curious, he’s always ready to learn or teach something new because, like everyone, he still has much to learn. At Abyssal, with exciting and challenging problems to be solved and the need to quick adaptation, João found the right place to further develop his multidisciplinary abilities.<br>" +
+        "If we could choose a quote that describes João that would be: “Develop a passion for learning. If you do, you will never cease to grow”, Anthony J. D'Angelo.<br>" +
         "João is also a fearless practitioner of Parkour, he says it helps him reach far and precise goals.<br><br>" +
         "Cristiano joined Abyssal in 2016 fresh graduate from MIEIC. With his constant thirst for knowledge and never-ending stamina, he is always prepared to annoy everyone around him about doing things the right way . At Abyssal he found a haven where he has no limits on the ever-changing path of knowing what the right way is.<br>" +
         "If we could choose a quote that describes Cristiano that would be: “With enough courage, you can do without a reputation.”, Margaret Mitchell."
@@ -296,6 +296,19 @@ function consoleText(words, id, colors) {
     }, 400)
 }
 
+function resizeTeam(width) {
+    if (width < 885)
+        $("#team .at-grid.team-container").attr("data-column", "3");
+    else if (width < 1111)
+        $("#team .at-grid.team-container").attr("data-column", "4");
+    else if (width < 1330)
+        $("#team .at-grid.team-container").attr("data-column", "5");
+    else if (width < 1540)
+        $("#team .at-grid.team-container").attr("data-column", "6");
+    else if (width < 1700)
+        $("#team .at-grid.team-container").attr("data-column", "7");
+}
+
 jQuery(document).ready(function($){
     consoleText(['4th, 11th and 18th April'], 'text', ['white']);
 
@@ -328,5 +341,9 @@ jQuery(document).ready(function($){
         photosHTML += "</div>";
         $("#company-modal").find('#speaker #speakers-photo').html(photosHTML);
         $("#company-modal").find('#speaker .biography').html(events[id].speakersBio);
+    });
+    resizeTeam($(this).width());
+    $(window).resize(function() {
+        resizeTeam($(this).width());
     });
 });

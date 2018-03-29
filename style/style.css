@@ -286,16 +286,13 @@ html, body {
     font-size: 15px;
     font-weight: 600;
 }
-.schedule-speaker-name.xing  {
-    margin: 0 0 -35px;
-}
 .schedule-day ul li:not(.diff):hover .schedule-speaker-name {
     margin: 5px 0 0;
     opacity: 1;
 }
 /* End of schedule */
 
-/* Modals */
+/* Modal */
 
 div.modal-content{
     -webkit-box-shadow: none;
@@ -420,7 +417,7 @@ button.close {
     margin: 0 auto;
 }
 
-/* End of modals */
+/* End of modal */
 
 /* Team */
 #team {
@@ -452,8 +449,10 @@ button.close {
     flex-direction: row;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    background: #FFF;
+    background: #47476b;
     border: 1px solid #47476b;
+    align-items: center;
+    justify-content: center;
 }
 .at-grid[data-column="1"] .at-column {
     width: 100%;

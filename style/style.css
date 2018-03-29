@@ -57,7 +57,7 @@ html, body {
     margin:auto;
     width: 100%;
     font-size: 2.5em;
-    padding: 20px;
+    padding: 50px;
 }
 
 .console-underscore {
@@ -91,6 +91,22 @@ html, body {
     -webkit-animation: sdb04 2s infinite;
     animation: sdb04 2s infinite;
     box-sizing: border-box;
+}
+
+@media screen and (max-width: 550px) {
+    #logo-date img {
+        width: 70%;
+    }
+
+    .console-container {
+        font-size: 1.5em;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #scroll-down-btn div {
+        bottom: 50px;
+    }
 }
 
 @-webkit-keyframes sdb04 {
@@ -175,6 +191,14 @@ html, body {
 .col-center {
     display:inline-block;
     float:none;
+}
+
+.schedule-day h4 {
+    display: inline-block;
+    padding-left: 67px;
+    padding-top: 40px;
+    font-size: 30px;
+    font-weight: 900;
 }
 
 .schedule-day ul {
@@ -289,6 +313,28 @@ html, body {
 .schedule-day ul li:not(.diff):hover .schedule-speaker-name {
     margin: 5px 0 0;
     opacity: 1;
+}
+.schedule-arrow {
+    display: none;
+}
+@media screen and (max-width: 992px) {
+    .schedule-day {
+        display: block;
+    }
+    .schedule-day h4 {
+        display: block;
+        padding-left: 0px;
+    }
+
+    .schedule-arrow {
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    .schedule-day ul {
+        display: none;
+    }
+
 }
 /* End of schedule */
 

@@ -171,7 +171,7 @@ var events = [
         speakersBio: "Software Engineer at Abyssal, João has been there since the beginning (2012). Naturally curious, he’s always ready to learn or teach something new because, like everyone, he still has much to learn. At Abyssal, with exciting and challenging problems to be solved and the need to quick adaptation, João found the right place to further develop his multidisciplinary abilities.<br>" +
         "If we could choose a quote that describes João that would be: “Develop a passion for learning. If you do, you will never cease to grow”, Anthony J. D'Angelo.<br>" +
         "João is also a fearless practitioner of Parkour, he says it helps him reach far and precise goals.<br><br>" +
-        "Cristiano joined Abyssal in 2016 fresh graduate from MIEIC. With his constant thirst for knowledge and never-ending stamina, he is always prepared to annoy everyone around him about doing things the right way . At Abyssal he found a haven where he has no limits on the ever-changing path of knowing what the right way is.<br>" +
+        "Cristiano joined Abyssal in 2016 fresh graduate from MIEIC. With his constant thirst for knowledge and never-ending stamina, he is always prepared to annoy everyone around him about doing things the right way. At Abyssal he found a haven where he has no limits on the ever-changing path of knowing what the right way is.<br>" +
         "If we could choose a quote that describes Cristiano that would be: “With enough courage, you can do without a reputation.”, Margaret Mitchell."
     },
     {

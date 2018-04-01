@@ -197,6 +197,17 @@ html, body {
     font-size: 27px;
 }
 
+@media screen and (max-width: 991px) {
+    #icons {
+        padding-top: 50px;
+        font-size: 13px;
+    }
+
+    #icons .col-md-2 p {
+        font-size: 22px;
+    }
+}
+
 #details {
     position: relative;
     background: #2d4884;

@@ -106,17 +106,24 @@ html, body {
 
 @media screen and (max-width: 550px) {
     #logo-date img {
-        width: 70%;
+        width: 90%;
     }
 
     .console-container {
         font-size: 1.5em;
         padding-top: 50px;
-        padding-bottom: 50px;
+        padding-bottom: 20px;
+        min-height: 130px;
+    }
+
+    .room {
+        font-size: 16px;
     }
 
     #scroll-down-btn div {
-        bottom: 50px;
+        top: 30px;
+        width: 18px;
+        height: 18px;
     }
 }
 

@@ -39,10 +39,14 @@ var events = [
     {
         name: "Blip",
         logo: "images/companies/blip/logo.jpg",
-        description: "TBA",
-        speakers: ["TBA"],
-        speakersPhotos: [],
-        speakersBio: "TBA"
+        description: "Blip was created with the purpose of making a difference in the web application world, and we thrive to make our contribution count everyday. In 2012, Blip has become part of a Group of Companies with Headquarters in London and we are growing to become the best place to work in Porto!<br>" +
+        "Our code reaches thousands of customers around the world, and we have a passion for developing high performance Web products using agile methodologies, so we aim to get the best out of every sprint.<br>" +
+        "You may ask: “What can I expect from Blip?”<br>" +
+        "At Blip we care about people and their development, we have a sense of humour and an open minded style always waiting for new ideas to improve our processes. You will also find out that we have breakfast everyday (and much more that you will discover later), unusual meeting rooms and different interests/activities to share. We welcome people from around the world to join our likeminded and talented team.<br>" +
+        "We encourage everyone’s autonomy in a fun environment, and we also aim to be responsible and efficient. At Blip you have the chance to be yourself and contribute to make the world a better place. Here you will find challenges in a workplace that is always changing and improving.",
+        speakers: ["Mariana Salvaterra"],
+        speakersPhotos: ["images/companies/blip/salvaterra.jpg"],
+        speakersBio: "Alumnum do Mestrado Integrado de Engenharia Informática da FEUP, juntei-me há pouco mais de 6 anos à Blip como Quality Manager. Entretanto a Blip foi adquirida pelo grupo Betfair, agora grupo Paddy Power Betfair, e as minhas responsabilidades mudaram: de liderar uma equipa distribuída de pessoas especializadas em qualidade de software para liderar uma equipa de desenvolvimento multidisciplinar, com um objectivo comum de entregar incrementos funcionais dos nossos sites. Hoje sou responsável pelas equipas que desenvolvem os canais do Sportsbook da Betfair – os sites mobile e desktop do produto com mais utilizadores da Betfair."
     },
     {
         name: "HostelWorld",

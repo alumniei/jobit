@@ -301,6 +301,7 @@ function consoleText(words, id, colors) {
 }
 
 function resizeTeam(width) {
+    console.log('resized')
     if (width < 885)
         $("#team .at-grid.team-container").attr("data-column", "3");
     else if (width < 1111)
@@ -314,8 +315,8 @@ function resizeTeam(width) {
 
     if (width > 975)
         $(".schedule-day ul").css('display', 'flex');
-    else
-        $(".schedule-day ul").css('display', 'none');
+    else 
+        $(".schedule-day ul:not(.open)").css('display', 'none');
 }
 
 jQuery(document).ready(function($){
@@ -354,16 +355,18 @@ jQuery(document).ready(function($){
         $("#company-modal").find('#speaker #speakers-photo').html(photosHTML);
         $("#company-modal").find('#speaker .biography').html(events[id].speakersBio);
     });
-
+    
     $( "#schedule .schedule-arrow" ).click(function() {
         var schedule = $(this).parent().next("ul");
         if (schedule.css('display') == 'none') {
             $(this).html("<i class=\"fas fa-angle-up\"></i>");
             $(this).parent().next("ul").css('display', 'flex');
+            $(this).parent().next("ul").toggleClass("open");
         }
         else {
             $(this).html("<i class=\"fas fa-angle-down\"></i>");
             $(this).parent().next("ul").css('display', 'none');
+            $(this).parent().next("ul").toggleClass("open");
         }
 
     });

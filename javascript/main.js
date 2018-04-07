@@ -166,17 +166,17 @@ var events = [
         name: "Abyssal",
         logo: "images/companies/abyssal/logo.png",
         description: "At Abyssal we are developing and implementing solutions to reach, visualize and understand the Ocean’s unknown and harsh environments.<br>" +
-        "By working very closely with major players in the subsea offshore industries, from Oil & Gas to Marine Renewables and Marine Research, we always use the most recent technologies in areas such as Augmented Reality, Cloud Computing, 3D and Machine Learning to deliver the most needed and innovative solutions.<br>" +
-        "We like to partner with players that can help us go faster and beyond the state of the art (Epic Games and NVIDIA) and to partner with players that can boost Portugal’s Technology and Innovation ecosystem (UT Austin-Portugal Industrial Advisory Board).<br>" +
-        "In 2015 Abyssal was chosen by GE and Chevron as one of the top 10 startup companies in Oil & Gas technology and in 2016 was selected by Shell, DSM, Eneco, Rockstart, Sungevity and Salesforce as one of the 5 finalists of the O&G Pitch Competition at the Energy Fest.<br>" +
-        "At Abyssal we love futuristic fiction characters because they always reinforce our team’s belief that there are no “impossibilities”. We believe Dr. Emmett Brown in the 1985 movie Back to the Future, when he says: \"Roads? Where we are going we don't need roads\".",
+        "By working very closely with major players in the subsea offshore industries, from Oil & Gas to Marine Renewables and Marine Research, we always use the most recent technologies in areas such as Augmented Reality, Cloud Computing, 3D and Machine Learning to deliver the most needed and innovative solutions.<br>" + 
+        "We like to partner with players that can help us go faster and beyond the state of the art (Epic Games and NVIDIA) and to partner with players that can boost Portugal’s Technology and Innovation ecosystem (UT Austin-Portugal Industrial Advisory Board).<br>" + 
+        "At Abyssal we love futuristic fiction characters because they always reinforce our team’s belief that there are no \"impossibilities\". We believe Dr. Emmett Brown in the 1985 movie Back to the Future, when he says: \"Roads? Where we're going we don't need roads\".",
         speakers: ["João Portela", "Cristiano Carvalheiro"],
         speakersPhotos: ["images/companies/abyssal/portela.jpg", "images/companies/abyssal/carvalheiro.jpg"],
-        speakersBio: "Software Engineer at Abyssal, João has been there since the beginning (2012). Naturally curious, he’s always ready to learn or teach something new because, like everyone, he still has much to learn. At Abyssal, with exciting and challenging problems to be solved and the need to quick adaptation, João found the right place to further develop his multidisciplinary abilities.<br>" +
-        "If we could choose a quote that describes João that would be: “Develop a passion for learning. If you do, you will never cease to grow”, Anthony J. D'Angelo.<br>" +
-        "João is also a fearless practitioner of Parkour, he says it helps him reach far and precise goals.<br><br>" +
-        "Cristiano joined Abyssal in 2016 fresh graduate from MIEIC. With his constant thirst for knowledge and never-ending stamina, he is always prepared to annoy everyone around him about doing things the right way. At Abyssal he found a haven where he has no limits on the ever-changing path of knowing what the right way is.<br>" +
-        "If we could choose a quote that describes Cristiano that would be: “With enough courage, you can do without a reputation.”, Margaret Mitchell."
+        speakersBio: "Software Engineer at Abyssal, he’s been there since the beginning (2012). Naturally curious, he’s always ready to learn or teach something new because, like everyone, he still has much to learn.<br>" + 
+        "At Abyssal, with exciting and challenging problems to be solved and the need to quick adaptation, João found the right place to further develop his multidisciplinary abilities.<br>" + 
+        "If we could choose a quote that describes João that would be: “Develop a passion for learning. If you do, you will never cease to grow”, Anthony J. D'Angelo.<br>" + 
+        "João is also a fearless practitioner of Parkour, he says that it doesn’t help much with programming, but at least he’s having fun!<br><br>" + 
+        "Cristiano joined Abyssal in 2016 fresh graduate from MIEIC. With his constant thirst for knowledge and never-ending stamina, he is always prepared to annoy everyone around him about doing things the right way. At Abyssal he found a haven where he has no limits on the ever-changing path of knowing what the right way is.<br>" + 
+        "If we could choose a quote that describes Cristiano that would be: \"With enough courage, you can do without a reputation.\", Margaret Mitchell."
     },
     {
         name: "KPMG",
@@ -301,6 +301,7 @@ function consoleText(words, id, colors) {
 }
 
 function resizeTeam(width) {
+    console.log('resized')
     if (width < 885)
         $("#team .at-grid.team-container").attr("data-column", "3");
     else if (width < 1111)
@@ -314,8 +315,8 @@ function resizeTeam(width) {
 
     if (width > 975)
         $(".schedule-day ul").css('display', 'flex');
-    else
-        $(".schedule-day ul").css('display', 'none');
+    else 
+        $(".schedule-day ul:not(.open)").css('display', 'none');
 }
 
 jQuery(document).ready(function($){
@@ -354,16 +355,18 @@ jQuery(document).ready(function($){
         $("#company-modal").find('#speaker #speakers-photo').html(photosHTML);
         $("#company-modal").find('#speaker .biography').html(events[id].speakersBio);
     });
-
+    
     $( "#schedule .schedule-arrow" ).click(function() {
         var schedule = $(this).parent().next("ul");
         if (schedule.css('display') == 'none') {
             $(this).html("<i class=\"fas fa-angle-up\"></i>");
             $(this).parent().next("ul").css('display', 'flex');
+            $(this).parent().next("ul").toggleClass("open");
         }
         else {
             $(this).html("<i class=\"fas fa-angle-down\"></i>");
             $(this).parent().next("ul").css('display', 'none');
+            $(this).parent().next("ul").toggleClass("open");
         }
 
     });

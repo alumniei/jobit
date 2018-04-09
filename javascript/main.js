@@ -127,11 +127,11 @@ var events = [
         logo: "images/companies/xing/logo.png",
         description: "XING is the leading professional network in the German speaking markets with a broad portfolio of products & services in the areas of People, Jobs and News. XING currently has over 300 engineers working from 6 locations across Europe. We take technology very serious and constantly invest in keeping our tech stack up-to-date. And even more importantly we invest in our team-members and allow them to grow professionally – be it via Hackweeks in which they explore new technologies, through trainings & conferences or by being part of active communities of practice.<br>" +
         "We opened ou new tech office in beautiful Porto last year and we are looking for great people to join our team. We have job openings in many roles to complement our growing team. For all positions, we look for skilled and dedicated people who share our passion for building products that millions of users love.",
-        speakers: ["Michael Domingues", "Miguel Garcia", "Arne Kittler"],
+        speakers: ["Michael Domingues", "Arne Kittler"],
         speakersPhotos: ["images/companies/xing/domingues.jpg", "images/companies/xing/garcia.jpg", "images/companies/xing/kittler.png"],
         speakersBio: "Michael Domingues is a Team Leader at XING Portugal and researcher in medical informatics in the Center for Health and Technology and Services Research in the Faculty of Medicine in the University of Porto.<br>" +
         "He has been dedicated to revolutionary and exciting projects ever since. Starting with the first Portuguese 3D printer to tracking solutions in retail sites as also a career-oriented social networking platform to promote market transparency. Apart from love pushing software engineering to the next level, he is devoted to build and sustain solid principles of how we can use data for good in multiple domains.<br><br>" +
-        "Miguel Garcia is the General Manager of XING Portugal and Arne Kittler is a Product Director at XING."
+        "Arne Kittler is a Product Director at XING."
     },
     {
         name: "Critical Manufacturing",

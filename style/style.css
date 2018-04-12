@@ -387,7 +387,7 @@ html, body {
         cursor: pointer;
     }
 
-    .schedule-day ul {
+    .schedule-day ul:not(.open) {
         display: none;
     }
 

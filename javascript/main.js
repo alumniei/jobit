@@ -370,6 +370,8 @@ jQuery(document).ready(function($){
         }
 
     });
+    
+    $(".schedule-day ul").css('display', 'flex');
 
     resizeTeam($(this).width());
     $(window).resize(function() {

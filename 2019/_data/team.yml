@@ -3,7 +3,7 @@
   name: "Bernardo"
   surname: "Belchior"
   title: ""
-  thumbnailUrl: bernardobelchior.png
+  thumbnailUrl: bernardobelchior.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
@@ -52,7 +52,7 @@
   name: "Nuno"
   surname: "Ramos"
   title: ""
-  thumbnailUrl: runonamos.png
+  thumbnailUrl: runonamos.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
@@ -64,7 +64,7 @@
   name: "Inês"
   surname: "Teixeira"
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: inesteixeira.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
@@ -76,7 +76,7 @@
   name: "Andre"
   surname: "Reis"
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: andrereis.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}

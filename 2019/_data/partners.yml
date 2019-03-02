@@ -1,26 +1,31 @@
 - 
-  group: ""
+  group: "Companies"
   elements: 
     - {name: "Blip", description: "", link: "https://blip.pt/", imageUrl: "blip.png"}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Vestas", description: "", link: "", imageUrl: "vestas.svg"}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
     - {name: "Feedzai", description: "", link: "https://feedzai.com/", imageUrl: "feedzai.png"}
     - {name: "Pixelmatters", description: "", link: "http://pixelmatters.com/", imageUrl: "pixelmatters.png"}
-    - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
     - {name: "Farfetch", description: "", link: "https://www.farfetch.com/", imageUrl: "farfetch.jpg"}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "Outsystems", description: "", link: "https://www.outsystems.com/", imageUrl: ""}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Outsystems", description: "", link: "https://www.outsystems.com/", imageUrl: "outsystems.svg"}
     - {name: "E-goi", description: "A E-goi é uma Martech, empresa que desenvolve tecnologia para marketing, a partir de Matosinhos, para mais de 40 países em todo o Mundo. A empresa, que iniciou a sua atividade em 2008, conta atualmente com mais de 100 colaboradores e tem apostado recentemente em investigação e inovação, através de um programa de estágios que já colocou mais de 20 colaboradores nos seus quadros nos últimos 2 anos.", link: "https://www.e-goi.pt", imageUrl: "egoi.svg"}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "Huub", description: "", link: "https://www.thehuub.co/", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "KPMG", description: "", link: "https://home.kpmg/xx/en/home.html", imageUrl: ""}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Mindera", description: "", link: "https://mindera.com/", imageUrl: "mindera.png"}
+    - {name: "Huub", description: "", link: "https://www.thehuub.co/", imageUrl: "huub.svg"}
+    - {name: "Bosh", description: "", link: "https://www.bosch.pt", imageUrl: "bosch.jpg"}
+    - {name: "Toptal", description: "", link: "", imageUrl: "toptal.svg"}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "KPMG", description: "", link: "https://home.kpmg/xx/en/home.html", imageUrl: "kpmg.svg"}
     - {name: "Facebook", description: "", link: "https://www.facebook.com/careers/", imageUrl: "facebook.png"}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "Switch Payments", description: "", link: "https://switchpayments.com/#/", imageUrl: ""}
+    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Switch Payments", description: "", link: "https://switchpayments.com/#/", imageUrl: "switch.png"}
     - {name: "Google", description: "", link: "https://careers.google.com/jobs/", imageUrl: "google.svg"}
+- 
+  group: "Partners"
+  elements: 
+    - {name: "Departamento de Engenharia Informática", description: "", link: "https://dei.fe.up.pt/pt/home-page/", imageUrl: "dei.png"}
+    - {name: "Universidade do Porto", description: "", link: "https://www.up.pt/", imageUrl: "up.png"}

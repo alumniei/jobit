@@ -2,9 +2,8 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
+            <h3>{{ partner.group }}</h3>
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>

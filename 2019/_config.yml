@@ -49,7 +49,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
 
 # Hero Block
-heroImage: "hero.png"
+heroImage: "hero.jpg"
 heroVideo: "porto.webm"
 heroTitle: "Job IT 2019"
 eventDate: "<typeout> of April"

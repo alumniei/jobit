@@ -1,60 +1,84 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Bernardo"
+  surname: "Belchior"
+  title: ""
+  thumbnailUrl: bernardobelchior.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Pedro"
+  surname: "Costa"
+  title: ""
+  thumbnailUrl: pedrocosta.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "David"
+  surname: "Azevedo"
+  title: ""
+  thumbnailUrl: davidazevedo.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
+- 
+  id: 3
+  name: "Miriam"
+  surname: "Gonçalves"
+  title: ""
+  thumbnailUrl: miriamgoncalves.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
+
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Nuno"
+  surname: "Ramos"
+  title: ""
+  thumbnailUrl: runonamos.png
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 5
+  name: "Inês"
+  surname: "Teixeira"
+  title: ""
+  thumbnailUrl: 
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}
+
+- 
+  id: 6
+  name: "Andre"
+  surname: "Reis"
+  title: ""
+  thumbnailUrl: 
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
+    - {name: "github", link: "https://github.com/pedroduartecosta"}
+    - {name: "site", link: "http://pedrocosta.eu/"}

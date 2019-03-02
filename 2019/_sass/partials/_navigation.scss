@@ -25,7 +25,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
 }
 .logo-header {
     display: block;
-    transform: translateY(20px);
+    transform: translateY(40px);
     transition: $base-transition;
     @media (max-width: 767px) {
         transform: translateX(-45px);

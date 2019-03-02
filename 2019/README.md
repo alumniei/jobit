@@ -45,7 +45,7 @@ and run next command from root folder:
 
 To start Jekyll run:
 ```bash
-    jekyll serve -w
+    bundle exec jekyll serve -w
 ```
 Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
 
@@ -89,7 +89,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 * [Sticky-kit](https://github.com/leafo/sticky-kit)
 
 ### Who is using template?
-Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
+Going to use template? Go on! The only thing we ask - let us know at [*info@jobit.pt*](mailto:info@jobit.pt) so we can include you to this list, or make a pull request.
 
 | | | |
 |------|------|------|

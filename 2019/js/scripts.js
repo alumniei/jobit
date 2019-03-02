@@ -8,6 +8,17 @@
             equalheight('.same-height');
         });
 
+        if( $('.cd-bg-video-wrapper').length > 0 ) {
+                var videoWrapper = $('.cd-bg-video-wrapper'),
+                    mq = window.getComputedStyle(document.querySelector('.cd-bg-video-wrapper'), '::after').getPropertyValue('content').replace(/"/g, "").replace(/'/g, "");
+                if( mq == 'desktop' ) {
+                    // we are not on a mobile device 
+                    var	videoUrl = videoWrapper.data('video'),
+                        video = $('<video autoplay loop><source src="'+videoUrl+'" type="video/webm" /></video>');
+                    video.appendTo(videoWrapper);
+                }
+            }
+
         if ($(window).width() > 1500) {
             $('.effect-wrapper').addClass('col-lg-3');
         }

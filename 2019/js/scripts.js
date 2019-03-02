@@ -14,7 +14,7 @@
                 if( mq == 'desktop' ) {
                     // we are not on a mobile device 
                     var	videoUrl = videoWrapper.data('video'),
-                        video = $('<video autoplay loop><source src="'+videoUrl+'" type="video/webm" /></video>');
+                        video = $('<video autoplay muted loop><source src="'+videoUrl+'" type="video/webm" /></video>');
                     video.appendTo(videoWrapper);
                 }
             }

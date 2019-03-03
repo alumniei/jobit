@@ -6,9 +6,9 @@
   thumbnailUrl: bernardobelchior.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bernardobelchior"}
+    - {name: "github", link: "https://github.com/bernardobelchior"}
+    - {name: "site", link: "http://belchior.me/"}
 
 - 
   id: 1
@@ -30,10 +30,8 @@
   thumbnailUrl: davidazevedo.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
-
+    - {name: "linkedin", link: "https://www.linkedin.com/in/david-azevedo/"}
+    - {name: "github", link: "https://github.com/PeaceOff"}
 - 
   id: 3
   name: "Miriam"
@@ -42,9 +40,8 @@
   thumbnailUrl: miriamgoncalves.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miriamcmcg/"}
+    - {name: "github", link: "https://github.com/miriamcmcg1"}
 
 
 - 
@@ -55,10 +52,8 @@
   thumbnailUrl: runonamos.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
-
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nunoramos7/"}
+    - {name: "github", link: "https://github.com/nunoramos"}
 - 
   id: 5
   name: "Inês"
@@ -67,9 +62,6 @@
   thumbnailUrl: inesteixeira.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
 
 - 
   id: 6
@@ -79,6 +71,3 @@
   thumbnailUrl: andrereis.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}

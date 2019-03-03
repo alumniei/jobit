@@ -11,6 +11,7 @@
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
+            top: 40%;
         }
         p {
             font-size: $base-font-size * 2;
@@ -168,27 +169,30 @@ Video
     background-size: cover;
     @media (max-width: 767px) {
       background: url(/img/sections-background/hero.jpg) no-repeat center center;
+      mask-image: linear-gradient(to top, transparent, white);
     }
   }
   .cd-bg-video-wrapper video {
-    /* you won't see this element in the html, but it will be injected using js */
-    display: block;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    bottom: auto;
-    right: auto;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -o-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    min-height: 100%;
-    min-width: 100%;
-    max-width: none;
-    height: auto;
-    width: auto;
-    mask-image: linear-gradient(to top, transparent, white);
+    @media (min-width: 768px) {
+      /* you won't see this element in the html, but it will be injected using js */
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      bottom: auto;
+      right: auto;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      -moz-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+      -o-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+      min-height: 100%;
+      min-width: 100%;
+      max-width: none;
+      height: auto;
+      width: auto;
+      mask-image: linear-gradient(to top, transparent, white);
+    }
   }
   .cd-bg-video-wrapper::after {
     /* never visible - this is used in jQuery to check the current MQ */

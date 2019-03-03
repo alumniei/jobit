@@ -55,7 +55,7 @@
 
 - 
   date: "2019-04-10"
-  dateReadable: "14th of April"
+  dateReadable: "10th of April"
   timeslots:
     - {
     	startTime: "14:45",

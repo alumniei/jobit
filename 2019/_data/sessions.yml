@@ -27,7 +27,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
-  title: "To be disclosed"
+  title: "Vestas"
   description: ""
   subtype: keynote
   speakers: []
@@ -81,7 +81,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
-  title: "Outsystems"
+  title: "To be disclosed"
   description: ""
   subtype: keynote
   speakers: []
@@ -91,20 +91,20 @@
 
 -
   id: 011
-  title: "E-goi"
+  title: "Outsystems"
   description: ""
   subtype: keynote
-  speakers: [011]
+  speakers: []
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 012
-  title: "To be disclosed"
+  title: "E-goi"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [012]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -121,7 +121,7 @@
 
 -
   id: 014
-  title: "Huub"
+  title: "Mindera"
   description: ""
   subtype: keynote
   speakers: []
@@ -131,7 +131,7 @@
 
 -
   id: 015
-  title: "To be disclosed"
+  title: "Huub"
   description: ""
   subtype: keynote
   speakers: []
@@ -141,7 +141,7 @@
 
 -
   id: 016
-  title: "To be disclosed"
+  title: "Bosch"
   description: ""
   subtype: keynote
   speakers: []
@@ -151,7 +151,7 @@
 
 -
   id: 017
-  title: "To be disclosed"
+  title: "Toptal"
   description: ""
   subtype: keynote
   speakers: []
@@ -160,7 +160,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
-  title: "KPMG"
+  title: "To be disclosed"
   description: ""
   subtype: keynote
   speakers: []
@@ -170,7 +170,7 @@
 
 -
   id: 019
-  title: "Facebook"
+  title: "KPMG"
   description: ""
   subtype: keynote
   speakers: []
@@ -180,7 +180,7 @@
 
 -
   id: 020
-  title: "To be disclosed"
+  title: "Facebook"
   description: ""
   subtype: keynote
   speakers: []
@@ -190,16 +190,6 @@
 
 -
   id: 021
-  title: "Switch Payments"
-  description: ""
-  subtype: keynote
-  speakers: []
-  language: pt
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
--
-  id: 022
   title: "To be disclosed"
   description: ""
   subtype: keynote
@@ -209,8 +199,18 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
+  id: 022
+  title: "Switch Payments"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
   id: 023
-  title: "Google"
+  title: "To be Disclosed"
   description: ""
   subtype: keynote
   speakers: []
@@ -220,6 +220,16 @@
 
 -
   id: 024
+  title: "Google"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 025
   title: "Google - CV Workshop"
   description: ""
   subtype: workshop

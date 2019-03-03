@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  #- {permalink: "/", text: "Home"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
+ - {link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", text: "Share your CV"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
+ - {link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", text: "Share your CV"}
 
 # Hero Block
 heroImage: "hero.jpg"

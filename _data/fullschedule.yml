@@ -1,0 +1,58 @@
+- 
+  date: "2014-10-24"
+  dateReadable: ""
+  tracks: 
+    - {title: "3rd of April", color: "#90be4e"}
+    - {title: "10th of April", color: "#03a9f4"}
+    - {title: "24th of April", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "14:45",
+    	endTime: "15:05",
+    	sessionIds: [009, 001, 017]
+    }
+    - {
+      startTime: "15:05",
+      endTime: "15:25",
+      sessionIds: [010, 002, 018]
+    }
+    - {
+    	startTime: "15:25",
+    	endTime: "15:45",
+    	sessionIds: [011, 003, 019]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "16:05",
+    	sessionIds: [012, 004, 020]
+    }
+    - {
+      startTime: "16:05",
+      endTime: "16:35",
+      sessionIds: [500]
+    }
+    - {
+    	startTime: "16:35",
+    	endTime: "16:55",
+    	sessionIds: [013, 005, 021]
+    }
+    - {
+    	startTime: "16:55",
+    	endTime: "17:25",
+    	sessionIds: [014, 006, 022]
+    }
+    - {
+      startTime: "17:25",
+      endTime: "17:45",
+      sessionIds: [015, 007, 023]
+    }
+    - {
+    	startTime: "17:45",
+    	endTime: "18:05",
+    	sessionIds: [016, 008, 024]
+    }
+    - {
+    	startTime: "18:05",
+    	endTime: "18:35",
+    	sessionIds: [501]
+    }

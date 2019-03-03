@@ -1,0 +1,252 @@
+-
+  id: 001
+  title: "Blip"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 003
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 004
+  title: "Vestas"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Feedzai"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 007
+  title: "Pixelmatters"
+  description: "Founded in December 2013, Pixelmatters mission is to create top notch digital products that make people's life easier, everyday. <br> Our business supports this by having a design-driven culture, focused on solving problems and creating solutions. <br> We improve existing things and have the magic ability to turn ideas into something that you can see, touch and feel. <br> +info: http://pixelmatters.com/culture"
+  subtype: keynote
+  speakers: [019]
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 008
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 009
+  title: "Farfectch"
+  description: "Farfetch Limited is the leading global technology platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch marketplace connects customers in 190 countries with items from more than 48 countries and over 1,000 of the world's best boutiques and brands, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Through its business units, which also include Store of The Future, Farfetch Black & White Solutions, Browns, and Stadium Goods, Farfetch continues to invest in innovation and develop key technologies, business solutions, and services for the luxury fashion industry. <br> For more information, please visit www.farfetch.com.    
+"
+  subtype: keynote
+  speakers: [015, 016]
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 010
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 011
+  title: "Outsystems"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 012
+  title: "E-goi"
+  description: "A E-goi é uma Martech, empresa que desenvolve tecnologia para marketing, a partir de Matosinhos, para mais de 40 países em todo o Mundo. A empresa, que iniciou a sua atividade em 2008, conta atualmente com mais de 100 colaboradores e tem apostado recentemente em investigação e inovação, através de um programa de estágios que já colocou mais de 20 colaboradores nos seus quadros nos últimos 2 anos."
+  subtype: keynote
+  speakers: [012]
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 013
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 014
+  title: "Mindera"
+  description: "At Mindera we use technology to build products we are proud of, with people we love. <br> Software Engineering Applications, including Web and Mobile, are at the core of what we do at Mindera. We partner with our clients, to understand their product and deliver high performance, resilient and scalable software systems that create an impact in their users and businesses across the world. <br> You get to work with a bunch of great people, where the whole team owns the project together. <br> Our culture reflects our lean and self-organisation attitude. We encourage our colleagues to take risks, make decisions, work in a collaborative way and talk to everyone to enhance communication. <br> We are proud of our work and we love to learn all and everything while navigating through an Agile, Lean and collaborative environment.<br>"
+  subtype: keynote
+  speakers: [017, 018]
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 015
+  title: "Huub"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 016
+  title: "Bosch"
+  description: "Let’s be remarkable. <br> Carros autónomos, máquinas que falam entre si, casas e cidades inteligentes. <br> Na Bosch, transformamos estas visões em realidade para melhorar a qualidade de vida das pessoas por todo o mundo. Inicia algo grande e junta-te a esta equipa, onde vais poder criar algo extraordinário: Tecnologia para a vida.<br> Presente em Portugal desde 1911, a Bosch é uma das empresas mais reconhecidas do país. Com uma presença consolidada, exporta mais de 95% da sua produção para mercados internacionais e tem vindo a alargar as atividades de investigação e desenvolvimento em hardware e software para diferentes áreas de negócio.<br> As exigências do mercado e o objetivo de tornar a Bosch líder em IoT (Internet das Coisas) são relevantes também para as atividades em Portugal. Com mais de 5.000 colaboradores, a Bosch é um dos maiores empregadores industriais de Portugal e gerou, em 2017, 1,5 mil milhões de euros em vendas internas.<br> Transforma as tuas ideias em tecnologias benéficas. Quer seja nas áreas de soluções de mobilidade, bens de consumo, tecnologia industrial ou tecnologia de energia e construção, connosco vais ter a oportunidade de melhorar a qualidade de vida em todo o mundo!<br> Sabe mais em www.bosch.pt/."
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 017
+  title: "Toptal"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 018
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 019
+  title: "KPMG"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 020
+  title: "Facebook"
+  description: ""
+  subtype: keynote
+  speakers: [013, 014]
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 021
+  title: "To be disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 022
+  title: "Switch Payments"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 023
+  title: "To be Disclosed"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 024
+  title: "Google"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 025
+  title: "Google - CV Workshop"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 500
+  title: "Coffee Break"
+  place: ""
+  service: true
+
+-
+  id: 501
+  title: "Networking"
+  place: ""
+  service: true

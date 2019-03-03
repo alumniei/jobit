@@ -24,12 +24,10 @@ layout: compress
         </div>
     </div>
 
+    {% include sessions-modals.html %} 
+
     {% if page.modal != null %} 
     	{% include speakers-modals.html %} 
-    {% endif %} 
-
-    {% if page.permalink == '/schedule/' %}
-        {% include sessions-modals.html %} 
     {% endif %} 
 
     {% include analytics.html %}

@@ -93,3 +93,15 @@
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 020
+  name: "Predrag Pedro"
+  surname: "Gajic"
+  company: "Toptal"
+  title: "Talent Specialist"
+  bio: "With more than 15 years of experience, Predrag Pedro Gajic has lead business and people operations all over the globe, with stints in Serbia, Portugal, Russia, and Uganda. For the last four years, he has been a prominent member of the Talent/People Operations team at Toptal, using his skills to find the top developers around the world."
+  thumbnailUrl: predragpedrogajic.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

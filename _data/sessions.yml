@@ -153,9 +153,9 @@
 -
   id: 017
   title: "Toptal"
-  description: ""
+  description: "Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies rely on Toptal freelancers for their most important projects."
   subtype: keynote
-  speakers: []
+  speakers: [020]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -201,7 +201,7 @@
 
 -
   id: 022
-  title: "Switch Payments"
+  title: "Switch"
   description: ""
   subtype: keynote
   speakers: []

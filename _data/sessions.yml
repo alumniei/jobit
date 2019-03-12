@@ -3,7 +3,7 @@
   title: "Blip"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [023]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -204,7 +204,7 @@
   title: "Switch"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [021, 022]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

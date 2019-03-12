@@ -105,3 +105,38 @@
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 021
+  name: "Pedro"
+  surname: "Campos"
+  company: "Switch"
+  title: "Co-Founder & CTO"
+  bio: ""
+  thumbnailUrl: pedrocampos.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 022
+  name: "João"
+  surname: "Alvaro"
+  company: "Switch"
+  title: "Head of HR"
+  bio: ""
+  thumbnailUrl: joaoalvaro.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 023
+  name: "Inês"
+  surname: "Quaresma"
+  company: "Blip"
+  title: ""
+  bio: ""
+  thumbnailUrl: inesquaresma.jpg
+  rockstar: true
+  social: 

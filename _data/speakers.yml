@@ -15,9 +15,9 @@
   name: "Rui"
   surname: "Gonçalves"
   company: "Facebook"
-  title: ""
-  bio: ""
-  thumbnailUrl:
+  title: "Software Engineer"
+  bio: "All-around, hardworking and dedicated software engineer. Enthusiast of programming paradigms, algorithms and data structures, distributed systems and software architecture in general. Loves learning new stuff every day, working with state-of-the-art technologies and making an impact on the technological decisions in the environment he works. An active contributor and a lover of the open-source model with a desire to keep developing products and services that have a great impact on society."
+  thumbnailUrl: ruigoncalves.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -27,7 +27,7 @@
   name: "Federica"
   surname: "De Cillis"
   company: "Facebook"
-  title: ""
+  title: "EMEA University Recruiter"
   bio: ""
   thumbnailUrl:
   rockstar: true

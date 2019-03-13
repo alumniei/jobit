@@ -63,7 +63,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
-  title: "To be disclosed"
+  title: "Talkdesk"
   description: ""
   subtype: keynote
   speakers: []
@@ -82,7 +82,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
-  title: "To be disclosed"
+  title: "Critical Techworks"
   description: ""
   subtype: keynote
   speakers: []
@@ -112,7 +112,7 @@
 
 -
   id: 013
-  title: "To be disclosed"
+  title: "Xpand-It"
   description: ""
   subtype: keynote
   speakers: []
@@ -133,9 +133,9 @@
 -
   id: 015
   title: "Huub"
-  description: ""
+  description: "Founded in 2015, HUUB is disrupting the Fashion Supply Chain of the future, managing over 50 brands worldwide through its Product: Spoke. This management platform, which was created inhouse from the beginning, has evolved with state of the art frameworks, a microservices architecture strengthen with A.I models based on Machine Learning and Deep Learning implementations to bring transversal optimization to the Supply Chain of brands."
   subtype: keynote
-  speakers: []
+  speakers: [024]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -175,7 +175,7 @@
   description: ""
   subtype: keynote
   speakers: []
-  language: en
+  language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -215,7 +215,7 @@
   description: ""
   subtype: keynote
   speakers: []
-  language: en
+  language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -225,7 +225,7 @@
   description: ""
   subtype: keynote
   speakers: []
-  language: en
+  language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
@@ -235,7 +235,7 @@
   description: ""
   subtype: workshop
   speakers: []
-  language: en
+  language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 

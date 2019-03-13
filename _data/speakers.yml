@@ -140,3 +140,14 @@
   thumbnailUrl: inesquaresma.jpg
   rockstar: true
   social: 
+
+- 
+  id: 024
+  name: "Luís"
+  surname: "Roque"
+  company: "HUUB"
+  title: "CEO & Co-founder"
+  bio: "The continuous academic evolution is a backbone of Luís’ path, with a Masters of Science in Industrial Engineering and Management, a degree in Computer Engineering, a specialization in Web Development and a Postgraduate degree in Business Intelligence & Analytics already completed. Currently Luís is taking a PhD in Informatics Engineering, focused on Sequential Data-related Deep Learning Applications."
+  thumbnailUrl: luisroque.jpg
+  rockstar: true
+  social: 

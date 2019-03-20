@@ -63,7 +63,7 @@
   name: "Pedro"
   surname: "Vincente"
   company: "Mindera"
-  title: ""
+  title: "Mobile Software Craftsman"
   bio: "Pedro Vicente is an improver. “What kind of bs title is that?” - you probably were asking yourself. Well, he thrives by (trying - sometimes a lot - until he successfully) improves the processes around him either it being human or software related. He has been developing mobile apps since 2008ish. Currently he is a Mobile Software Craftsman at Mindera, organizes stuff at GDG Porto and recently founded LoopGain"
   thumbnailUrl: pedrovincente.jpg
   rockstar: true
@@ -75,7 +75,7 @@
   name: "Ricardo"
   surname: "Rodrigues"
   company: "Mindera"
-  title: ""
+  title: "Product Owner"
   bio: "Ricardo Rodrigues loves learning and sharing. He believes every experience is an opportunity to improve. Sharing  experiences, knowledge , stories is just another tool for our continuous improvement. Currently is he a Product Owner at Mindera and Product Tank Porto co-organiser."
   thumbnailUrl: ricardorodrigues.jpg
   rockstar: true
@@ -87,7 +87,7 @@
   name: "André"
   surname: "Oliveira"
   company: "Pixelmatters"
-  title: ""
+  title: "Founder & CEO"
   bio: "Started as UX/UI Designer, but it is in the adrenaline rush of business that his true passion is. Founder & CEO of Pixelmatters, he’s a new generation entrepreneur. <br>Totally self-taught, at the age of 28 he leads the company he created in December 2013. He is pleased - according to his own - to work everyday with a team of over 30 world-class professionals."
   thumbnailUrl: andreoliveira.jpg
   rockstar: true
@@ -135,7 +135,7 @@
   name: "Inês"
   surname: "Quaresma"
   company: "Blip"
-  title: ""
+  title: "Talent Acquisition Specialist"
   bio: ""
   thumbnailUrl: inesquaresma.jpg
   rockstar: true

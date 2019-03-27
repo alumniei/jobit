@@ -2,26 +2,25 @@
   group: "Companies"
   elements: 
     - {name: "Blip", description: "", link: "https://blip.pt/", imageUrl: "blip.png"}
-    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
-    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Deloitte", description: "", link: "https://www2.deloitte.com/pt/pt.html", imageUrl: "delloite.png"}
     - {name: "Vestas", description: "", link: "https://www.vestas.com/", imageUrl: "vestas.svg"}
-    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Fabamaq", description: "", link: "https://www.fabamaq.com/", imageUrl: "fabamaq.png"}
     - {name: "Feedzai", description: "", link: "https://feedzai.com/", imageUrl: "feedzai.png"}
     - {name: "Pixelmatters", description: "", link: "http://pixelmatters.com/", imageUrl: "pixelmatters.png"}
     - {name: "Talkdesk", description: "Talkdesk is the most innovative cloud contact center platform, available for +1400 customers around the world. At Talkdesk, we are action-driven, embrace positivity and fun, treat challenges as stepping stones, and enjoy the adventure that we are on together! With offices in San Francisco, Lisbon, Porto, Coimbra, London and Salt Lake City, Talkdesk has multicultural teams working on innovative software as a service, developed with recent technologies and agile methodologies.", link: "https://www.talkdesk.com/", imageUrl: "talkdesk.svg"}
     - {name: "Farfetch", description: "", link: "https://www.farfetch.com/", imageUrl: "farfetch.jpg"}
-    - {name: "Critical Techworks", description: "", link: "https://www.criticaltechworks.com/", imageUrl: "criticaltechworks.svg"}
-    - {name: "Outsystems", description: "", link: "https://www.outsystems.com/", imageUrl: "outsystems.svg"}
+    - {name: "Critical Techworks", description: "", link: "https://www.criticaltechworks.com/", imageUrl: "techworks.jpg"}
+    - {name: "Outsystems", description: "OutSystems is the #1 low-code platform for rapid application development. Recognized as a Leader by both Forrester for low-code platforms and Gartner for mobile application development and high-productivity application-platform-as-a-service, OutSystems is the only solution that combines the power of visual development with advanced mobile capabilities. Because it was designed to make building high-quality enterprise-grade applications easy, thousands of customers trust OutSystems to deliver entire portfolios that easily integrate with existing systems—incredibly fast.", link: "https://www.outsystems.com/", imageUrl: "outsystems.svg"}
     - {name: "E-goi", description: "A E-goi é uma Martech, empresa que desenvolve tecnologia para marketing, a partir de Matosinhos, para mais de 40 países em todo o Mundo. A empresa, que iniciou a sua atividade em 2008, conta atualmente com mais de 100 colaboradores e tem apostado recentemente em investigação e inovação, através de um programa de estágios que já colocou mais de 20 colaboradores nos seus quadros nos últimos 2 anos.", link: "https://www.e-goi.pt", imageUrl: "egoi.svg"}
     - {name: "Xpand-It", description: "", link: "https://www.xpand-it.com/", imageUrl: "xpandit.png"}
     - {name: "Mindera", description: "", link: "https://mindera.com/", imageUrl: "mindera.png"}
     - {name: "Huub", description: "Founded in 2015, HUUB is disrupting the Fashion Supply Chain of the future, managing over 50 brands worldwide through its Product: Spoke. This management platform, which was created inhouse from the beginning, has evolved with state of the art frameworks, a microservices architecture strengthen with A.I models based on Machine Learning and Deep Learning implementations to bring transversal optimization to the Supply Chain of brands.", link: "https://www.thehuub.co/", imageUrl: "huub.png"}
     - {name: "Bosh", description: "", link: "https://www.bosch.pt", imageUrl: "bosch.jpg"}
     - {name: "Toptal", description: "", link: "https://www.toptal.com/", imageUrl: "toptal.svg"}
-    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Jscrambler", description: "Jscrambler is the leader in client-side security. Our enterprise-grade security solutions enable JavaScript applications to become self-defensive and resilient to tampering and reverse-engineering, while also providing complete visibility over client-side attacks, including DOM tampering, supply chain attacks, and customer hijacking. Our technology is trusted by the Fortune 500 and 43.000+ companies and individuals globally. By working with these global market leaders, we have the challenge of developing and marketing cutting-edge technology that protects millions of users.", link: "https://jscrambler.com/", imageUrl: "jscrambler.svg"}
     - {name: "KPMG", description: "", link: "https://home.kpmg/xx/en/home.html", imageUrl: "kpmg.svg"}
     - {name: "Facebook", description: "", link: "https://www.facebook.com/careers/", imageUrl: "facebook.png"}
-    - {name: "soon", description: "", link: "", imageUrl: "soon.jpg"}
+    - {name: "Hostelworld", description: "", link: "https://www.hostelworld.com/", imageUrl: "hostelworld.jpg"}
     - {name: "Switch Payments", description: "", link: "https://switchpayments.com/#/", imageUrl: "switch.png"}
     - {name: "Google", description: "", link: "https://careers.google.com/jobs/", imageUrl: "google.svg"}
 - 

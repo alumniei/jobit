@@ -16,7 +16,7 @@
   surname: "Gonçalves"
   company: "Facebook"
   title: "Software Engineer"
-  bio: "All-around, hardworking and dedicated software engineer. Enthusiast of programming paradigms, algorithms and data structures, distributed systems and software architecture in general. Loves learning new stuff every day, working with state-of-the-art technologies and making an impact on the technological decisions in the environment he works. An active contributor and a lover of the open-source model with a desire to keep developing products and services that have a great impact on society."
+  bio: "All-around, hardworking and dedicated software engineer. Enthusiast of programming paradigms, algorithms and data structures, distributed systems and software architecture in general. Loves learning new stuff every day, working with state-of-the-art \nologies and making an impact on the technological decisions in the environment he works. An active contributor and a lover of the open-source model with a desire to keep developing products and services that have a great impact on society."
   thumbnailUrl: ruigoncalves.jpg
   rockstar: true
   social: 
@@ -174,3 +174,58 @@
   thumbnailUrl: pedrotorres.jpg
   rockstar: true
   social: 
+
+- 
+  id: 027
+  name: "Ana"
+  surname: "Sousa"
+  company: "Outsystems"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+
+- 
+  id: 028
+  name: "André"
+  surname: "Pinto Vieira"
+  company: "Outsystems"
+  title: "Senior Software Engineer"
+  bio: "He is a passionate software craftsman who loves to write clean code and software development processes. He loves to learn and share his experiences and knowledge about everything related to software. Also, André is a frequent participant of several tech communities and events such as NetPonto or meetups. He is currently a Senior Software Engineer at OutSystems working in the OutSystems IDE."
+  thumbnailUrl: andrevieira.png
+  rockstar: true
+  social: 
+
+- 
+  id: 029
+  name: "Piotr"
+  surname: "Sielecki"
+  company: "Bosch"
+  title: ""
+  bio: "Após concluir o Mestrado em Informática, na Poznan University of Technology (Polónia) e Alpen-Adria Universitaet Klagenfurt na Austria (Joint Diploma Degree), Piotr Sielecki especializou-se em Software Engineering. Após concluir o Mestrado em Informática, prosseguiu os estudos com a realização do Mestrado em Economia, na Poznan University of Economics. Após a conclusão dos estudos, passou por algumas empresas de IT, passando por Portugal, na área de IT, mais concretamente, em telecomunicações. O percurso na Bosch teve início em 2009, através do Junior Management Program. Piotr passou pela área de Embedded Systems, pelos departamentos de desenvolvimento de SW para ESP, iBooster (Freno Inteligente), Ultrasound Driver Assistence Systems, integrando diferentes funções (Test Manager, SW Project Manager, SW Process Expert). Em 2015, começou a trabalhar como Senior Manager, responsável pela ADAS Central ECU SW. Em 2018, integrou a Bosch Car Multimedia, em Braga, como responsável para secção de desenvolvimento de SW para ADAS Sensor."
+  thumbnailUrl: piotr.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 030
+  name: "João"
+  surname: "Chapa"
+  company: "Jscrambler"
+  title: ""
+  bio: "Driven by a longstanding passion for solving problems using the power of computer science, João Chapa has turned a Masters in Chemical and Biochemical engineering into a career as a software developer. Currently, his day job is developing all kinds of JavaScript dark magic at Jscrambler's Code Integrity team, and during his off-time, he pursues his interests in philosophy, politics, and League of Legends. - João Chapa"
+  thumbnailUrl: joaochapa.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 031
+  name: "Pedro"
+  surname: "Vieira da Silva"
+  company: "Critical TechWorks"
+  title: "CTO"
+  bio: "With 20 years of experience in IT Pedro has since ever wanted to solve problems and create solutions. For the last 12 years he has been leading dev teams in creating high quality solutions in different businesses critical domains. This allowed him to experience different challenges in business and technical domains. Advocate of agile methodologies, continuous delivery and cloud architectures he aims to bring the best working model to his teams so they become masters of engineering and the greatest value achievers. In 2018 he addressed his greatest challenge to date, by becoming CTO at Critical TechWorks, where he aims to help shape the future of mobility."
+  thumbnailUrl: pedrosilva.jpg
+  rockstar: true
+  social:

@@ -9,7 +9,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "To be disclosed"
+  title: "Deloitte"
   description: ""
   subtype: keynote
   speakers: []
@@ -36,7 +36,7 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "To be disclosed"
+  title: "Fabamaq"
   description: ""
   subtype: keynote
   speakers: []
@@ -85,7 +85,7 @@
   title: "Critical Techworks"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [031]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -93,9 +93,9 @@
 -
   id: 011
   title: "Outsystems"
-  description: ""
+  description: "OutSystems is the #1 low-code platform for rapid application development. Recognized as a Leader by both Forrester for low-code platforms and Gartner for mobile application development and high-productivity application-platform-as-a-service, OutSystems is the only solution that combines the power of visual development with advanced mobile capabilities. Because it was designed to make building high-quality enterprise-grade applications easy, thousands of customers trust OutSystems to deliver entire portfolios that easily integrate with existing systems—incredibly fast."
   subtype: keynote
-  speakers: []
+  speakers: [027, 028]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -145,7 +145,7 @@
   title: "Bosch"
   description: "Let’s be remarkable. <br> Carros autónomos, máquinas que falam entre si, casas e cidades inteligentes. <br> Na Bosch, transformamos estas visões em realidade para melhorar a qualidade de vida das pessoas por todo o mundo. Inicia algo grande e junta-te a esta equipa, onde vais poder criar algo extraordinário: Tecnologia para a vida.<br> Presente em Portugal desde 1911, a Bosch é uma das empresas mais reconhecidas do país. Com uma presença consolidada, exporta mais de 95% da sua produção para mercados internacionais e tem vindo a alargar as atividades de investigação e desenvolvimento em hardware e software para diferentes áreas de negócio.<br> As exigências do mercado e o objetivo de tornar a Bosch líder em IoT (Internet das Coisas) são relevantes também para as atividades em Portugal. Com mais de 5.000 colaboradores, a Bosch é um dos maiores empregadores industriais de Portugal e gerou, em 2017, 1,5 mil milhões de euros em vendas internas.<br> Transforma as tuas ideias em tecnologias benéficas. Quer seja nas áreas de soluções de mobilidade, bens de consumo, tecnologia industrial ou tecnologia de energia e construção, connosco vais ter a oportunidade de melhorar a qualidade de vida em todo o mundo!<br> Sabe mais em www.bosch.pt/."
   subtype: keynote
-  speakers: []
+  speakers: [029]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -161,10 +161,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
-  title: "To be disclosed"
-  description: ""
+  title: "Jscrambler"
+  description: "Jscrambler is the leader in client-side security. Our enterprise-grade security solutions enable JavaScript applications to become self-defensive and resilient to tampering and reverse-engineering, while also providing complete visibility over client-side attacks, including DOM tampering, supply chain attacks, and customer hijacking. Our technology is trusted by the Fortune 500 and 43.000+ companies and individuals globally. By working with these global market leaders, we have the challenge of developing and marketing cutting-edge technology that protects millions of users."
   subtype: keynote
-  speakers: []
+  speakers: [030]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -191,7 +191,7 @@
 
 -
   id: 021
-  title: "To be disclosed"
+  title: "Microsoft"
   description: ""
   subtype: keynote
   speakers: []
@@ -211,7 +211,7 @@
 
 -
   id: 023
-  title: "To be Disclosed"
+  title: "Hostelworld"
   description: ""
   subtype: keynote
   speakers: []
@@ -250,3 +250,4 @@
   title: "Networking"
   place: ""
   service: true
+

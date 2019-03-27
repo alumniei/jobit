@@ -28,9 +28,9 @@
 -
   id: 004
   title: "Vestas"
-  description: ""
+  description: "Vestas is the energy industry’s global partner on sustainable energy solutions. We design, manufacture, install, and service wind turbines across the globe, and with 101 GW of wind turbines in 80 countries, we have installed more wind power than anyone else. Porto Design Centre is a critical part of the Vestas engineering network. It works with other design centres in Denmark, Germany, India, and the UK. It is tasked with developing capabilities in a cross-functional, agile development environment covering abroad set of different disciplines in mechanical, electrical, controls, data analytics, materials, among others."
   subtype: keynote
-  speakers: []
+  speakers: [032]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -66,15 +66,14 @@
   title: "Talkdesk"
   description: "Talkdesk is the most innovative cloud contact center platform, available for +1400 customers around the world. At Talkdesk, we are action-driven, embrace positivity and fun, treat challenges as stepping stones, and enjoy the adventure that we are on together! With offices in San Francisco, Lisbon, Porto, Coimbra, London and Salt Lake City, Talkdesk has multicultural teams working on innovative software as a service, developed with recent technologies and agile methodologies."
   subtype: keynote
-  speakers: [025, 026]
+  speakers: [026, 025]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
   title: "Farfetch"
-  description: "Farfetch Limited is the leading global technology platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch marketplace connects customers in 190 countries with items from more than 48 countries and over 1,000 of the world's best boutiques and brands, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Through its business units, which also include Store of The Future, Farfetch Black & White Solutions, Browns, and Stadium Goods, Farfetch continues to invest in innovation and develop key technologies, business solutions, and services for the luxury fashion industry. <br> For more information, please visit www.farfetch.com.    
-"
+  description: "Farfetch Limited is the leading global technology platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch marketplace connects customers in 190 countries with items from more than 48 countries and over 1,000 of the world's best boutiques and brands, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Through its business units, which also include Store of The Future, Farfetch Black & White Solutions, Browns, and Stadium Goods, Farfetch continues to invest in innovation and develop key technologies, business solutions, and services for the luxury fashion industry. <br> For more information, please visit www.farfetch.com."
   subtype: keynote
   speakers: [015, 016]
   language: pt
@@ -222,9 +221,9 @@
 -
   id: 024
   title: "Google"
-  description: ""
+  description: "Organise the world’s information and make it universally accessible and useful.' Since the beginning, our goal has been to develop services that significantly improve the lives of as many people as possible. Not just for some. For everyone."
   subtype: keynote
-  speakers: []
+  speakers: [033]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -234,7 +233,7 @@
   title: "Google - CV Workshop"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [033]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -248,6 +247,12 @@
 -
   id: 501
   title: "Networking"
+  place: ""
+  service: true
+
+-
+  id: 502
+  title: ""
   place: ""
   service: true
 

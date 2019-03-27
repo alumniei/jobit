@@ -53,6 +53,11 @@
     }
     - {
     	startTime: "18:05",
-    	endTime: "18:35",
-    	sessionIds: [501]
+    	endTime: "18:25",
+    	sessionIds: [501, 501, 025]
+    }
+    - {
+    	startTime: "18:25",
+    	endTime: "18:55",
+    	sessionIds: [502, 502, 501]
     }

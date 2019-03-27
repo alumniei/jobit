@@ -155,12 +155,12 @@
 
 - 
   id: 025
-  name: "Daniela"
-  surname: "Barros"
+  name: "Luis"
+  surname: "Duarte"
   company: "Talkdesk"
-  title: "Learning & Development Manager"
-  bio: ""
-  thumbnailUrl: 
+  title: "Software Engineer"
+  bio: "I am a software engineer with a masters in Informatics and Computer Engineering from FEUP, and I joined Talkdesk a little over 6 months ago through the Tech Dojo program. Currently part of a fullstack development team that focuses mainly on pre-call interactions, I will be sharing a bit of my experience, on the leap from student to software engineering, talking about the main challenges I faced, as well as the growth and learning opportunities that Talkdesk gave me."
+  thumbnailUrl: luisduarte.jpg
   rockstar: true
   social: 
 
@@ -227,5 +227,27 @@
   title: "CTO"
   bio: "With 20 years of experience in IT Pedro has since ever wanted to solve problems and create solutions. For the last 12 years he has been leading dev teams in creating high quality solutions in different businesses critical domains. This allowed him to experience different challenges in business and technical domains. Advocate of agile methodologies, continuous delivery and cloud architectures he aims to bring the best working model to his teams so they become masters of engineering and the greatest value achievers. In 2018 he addressed his greatest challenge to date, by becoming CTO at Critical TechWorks, where he aims to help shape the future of mobility."
   thumbnailUrl: pedrosilva.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 032
+  name: "Roberto"
+  surname: "Ugo"
+  company: "Vestas Porto"
+  title: "Director of the Data Engineering & Analytics department"
+  bio: "Experienced in bootstrapping and leading multidisciplinary engineering teams in market leading companies and international environments, Roberto is currently the Director of the Data Engineering & Analytics department at Vestas Porto. He is also a startup mentor (Techstars Berlin) and former startup CTO in the fintech sector. Winner of the MIT Portugal Award and several other innovation awards, he has a strong technical background in computer science (data engineering) & network engineering (security), with a growing patent portfolio in those areas."
+  thumbnailUrl: robertougo.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 033
+  name: "André"
+  surname: "Lago"
+  company: "Google"
+  title: "Software Engineer"
+  bio: "André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world."
+  thumbnailUrl: andrelago.jpg
   rockstar: true
   social:

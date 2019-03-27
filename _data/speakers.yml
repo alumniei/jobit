@@ -155,23 +155,23 @@
 
 - 
   id: 025
-  name: "Luis"
-  surname: "Duarte"
-  company: "Talkdesk"
-  title: "Software Engineer"
-  bio: "I am a software engineer with a masters in Informatics and Computer Engineering from FEUP, and I joined Talkdesk a little over 6 months ago through the Tech Dojo program. Currently part of a fullstack development team that focuses mainly on pre-call interactions, I will be sharing a bit of my experience, on the leap from student to software engineering, talking about the main challenges I faced, as well as the growth and learning opportunities that Talkdesk gave me."
-  thumbnailUrl: luisduarte.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 026
   name: "Pedro"
   surname: "Gustavo Torres"
   company: "Talkdesk"
   title: "Engineering Director"
   bio: "Pedro is an impact-driven person passionate about People, Technology, and Products. I’m a fan of Agile, Lean, and all the practices that enable organizations to deliver early value to their customers. I have 10+ years of experience creating and running engineering teams in blue chip companies and also in startups."
   thumbnailUrl: pedrotorres.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 026
+  name: "Luis"
+  surname: "Duarte"
+  company: "Talkdesk"
+  title: "Software Engineer"
+  bio: "I am a software engineer with a masters in Informatics and Computer Engineering from FEUP, and I joined Talkdesk a little over 6 months ago through the Tech Dojo program. Currently part of a fullstack development team that focuses mainly on pre-call interactions, I will be sharing a bit of my experience, on the leap from student to software engineering, talking about the main challenges I faced, as well as the growth and learning opportunities that Talkdesk gave me."
+  thumbnailUrl: luisduarte.jpg
   rockstar: true
   social: 
 

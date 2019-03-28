@@ -112,7 +112,7 @@
   surname: "Campos"
   company: "Switch"
   title: "Co-Founder & CTO"
-  bio: ""
+  bio: "Pedro Campos is Switch’s CTO. He loves searching the simplest solutions to hard problems. He founded and led several software companies and development teams, having developed web and mobile apps for millions of users, startups, and giant corps."
   thumbnailUrl: pedrocampos.jpg
   rockstar: true
   social: 
@@ -124,7 +124,7 @@
   surname: "Alvaro"
   company: "Switch"
   title: "Head of HR"
-  bio: ""
+  bio: "João Álvaro is Switch’s Head of HR, with the mission to attract the best talent and create a unique employee journey. He is a human resources professional with transversal experience in recruitment, training and organizational culture projects. Outside the office he’s absolutely passionate about sport and competition."
   thumbnailUrl: joaoalvaro.jpg
   rockstar: true
   social: 
@@ -175,16 +175,6 @@
   rockstar: true
   social: 
 
-- 
-  id: 027
-  name: "Ana"
-  surname: "Sousa"
-  company: "Outsystems"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
 
 - 
   id: 028

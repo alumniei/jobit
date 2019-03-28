@@ -94,7 +94,7 @@
   title: "Outsystems"
   description: "OutSystems is the #1 low-code platform for rapid application development. Recognized as a Leader by both Forrester for low-code platforms and Gartner for mobile application development and high-productivity application-platform-as-a-service, OutSystems is the only solution that combines the power of visual development with advanced mobile capabilities. Because it was designed to make building high-quality enterprise-grade applications easy, thousands of customers trust OutSystems to deliver entire portfolios that easily integrate with existing systems—incredibly fast."
   subtype: keynote
-  speakers: [027, 028]
+  speakers: [028]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -201,7 +201,7 @@
 -
   id: 022
   title: "Switch"
-  description: ""
+  description: "Switch is a Payments Platform-as-a-Service, that processes millions of transactions for businesses with demanding payment operations, connecting to any online and offline payment method and provider, and offering state-of-the-art risk, routing, reconciliation and analytics management tools. Our very experienced engineering team is working on a modern event-sourcing micro-services cloud-based architecture, dealing with complex big data flows, abstracting and building APIs for the infinite world of payments, and developing beautiful single-page-applications and plugins."
   subtype: keynote
   speakers: [021, 022]
   language: pt

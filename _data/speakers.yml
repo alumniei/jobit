@@ -39,7 +39,7 @@
   name: "Maria"
   surname: "Cabral"
   company: "Farfetch"
-  title: "RH"
+  title: "Talent Acquisition Specialist"
   bio: ""
   thumbnailUrl:
   rockstar: true
@@ -51,7 +51,7 @@
   name: "João"
   surname: "Luís"
   company: "Farfetch"
-  title: "Engenharia – Speaker"
+  title: "Head of Engineering"
   bio: "João, now 32 years old, has over 7 years of international leadership experience in Software Engineering and in building and leading technology companies like Rocket Internet, Zalando, Fyber and Farfetch, both in Europe and in Southeast Asia. Main areas of expertise include scaling multi-functional technology teams, delivering value through distributed software hubs and establishing the technology foundations to support startups growth. He's now Head of Engineering for Consumer Products at Farfetch."
   thumbnailUrl: joaoluis.jpg
   rockstar: true

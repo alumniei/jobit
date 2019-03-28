@@ -18,10 +18,10 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "To be disclosed"
+  title: "Freelancing"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [034]
   language: pt
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

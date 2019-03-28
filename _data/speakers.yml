@@ -251,3 +251,14 @@
   thumbnailUrl: andrelago.jpg
   rockstar: true
   social:
+
+- 
+  id: 034
+  name: "João"
+  surname: "Oliveira e Silva"
+  company: ""
+  title: "Freelancer"
+  bio: ""
+  thumbnailUrl: joaosilva.jpg
+  rockstar: true
+  social:

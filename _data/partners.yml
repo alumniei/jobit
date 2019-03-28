@@ -23,6 +23,8 @@
     - {name: "Hostelworld", description: "", link: "https://www.hostelworld.com/", imageUrl: "hostelworld.jpg"}
     - {name: "Switch Payments", description: "", link: "https://switchpayments.com/#/", imageUrl: "switch.png"}
     - {name: "Google", description: "Organise the world’s information and make it universally accessible and useful.' Since the beginning, our goal has been to develop services that significantly improve the lives of as many people as possible. Not just for some. For everyone.", link: "https://careers.google.com/jobs/", imageUrl: "google.svg"}
+    - {name: "Microsoft", description: "", link: "", imageUrl: "microsoft.svg"}
+
 - 
   group: "Partners"
   elements: 

@@ -36,6 +36,17 @@
 
 - 
   id: 015
+  name: "José"
+  surname: "Duarte Silva"
+  company: "Farfetch"
+  title: "Engineering Manager at Farfetch"
+  bio: "José has 9 years of professional experience in the Software Engineering area, in companies with international presence like Rocket Internet, Blip and Farfetch. Started managing Quality Assurance areas, now is managing and growing multi-functional technology teams as an Engineering Manager for Consumer Products Web at Farfetch."
+  thumbnailUrl: joseduartesilva.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 016
   name: "Maria"
   surname: "Cabral"
   company: "Farfetch"
@@ -46,16 +57,7 @@
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 
-- 
-  id: 016
-  name: "João"
-  surname: "Luís"
-  company: "Farfetch"
-  title: "Head of Engineering"
-  bio: "João, now 32 years old, has over 7 years of international leadership experience in Software Engineering and in building and leading technology companies like Rocket Internet, Zalando, Fyber and Farfetch, both in Europe and in Southeast Asia. Main areas of expertise include scaling multi-functional technology teams, delivering value through distributed software hubs and establishing the technology foundations to support startups growth. He's now Head of Engineering for Consumer Products at Farfetch."
-  thumbnailUrl: joaoluis.jpg
-  rockstar: true
-  social: 
+
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 
 - 
@@ -121,7 +123,7 @@
 - 
   id: 022
   name: "João"
-  surname: "Alvaro"
+  surname: "Álvaro"
   company: "Switch"
   title: "Head of HR"
   bio: "João Álvaro is Switch’s Head of HR, with the mission to attract the best talent and create a unique employee journey. He is a human resources professional with transversal experience in recruitment, training and organizational culture projects. Outside the office he’s absolutely passionate about sport and competition."

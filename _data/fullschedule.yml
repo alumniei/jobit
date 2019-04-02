@@ -29,7 +29,7 @@
     - {
       startTime: "16:05",
       endTime: "16:35",
-      sessionIds: [500]
+      sessionIds: [500, 503, 503]
     }
     - {
     	startTime: "16:35",
@@ -54,10 +54,10 @@
     - {
     	startTime: "18:05",
     	endTime: "18:25",
-    	sessionIds: [501, 501, 025]
+    	sessionIds: [501, 504, 025]
     }
     - {
     	startTime: "18:25",
     	endTime: "18:55",
-    	sessionIds: [502, 502, 501]
+    	sessionIds: [502, 502, 504]
     }

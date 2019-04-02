@@ -80,7 +80,7 @@
     - {
       startTime: "16:05",
       endTime: "16:35",
-      sessionIds: [500]
+      sessionIds: [503]
     }
     - {
     	startTime: "16:35",
@@ -105,7 +105,7 @@
     - {
     	startTime: "18:05",
     	endTime: "18:35",
-    	sessionIds: [501]
+    	sessionIds: [504]
     }
 
 - 
@@ -135,7 +135,7 @@
     - {
       startTime: "16:05",
       endTime: "16:35",
-      sessionIds: [500]
+      sessionIds: [503]
     }
     - {
     	startTime: "16:35",
@@ -165,5 +165,5 @@
     - {
     	startTime: "18:25",
     	endTime: "18:55",
-    	sessionIds: [501]
+    	sessionIds: [504]
     }

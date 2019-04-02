@@ -57,9 +57,6 @@
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 
-
-    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 017
   name: "Pedro"
@@ -218,7 +215,7 @@
   company: "Critical TechWorks"
   title: "CTO"
   bio: "With 20 years of experience in IT Pedro has since ever wanted to solve problems and create solutions. For the last 12 years he has been leading dev teams in creating high quality solutions in different businesses critical domains. This allowed him to experience different challenges in business and technical domains. Advocate of agile methodologies, continuous delivery and cloud architectures he aims to bring the best working model to his teams so they become masters of engineering and the greatest value achievers. In 2018 he addressed his greatest challenge to date, by becoming CTO at Critical TechWorks, where he aims to help shape the future of mobility."
-  thumbnailUrl: pedrosilva.jpg
+  thumbnailUrl:
   rockstar: true
   social:
 
@@ -254,3 +251,14 @@
   thumbnailUrl: joaosilva.jpg
   rockstar: true
   social:
+
+- 
+  id: 035
+  name: "Lucas"
+  surname: "Alves"
+  company: "Farfetch"
+  title: "Junior Software Engineer"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 

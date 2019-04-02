@@ -10,7 +10,7 @@
 -
   id: 002
   title: "Deloitte"
-  description: ""
+  description: "A Deloitte é uma marca global presente em mais de 150 países e territórios e com uma rede de aproximadamente 286 mil profissionais espalhados pelo mundo. Somos reconhecidos pela busca permanente da excelência e pelo foco no serviço ao cliente. Vivemos o nosso propósito comum, de criar um impacto relevante e positivo, nas nossas pessoas, nos clientes e na sociedade. A Deloitte tornou-se a maior rede de serviços profissionais no mundo. Prestamos serviços de Auditoria; Assurance, Consulting, Financial Advisory, Risk Advisory, Tax e serviços relacionados a clientes nos mais diversos setores de atividade. Ainda faltam muitas surpresas, mas temos a maior felicidade em partilhar convosco."
   subtype: keynote
   speakers: []
   language: pt
@@ -75,7 +75,7 @@
   title: "Farfetch"
   description: "Farfetch Limited is the leading global technology platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch marketplace connects customers in 190 countries with items from more than 48 countries and over 1,000 of the world's best boutiques and brands, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Through its business units, which also include Store of The Future, Farfetch Black & White Solutions, Browns, and Stadium Goods, Farfetch continues to invest in innovation and develop key technologies, business solutions, and services for the luxury fashion industry. <br> For more information, please visit www.farfetch.com."
   subtype: keynote
-  speakers: [015, 016]
+  speakers: [015, 016, 035]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

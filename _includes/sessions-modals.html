@@ -33,9 +33,11 @@
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 									<div class="row">
+										{% if speaker.thumbnailUrl != null %}									
 										<div class="col-md-2 col-sm-2">
 											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 										</div>
+										{% endif %}
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
 												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>

@@ -262,3 +262,25 @@
   thumbnailUrl:
   rockstar: true
   social: 
+
+- 
+  id: 036
+  name: "Guilherme"
+  surname: "Pinto"
+  company: "Hostelworld"
+  title: ""
+  bio: "Guilherme found his passion for software development on the very first day in college. After finishing his master in informatics and computing engineering in the University of Porto, began his professional journey in Hostelworld as a backend engineer. Currently, Guilherme is part of the Checkout and Payments squad, working to constantly improve the experience of every user during the checkout phase while providing a flexible and safe service for any traveller that dreams about meeting the world."
+  thumbnailUrl: guilhermepinto.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 037
+  name: "Hélder"
+  surname: "Nunes"
+  company: "Hostelworld"
+  title: "I found my passion in web development later on my career, I've worked on system's administrations for several years, and then moved to web development. From the several companies I've worked on, I've worked on very different areas ranging from API's, Payments, frontend, Backend apps and web site architectures. I'm currently working on backend api's, but moving to site performance soon. I've changed to HostelWorld 1,5 years ago and I'm fully committed to these new challenges, and enjoying every bit of the way."
+  bio: ""
+  thumbnailUrl: heldernunes.jpg
+  rockstar: true
+  social: 

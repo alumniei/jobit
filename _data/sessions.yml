@@ -213,7 +213,7 @@
   title: "Hostelworld"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [036, 037]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

@@ -3,7 +3,7 @@
   title: "Blip"
   description: "Blip is a tech and innovation hub with a strong knowledge in software development. Founded in 2009 and based in Porto, it was acquired by Betfair in 2012, and is now part of the Paddy Power Betfair group - one of the world's largest in the bookmaking industry, with an annual revenue of around 2 billion Euros. The code we develop in Porto is used by over 6 million people and we are in the API Billionaires Club alongside players such as Google, Facebook and Twitter. <br> We are focused on engineering high performance Web Applications, Websites and Retail systems. Does that sound challenging? Well, it is. That's why we only work with the best, making collaboration as effective as possible and developing software using agile methodologies and processes. <br> We see ourselves as a big company with a start-up soul where a full flexibility/full responsibility approach makes the perfect work life balance. <br> Curious to know more? Talk to one of our Talent Acquisition Specialists or browse the website to find out more about the available positions and apply today, because if you're smart, you're in."
   subtype: keynote
-  speakers: [023]
+  speakers: [023, 038]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -12,7 +12,7 @@
   title: "Deloitte"
   description: "A Deloitte é uma marca global presente em mais de 150 países e territórios e com uma rede de aproximadamente 286 mil profissionais espalhados pelo mundo. Somos reconhecidos pela busca permanente da excelência e pelo foco no serviço ao cliente. Vivemos o nosso propósito comum, de criar um impacto relevante e positivo, nas nossas pessoas, nos clientes e na sociedade. A Deloitte tornou-se a maior rede de serviços profissionais no mundo. Prestamos serviços de Auditoria; Assurance, Consulting, Financial Advisory, Risk Advisory, Tax e serviços relacionados a clientes nos mais diversos setores de atividade. Ainda faltam muitas surpresas, mas temos a maior felicidade em partilhar convosco."
   subtype: keynote
-  speakers: []
+  speakers: [039]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

@@ -135,7 +135,7 @@
   surname: "Quaresma"
   company: "Blip"
   title: "Talent Acquisition Specialist"
-  bio: ""
+  bio: "As Talent Acquisition Specialist at Blip, Inês Quaresma is responsible for developing Blip's new young talent strategy in the company. She has a background in Management and began her career in a multinational which allowed her to gain a great experience in the recruitment, selection and retention of young talents."
   thumbnailUrl: inesquaresma.jpg
   rockstar: true
   social: 
@@ -279,8 +279,30 @@
   name: "Hélder"
   surname: "Nunes"
   company: "Hostelworld"
-  title: "I found my passion in web development later on my career, I've worked on system's administrations for several years, and then moved to web development. From the several companies I've worked on, I've worked on very different areas ranging from API's, Payments, frontend, Backend apps and web site architectures. I'm currently working on backend api's, but moving to site performance soon. I've changed to HostelWorld 1,5 years ago and I'm fully committed to these new challenges, and enjoying every bit of the way."
-  bio: ""
+  title: ""
+  bio: "I found my passion in web development later on my career, I've worked on system's administrations for several years, and then moved to web development. From the several companies I've worked on, I've worked on very different areas ranging from API's, Payments, frontend, Backend apps and web site architectures. I'm currently working on backend api's, but moving to site performance soon. I've changed to HostelWorld 1,5 years ago and I'm fully committed to these new challenges, and enjoying every bit of the way."
   thumbnailUrl: heldernunes.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 038
+  name: "Eduardo"
+  surname: "Ribeiro"
+  company: "Blip"
+  title: "Software Developer"
+  bio: "With 10 years of experience as a software developer, Eduardo Ribeiro has special pleasure when is finding solutions and interacting with people. Working at Blip since 2014, he currently works as a front-end developer, having gone through various projects and roles."
+  thumbnailUrl: eduardoribeiro.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 039
+  name: "João"
+  surname: "Ferreira"
+  company: "Deloitte"
+  title: "Manager"
+  bio: "I've started my career at Deloitte in 2009, as a Technology Integration consultant, and I am currently in the management team of the Deloitte Porto Digital Studio. During my consulting career I've worked in major technological transformation programs in Portugal, Angola, Middle East, UK and in the Nordic countries. I am ITIL certified and have a master in Service Engineering and Management from FEUP. I was involved in the definition of IT methodologies, mainly for Agile contexts, and defended thesis in the application of Design Thinking and CMMI to the design of services, with a practical case in the design of a Center of Excellence for the insurance industry."
+  thumbnailUrl: joaoferreira.jpg
   rockstar: true
   social: 

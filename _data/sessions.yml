@@ -39,7 +39,7 @@
   title: "Fabamaq"
   description: "At Fabamaq we believe we have a part in transforming the Portuguese economy. We're a start-up from Porto born in 2010 with only 10 gamers, and now we're more than 170. We work with clients from all over the world, from Asia to South America. Proximity, innovation and development are the foundations of FMQ's identity. That's why we invest in internal development programmes, because we know that we owe our growth to each and every person working here."
   subtype: keynote
-  speakers: []
+  speakers: [040]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

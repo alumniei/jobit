@@ -306,3 +306,14 @@
   thumbnailUrl: joaoferreira.jpg
   rockstar: true
   social: 
+
+- 
+  id: 040
+  name: "João"
+  surname: "Paulo"
+  company: "Fabamaq"
+  title: "Software Engineer"
+  bio: "Soon after he was born João Paulo started tearing apart his car toys and detuning his dad's guitars. With this background he could only be one of two things, an Engineer or a Musician.  So he became both. After graduating from FEUP João Paulo went on to work at FABAMAQ where he engineers software solutions for the creative team. "
+  thumbnailUrl: joaopaulo.jpg
+  rockstar: true
+  social: 

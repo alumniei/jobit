@@ -46,9 +46,9 @@
 -
   id: 006
   title: "Feedzai"
-  description: ""
+  description: "Feedzai is the market leader in fighting fraud with AI. We’re coding the future of commerce with today’s most advanced risk management platform powered by big data and machine learning. Founded and developed by data scientists and aerospace engineers, Feedzai has one mission: to make banking and commerce safe. The world’s largest banks, processors, and retailers use Feedzai’s fraud prevention and anti-money laundering products to manage risk, while improving customer experience."
   subtype: keynote
-  speakers: []
+  speakers: [041, 042]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

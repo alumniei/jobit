@@ -317,3 +317,25 @@
   thumbnailUrl: joaopaulo.jpg
   rockstar: true
   social: 
+
+-
+  id: 041
+  name: "Mário"
+  surname: "Amaral"
+  company: "Feedzai"
+  title: "Technical Project Manager"
+  bio: "I’ve been a Technical Project Manager at Feedzai for 1 year. During that time I managed the Core Systems team and have been working with the Cloud Operations team for the past 6 months while also devoting some time to improving processes at company level. When I’m not working I love building things, photography and watching movies."
+  thumbnailUrl: marioamaral.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 042
+  name: "Marian"
+  surname: "Lima"
+  company: "Feedzai"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 

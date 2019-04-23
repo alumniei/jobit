@@ -171,9 +171,9 @@
 -
   id: 019
   title: "KPMG"
-  description: ""
+  description: "A KPMG é uma rede global de firmas profissionais que prestam serviços de auditoria, fiscalidade e consultoria. Estamos presentes em 154 países com 200 mil profissionais a trabalhar nas firmas membro a nível mundial. Em Portugal, a KPMG tem escritórios em Lisboa e no Porto com 54 membros da Partnership e mais de 1100 colaboradores. De forma apaixonada e com propósito trabalhamos lado-a-lado com os nossos clientes, combinando abordagens inovadoras com uma vasta experiência, de forma a entregar resultados reais."
   subtype: keynote
-  speakers: []
+  speakers: [043]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -193,7 +193,7 @@
   title: "Microsoft"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [044]
   language: pt
   place: Room B014
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"

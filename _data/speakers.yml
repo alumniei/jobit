@@ -339,3 +339,27 @@
   thumbnailUrl:
   rockstar: true
   social: 
+
+
+-
+  id: 043
+  name: "Daniel"
+  surname: "Pires"
+  company: "KPMG"
+  title: "Manager"
+  bio: "Daniel Pires is a Manager at KPMG and is responsible for managing IT Advisory operations in Porto office. With an MSc in Electrical Engineering Daniel felt since the beginning the passion about consulting and now has more than 10 years of experience managing all levels of IT project development life cycle and business development. During his career Daniel worked with several customers from Portugal, Spain, United Kingdom, France, among others."
+  thumbnailUrl: danielpires.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 044
+  name: "Laurent"
+  surname: "Ricci"
+  company: "Microsoft"
+  title: "Senior Architect"
+  bio: "Laurent Ricci is a Senior Architect for the Dynamics 365 for Finance & Operations Team based in Copenhagen Denmark. There are around 50 software engineers building the SCM part of the Microsoft ERP system and his role is to help in preparing and developing future version of their service. Laurent joined Microsoft 15 years ago as a developer in the kernel team for the same product and led the kernel team for 4 years when they were in charge of all developer experience (compiler, interpreter, debugger etc…) in what was called Dynamics AX. He then moved to the application part of AX leading different teams (Planning, Manufacturing, SCM …). Before joining Microsoft, Laurent worked for 10 years in a consulting company in France doing projects mainly in the defense area before moving to Denmark and working 4 years building a compiler and its environment for a Sales Configuration Solution. He is French from Paris and relocated to Denmark 20 years ago."
+  thumbnailUrl:
+  rockstar: true
+  social: 
+

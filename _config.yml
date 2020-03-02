@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Job IT 2019"
+title: "Job IT 2020"
 email: "info@jobit.pt"
 description: "Job IT is a three day conference for graduating students @ FEUP"
 baseurl: ""
@@ -51,16 +51,16 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroVideo: "porto.webm"
-heroTitle: "Job IT 2019"
+heroTitle: "Job IT 2020"
 eventDate: "<typeout> of April"
-typeoutTextValues: '"", "3rd", "10th", "24th", ""'
-typeoutFallback: "3rd, 10th and 24th"
+typeoutTextValues: '"", "1st", "15th", "22th", ""'
+typeoutFallback: "1st, 15th and 22th"
 heroButtons:
 #- {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "3rd, 10th, 24th of April"
+aboutTitle: "1st, 15h, 22th of April"
 aboutBlock:
  - {title: "Who knows? Maybe your career starts here!", link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", buttonText: "Share your CV", text: "Your CV will be sent to the companies attending the event. " }
 # - {title: "20+ Companies", image: "workshop.jpg", text: "" }
@@ -274,9 +274,9 @@ hackathonAddressLocalityRegion: "Porto"
 hackathonPostalCode: "4200-465"
 hackathonAddressCountry: "Portugal"
 hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
+hackathonStartTime: "2894-10-24T10:00"
 hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+hackathonEndTime: "2901-10-25T00:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "41.177579, -8.595947"
 #hackathonMapCenterCoordinates: "49.840696, 24.028754"

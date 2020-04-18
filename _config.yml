@@ -62,7 +62,7 @@ heroButtons:
 # About Block
 aboutTitle: "24th to 29th of May"
 aboutBlock:
- - {title: "Who knows? Maybe your career starts here!", link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", buttonText: "Share your CV", text: "Your CV will be sent to the companies participating in the event. " }
+ - {title: "Who knows? Maybe your career starts here!", link: "https://forms.gle/as4vi5bJuai7XZnr5", buttonText: "Share your CV", text: "Your CV will be sent to the companies participating in the event. " }
 # - {title: "20+ Companies", image: "workshop.jpg", text: "" }
 # - {title: "Speed Networking", image: "hackathon.jpg", text: "" }
 

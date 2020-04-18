@@ -1,14 +1,14 @@
 - 
   id: 0
-  name: "Bernardo"
-  surname: "Belchior"
+  name: "André"
+  surname: "Fernandes"
   title: ""
-  thumbnailUrl: bernardobelchior.jpg
+  thumbnailUrl: andrefernandes.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bernardobelchior"}
-    - {name: "github", link: "https://github.com/bernardobelchior"}
-    - {name: "site", link: "http://belchior.me/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/af-fernandes"}
+    - {name: "github", link: "https://github.com/Marko50"}
+    - {name: "site", link: "http://www.andrefernandes.me/"}
 
 - 
   id: 1

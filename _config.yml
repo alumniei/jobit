@@ -44,33 +44,33 @@ organizerLink: "http://alumniei.pt/"
 navigationLinks:
  #- {permalink: "/", text: "Home"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", text: "Share your CV"}
+ - {link: "https://forms.gle/as4vi5bJuai7XZnr5", text: "Share your CV"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", text: "Share your CV"}
+ - {link: "https://forms.gle/as4vi5bJuai7XZnr5", text: "Share your CV"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroVideo: "porto.webm"
 heroTitle: "Job IT 2020"
-eventDate: "<typeout> of April"
-typeoutTextValues: '"", "1st", "15th", "22th", ""'
-typeoutFallback: "1st, 15th and 22th"
+eventDate: "<typeout> of May"
+typeoutTextValues: '"", "25th", "26th", "27th", "28th", "29th", ""'
+typeoutFallback: "25th to 29th"
 heroButtons:
 #- {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "1st, 15h, 22th of April"
+aboutTitle: "24th to 29th of May"
 aboutBlock:
- - {title: "Who knows? Maybe your career starts here!", link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", buttonText: "Share your CV", text: "Your CV will be sent to the companies attending the event. " }
+ - {title: "Who knows? Maybe your career starts here!", link: "https://goo.gl/forms/oDF5CBsphoJX4GXx1", buttonText: "Share your CV", text: "Your CV will be sent to the companies participating in the event. " }
 # - {title: "20+ Companies", image: "workshop.jpg", text: "" }
 # - {title: "Speed Networking", image: "hackathon.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "feup.jpg"
 statisticBlock:
- - {count: "3", specialCharacter: "", info: "Days", detail: ""}
- - {count: "20", specialCharacter: "+", info: "Companies", detail: ""}
+ - {count: "5", specialCharacter: "", info: "Days", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "Companies", detail: "Stay Tuned."}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

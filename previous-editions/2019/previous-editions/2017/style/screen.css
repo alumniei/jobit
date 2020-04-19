@@ -1,0 +1,295 @@
+html, body, p {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 100;
+	text-align: justify;
+	line-height: 2.2;
+}
+
+/*body{
+	background: url("../images/gif4.gif") rgba(0, 0, 0, 0.02) no-repeat center center fixed;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position-y: 90%;
+	height: 100%;
+}*/
+
+.carousel-inner{
+  width:100%;
+  overflow: hidden;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+	opacity: 0.8;
+}
+
+.has-tip,
+.has-tip:hover {
+	border: none;
+}
+
+.small, .small p {
+	font-size: 0.8rem;
+}
+
+.h-center-flex {
+	display: -webkit-flex; 
+	display: flex;         
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+
+.v-center-flex {
+	display: -webkit-flex; 
+	display: flex;         
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+header {
+	height: 100%;
+	background-color: rgba(0,0,0,0.3);
+	text-align: center;
+}
+
+header h1 {
+	height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+header img {
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: -4px;
+	padding: 10px;
+}
+
+.backg-init .more {
+	position: absolute;
+	bottom: 10px;
+}
+
+#about {
+	background: #F9F9F9;
+	padding: 1.875rem 0;
+}
+
+#about .columns,
+#about .columns p {
+	text-align: center;
+	color: #413D3E;
+}
+
+section {
+	background-color: #f0f0f0;
+}
+
+section:nth-child(2n) {
+	background: #F9F9F9;
+}
+
+#details {
+	color: black;
+	padding: 1.875rem;
+	text-align: center;
+
+}
+
+#details .columns:not(.small) p{
+	text-align: center;
+	font-weight: normal;
+}
+
+#program {
+	padding: 1.875rem 0;
+	text-align: center;
+}
+
+#program h3 {
+	padding-left: 0.9375rem;
+	padding-bottom: 0.9375rem;
+}
+
+#program h3 i {
+	font-size: 2rem;
+}
+
+#program .day {
+	margin-top: 0.9375rem;
+	margin-bottom: 0.9375rem;
+	padding-top: 0.625rem;
+}
+
+#program i {
+	font-size: 2.5em;
+	line-height: 53px;
+}
+
+#program p {
+	text-align: center;
+}
+
+#program .row {
+	max-width: 100%;
+}
+
+#program .day .columns {
+	line-height: 54px;
+	/* height: 118px; */
+	height: 130px;
+	padding-right: 7px;
+	padding-left: 7px;
+}
+
+#commitee {
+	padding: 1.875rem;
+}
+
+#commitee .elements .element {
+	text-align: center;
+	height: 120px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#commitee .elements .element i {
+	color: rgb(63, 190, 225);
+}
+
+#others {
+	padding: 1.875rem;
+}
+
+#others .columns {
+	padding: 0.9375rem;
+}
+
+#others .legend {
+	position: absolute;
+	top: 50%;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: calc(100% - 1.875rem);
+  	left: 0.9375rem;
+	color: white;
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+footer {
+	padding-bottom: 10px;
+}
+
+footer #contacts{
+	color: #413D3E;
+  	font-size: 1.5rem;
+	background: rgba(255, 255, 255, 0.7);
+	margin-top: 10px;
+	text-align: center;
+}
+
+footer #contacts .columns {
+	line-height: 70px;
+}
+
+footer i {
+	font-size: 2.5rem;
+	color: #413D3E;
+	padding: 1rem;
+}
+
+.icon-content {
+	display: block;
+	width: 110px;
+	height: 110px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #f0f0f0;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.icon-content i {
+	font-size: 4em;
+	line-height: 110px;
+	color: #413D3E;
+}
+
+@media only screen and (min-width: 40.063em) {
+	.medium-for-13 {
+		width: 7.69%;
+	}	
+
+	.medium-for-16 {
+		width: 6.25%;
+	}	
+}
+
+.Estilodecaracterenormal1
+{
+	font-family : Myriad Pro;
+	font-size : 60px;
+	letter-spacing : -2.04px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecaracterenormal
+{
+	font-family : SoftLine;
+	font-size : 21px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-outline : #FFFFFF;
+	text-outline : rgb(255, 255, 255);
+}
+.Estilodecaracterenormal2
+{
+	font-family : SoftLine;
+	font-size : 21px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-outline : #FFFFFF;
+	text-outline : rgb(255, 255, 255);
+}
+.XMLID_46_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 2px;
+}
+.XMLID_120_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}
+.XMLID_45_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 2px;
+}
+.XMLID_36_
+{
+	background-image : url(XMLID_36_.png);
+	background-repeat : no-repeat;
+}
+.XMLID_19_
+{
+	border-style : Solid;
+	border-color : #FFFFFF;
+	border-color : rgba(255, 255, 255, 1);
+	border-width : 1px;
+}

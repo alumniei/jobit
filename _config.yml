@@ -70,7 +70,7 @@ aboutBlock:
 statisticBlockImage: "feup.jpg"
 statisticBlock:
  - {count: "5", specialCharacter: "", info: "Days", detail: ""}
- - {count: "20", specialCharacter: "+", info: "Companies", detail: "Stay Tuned."}
+ - {count: "10", specialCharacter: "+", info: "Companies", detail: "Stay Tuned."}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -180,6 +180,7 @@ footerBlocks:
  -
   title: "Previous Editions"
   links:
+   - {permalink: "/previous-editions/2019", text: "2019"} 
    - {permalink: "/previous-editions/2018", text: "2018"}
    - {permalink: "/previous-editions/2017", text: "2017"}
    - {permalink: "/previous-editions/2016", text: "2016"}

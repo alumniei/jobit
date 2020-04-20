@@ -1,0 +1,48 @@
+<header id="top-header" class="top-header">
+    <div class="overlay white-solid"></div>
+    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
+    </svg>
+    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+        <img class="img logo" src="{{ site.baseurl }}/img/seo/organizer-logo.png" width="128" alt="{{ about.title }}">
+    </a>
+    <nav class="st-menu st-effect" id="menu">
+        <div class="logo-navbar logo logo-dark visible-xs"></div>
+        <ul>
+            {% for navigationLink in site.navigationLinks %}
+            <li>
+                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs" style="color: black;">
+            <h3>{{ site.aboutTitle }}</h3>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.aboutBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }}">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <p>{{ about.text }}</p>
+                        <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ about.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ about.buttonText }}</a>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+            <!--{% for bottomNavigationLink in site.bottomNavigationLinks %}
+            <li>
+                <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
+            </li>
+            {% endfor %}-->
+        </ul>
+        {% for rightNavigationButton in site.rightNavigationButtons %}
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+            {{ rightNavigationButton.text }}
+        </a>
+        {% endfor %}
+    </nav>
+</header> 

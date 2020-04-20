@@ -1,0 +1,365 @@
+- 
+  id: 012
+  name: "Ivo"
+  surname: "Pereira"
+  company: "E-goi"
+  title: "Developer Relations Program Manager"
+  bio: "Ivo Pereira, Doutorado em Engenharia Eletrotécnica e de Computadores pela UTAD, colabora, desde 2017, como Head of Innovation & Research na E-goi. Além da coordenação da inovação e investigação, tem sido responsável pela ligação da empresa com as instituições de ensino superior e de investigação. Faz ainda a gestão dos estágios curriculares na E-goi. Atualmente, é também Professor Adjunto Convidado no Instituto Superior de Engenharia do Porto."
+  thumbnailUrl: ivopereira.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 013
+  name: "Rui"
+  surname: "Gonçalves"
+  company: "Facebook"
+  title: "Software Engineer"
+  bio: "All-around, hardworking and dedicated software engineer. Enthusiast of programming paradigms, algorithms and data structures, distributed systems and software architecture in general. Loves learning new stuff every day, working with state-of-the-art \nologies and making an impact on the technological decisions in the environment he works. An active contributor and a lover of the open-source model with a desire to keep developing products and services that have a great impact on society."
+  thumbnailUrl: ruigoncalves.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 014
+  name: "Federica"
+  surname: "De Cillis"
+  company: "Facebook"
+  title: "EMEA University Recruiter"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 015
+  name: "José"
+  surname: "Duarte Silva"
+  company: "Farfetch"
+  title: "Engineering Manager at Farfetch"
+  bio: "José has 9 years of professional experience in the Software Engineering area, in companies with international presence like Rocket Internet, Blip and Farfetch. Started managing Quality Assurance areas, now is managing and growing multi-functional technology teams as an Engineering Manager for Consumer Products Web at Farfetch."
+  thumbnailUrl: joseduartesilva.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 016
+  name: "Maria"
+  surname: "Cabral"
+  company: "Farfetch"
+  title: "Talent Acquisition Specialist"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 017
+  name: "Pedro"
+  surname: "Vincente"
+  company: "Mindera"
+  title: "Mobile Software Craftsman"
+  bio: "Pedro Vicente is an improver. “What kind of bs title is that?” - you probably were asking yourself. Well, he thrives by (trying - sometimes a lot - until he successfully) improves the processes around him either it being human or software related. He has been developing mobile apps since 2008ish. Currently he is a Mobile Software Craftsman at Mindera, organizes stuff at GDG Porto and recently founded LoopGain"
+  thumbnailUrl: pedrovincente.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 018
+  name: "Ricardo"
+  surname: "Rodrigues"
+  company: "Mindera"
+  title: "Product Owner"
+  bio: "Ricardo Rodrigues loves learning and sharing. He believes every experience is an opportunity to improve. Sharing  experiences, knowledge , stories is just another tool for our continuous improvement. Currently is he a Product Owner at Mindera and Product Tank Porto co-organiser."
+  thumbnailUrl: ricardorodrigues.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 019
+  name: "André"
+  surname: "Oliveira"
+  company: "Pixelmatters"
+  title: "Founder & CEO"
+  bio: "Started as UX/UI Designer, but it is in the adrenaline rush of business that his true passion is. Founder & CEO of Pixelmatters, he’s a new generation entrepreneur. <br>Totally self-taught, at the age of 28 he leads the company he created in December 2013. He is pleased - according to his own - to work everyday with a team of over 30 world-class professionals."
+  thumbnailUrl: andreoliveira.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 020
+  name: "Predrag Pedro"
+  surname: "Gajic"
+  company: "Toptal"
+  title: "Talent Specialist"
+  bio: "With more than 15 years of experience, Predrag Pedro Gajic has lead business and people operations all over the globe, with stints in Serbia, Portugal, Russia, and Uganda. For the last four years, he has been a prominent member of the Talent/People Operations team at Toptal, using his skills to find the top developers around the world."
+  thumbnailUrl: predragpedrogajic.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 021
+  name: "Pedro"
+  surname: "Campos"
+  company: "Switch"
+  title: "Co-Founder & CTO"
+  bio: "Pedro Campos is Switch’s CTO. He loves searching the simplest solutions to hard problems. He founded and led several software companies and development teams, having developed web and mobile apps for millions of users, startups, and giant corps."
+  thumbnailUrl: pedrocampos.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 022
+  name: "João"
+  surname: "Álvaro"
+  company: "Switch"
+  title: "Head of HR"
+  bio: "João Álvaro is Switch’s Head of HR, with the mission to attract the best talent and create a unique employee journey. He is a human resources professional with transversal experience in recruitment, training and organizational culture projects. Outside the office he’s absolutely passionate about sport and competition."
+  thumbnailUrl: joaoalvaro.jpg
+  rockstar: true
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+- 
+  id: 023
+  name: "Inês"
+  surname: "Quaresma"
+  company: "Blip"
+  title: "Talent Acquisition Specialist"
+  bio: "As Talent Acquisition Specialist at Blip, Inês Quaresma is responsible for developing Blip's new young talent strategy in the company. She has a background in Management and began her career in a multinational which allowed her to gain a great experience in the recruitment, selection and retention of young talents."
+  thumbnailUrl: inesquaresma.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 024
+  name: "Luís"
+  surname: "Roque"
+  company: "HUUB"
+  title: "CEO & Co-founder"
+  bio: "The continuous academic evolution is a backbone of Luís’ path, with a Masters of Science in Industrial Engineering and Management, a degree in Computer Engineering, a specialization in Web Development and a Postgraduate degree in Business Intelligence & Analytics already completed. Currently Luís is taking a PhD in Informatics Engineering, focused on Sequential Data-related Deep Learning Applications."
+  thumbnailUrl: luisroque.jpg
+  rockstar: true
+  social: 
+
+
+- 
+  id: 025
+  name: "Pedro"
+  surname: "Gustavo Torres"
+  company: "Talkdesk"
+  title: "Engineering Director"
+  bio: "Pedro is an impact-driven person passionate about People, Technology, and Products. I’m a fan of Agile, Lean, and all the practices that enable organizations to deliver early value to their customers. I have 10+ years of experience creating and running engineering teams in blue chip companies and also in startups."
+  thumbnailUrl: pedrotorres.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 026
+  name: "Luis"
+  surname: "Duarte"
+  company: "Talkdesk"
+  title: "Software Engineer"
+  bio: "I am a software engineer with a masters in Informatics and Computer Engineering from FEUP, and I joined Talkdesk a little over 6 months ago through the Tech Dojo program. Currently part of a fullstack development team that focuses mainly on pre-call interactions, I will be sharing a bit of my experience, on the leap from student to software engineering, talking about the main challenges I faced, as well as the growth and learning opportunities that Talkdesk gave me."
+  thumbnailUrl: luisduarte.jpg
+  rockstar: true
+  social: 
+
+
+- 
+  id: 028
+  name: "André"
+  surname: "Pinto Vieira"
+  company: "Outsystems"
+  title: "Senior Software Engineer"
+  bio: "He is a passionate software craftsman who loves to write clean code and software development processes. He loves to learn and share his experiences and knowledge about everything related to software. Also, André is a frequent participant of several tech communities and events such as NetPonto or meetups. He is currently a Senior Software Engineer at OutSystems working in the OutSystems IDE."
+  thumbnailUrl: andrevieira.png
+  rockstar: true
+  social: 
+
+- 
+  id: 029
+  name: "Piotr"
+  surname: "Sielecki"
+  company: "Bosch"
+  title: ""
+  bio: "Após concluir o Mestrado em Informática, na Poznan University of Technology (Polónia) e Alpen-Adria Universitaet Klagenfurt na Austria (Joint Diploma Degree), Piotr Sielecki especializou-se em Software Engineering. Após concluir o Mestrado em Informática, prosseguiu os estudos com a realização do Mestrado em Economia, na Poznan University of Economics. Após a conclusão dos estudos, passou por algumas empresas de IT, passando por Portugal, na área de IT, mais concretamente, em telecomunicações. O percurso na Bosch teve início em 2009, através do Junior Management Program. Piotr passou pela área de Embedded Systems, pelos departamentos de desenvolvimento de SW para ESP, iBooster (Freno Inteligente), Ultrasound Driver Assistence Systems, integrando diferentes funções (Test Manager, SW Project Manager, SW Process Expert). Em 2015, começou a trabalhar como Senior Manager, responsável pela ADAS Central ECU SW. Em 2018, integrou a Bosch Car Multimedia, em Braga, como responsável para secção de desenvolvimento de SW para ADAS Sensor."
+  thumbnailUrl: piotr.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 030
+  name: "João"
+  surname: "Chapa"
+  company: "Jscrambler"
+  title: ""
+  bio: "Driven by a longstanding passion for solving problems using the power of computer science, João Chapa has turned a Masters in Chemical and Biochemical engineering into a career as a software developer. Currently, his day job is developing all kinds of JavaScript dark magic at Jscrambler's Code Integrity team, and during his off-time, he pursues his interests in philosophy, politics, and League of Legends. - João Chapa"
+  thumbnailUrl: joaochapa.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 031
+  name: "Pedro"
+  surname: "Vieira da Silva"
+  company: "Critical TechWorks"
+  title: "CTO"
+  bio: "With 20 years of experience in IT Pedro has since ever wanted to solve problems and create solutions. For the last 12 years he has been leading dev teams in creating high quality solutions in different businesses critical domains. This allowed him to experience different challenges in business and technical domains. Advocate of agile methodologies, continuous delivery and cloud architectures he aims to bring the best working model to his teams so they become masters of engineering and the greatest value achievers. In 2018 he addressed his greatest challenge to date, by becoming CTO at Critical TechWorks, where he aims to help shape the future of mobility."
+  thumbnailUrl:
+  rockstar: true
+  social:
+
+- 
+  id: 032
+  name: "Roberto"
+  surname: "Ugo"
+  company: "Vestas Porto"
+  title: "Director of the Data Engineering & Analytics department"
+  bio: "Experienced in bootstrapping and leading multidisciplinary engineering teams in market leading companies and international environments, Roberto is currently the Director of the Data Engineering & Analytics department at Vestas Porto. He is also a startup mentor (Techstars Berlin) and former startup CTO in the fintech sector. Winner of the MIT Portugal Award and several other innovation awards, he has a strong technical background in computer science (data engineering) & network engineering (security), with a growing patent portfolio in those areas."
+  thumbnailUrl: robertougo.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 033
+  name: "André"
+  surname: "Lago"
+  company: "Google"
+  title: "Software Engineer"
+  bio: "André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world."
+  thumbnailUrl: andrelago.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 034
+  name: "João"
+  surname: "Oliveira e Silva"
+  company: ""
+  title: "Freelancer"
+  bio: "Ainda no 4º ano da faculdade comecei a minha carreira profissional como freelancer. Decidi que o mercado internacional era muito importante e portanto juntei-me ao Upwork com o objetivo de angariar clientes dos mais diversos países. Durante este tempo tive a oportunidade de trabalhar com a UPTEC, uma corretora de seguros, uma startup holandesa que desenvolvia uma plataforma de gestão de escolas nesse mesmo país, ainda tive a oportunidade de dar aulas de programação em Go. Atualmente sou freelancer a full-time no motel.io uma spinoff da Critical Software."
+  thumbnailUrl: joaosilva.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 035
+  name: "Lucas"
+  surname: "Alves"
+  company: "Farfetch"
+  title: "Junior Software Engineer"
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+
+- 
+  id: 036
+  name: "Guilherme"
+  surname: "Pinto"
+  company: "Hostelworld"
+  title: ""
+  bio: "Guilherme found his passion for software development on the very first day in college. After finishing his master in informatics and computing engineering in the University of Porto, began his professional journey in Hostelworld as a backend engineer. Currently, Guilherme is part of the Checkout and Payments squad, working to constantly improve the experience of every user during the checkout phase while providing a flexible and safe service for any traveller that dreams about meeting the world."
+  thumbnailUrl: guilhermepinto.jpg
+  rockstar: true
+  social:
+
+- 
+  id: 037
+  name: "Hélder"
+  surname: "Nunes"
+  company: "Hostelworld"
+  title: ""
+  bio: "I found my passion in web development later on my career, I've worked on system's administrations for several years, and then moved to web development. From the several companies I've worked on, I've worked on very different areas ranging from API's, Payments, frontend, Backend apps and web site architectures. I'm currently working on backend api's, but moving to site performance soon. I've changed to HostelWorld 1,5 years ago and I'm fully committed to these new challenges, and enjoying every bit of the way."
+  thumbnailUrl: heldernunes.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 038
+  name: "Eduardo"
+  surname: "Ribeiro"
+  company: "Blip"
+  title: "Software Developer"
+  bio: "With 10 years of experience as a software developer, Eduardo Ribeiro has special pleasure when is finding solutions and interacting with people. Working at Blip since 2014, he currently works as a front-end developer, having gone through various projects and roles."
+  thumbnailUrl: eduardoribeiro.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 039
+  name: "João"
+  surname: "Ferreira"
+  company: "Deloitte"
+  title: "Manager"
+  bio: "I've started my career at Deloitte in 2009, as a Technology Integration consultant, and I am currently in the management team of the Deloitte Porto Digital Studio. During my consulting career I've worked in major technological transformation programs in Portugal, Angola, Middle East, UK and in the Nordic countries. I am ITIL certified and have a master in Service Engineering and Management from FEUP. I was involved in the definition of IT methodologies, mainly for Agile contexts, and defended thesis in the application of Design Thinking and CMMI to the design of services, with a practical case in the design of a Center of Excellence for the insurance industry."
+  thumbnailUrl: joaoferreira.jpg
+  rockstar: true
+  social: 
+
+- 
+  id: 040
+  name: "João"
+  surname: "Paulo"
+  company: "Fabamaq"
+  title: "Software Engineer"
+  bio: "Soon after he was born João Paulo started tearing apart his car toys and detuning his dad's guitars. With this background he could only be one of two things, an Engineer or a Musician.  So he became both. After graduating from FEUP João Paulo went on to work at FABAMAQ where he engineers software solutions for the creative team. "
+  thumbnailUrl: joaopaulo.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 041
+  name: "Mário"
+  surname: "Amaral"
+  company: "Feedzai"
+  title: "Technical Project Manager"
+  bio: "I’ve been a Technical Project Manager at Feedzai for 1 year. During that time I managed the Core Systems team and have been working with the Cloud Operations team for the past 6 months while also devoting some time to improving processes at company level. When I’m not working I love building things, photography and watching movies."
+  thumbnailUrl: marioamaral.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 042
+  name: "Marian"
+  surname: "Lima"
+  company: "Feedzai"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+
+
+-
+  id: 043
+  name: "Daniel"
+  surname: "Pires"
+  company: "KPMG"
+  title: "Manager"
+  bio: "Daniel Pires is a Manager at KPMG and is responsible for managing IT Advisory operations in Porto office. With an MSc in Electrical Engineering Daniel felt since the beginning the passion about consulting and now has more than 10 years of experience managing all levels of IT project development life cycle and business development. During his career Daniel worked with several customers from Portugal, Spain, United Kingdom, France, among others."
+  thumbnailUrl: danielpires.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 044
+  name: "Laurent"
+  surname: "Ricci"
+  company: "Microsoft"
+  title: "Senior Architect"
+  bio: "Laurent Ricci is a Senior Architect for the Dynamics 365 for Finance & Operations Team based in Copenhagen Denmark. There are around 50 software engineers building the SCM part of the Microsoft ERP system and his role is to help in preparing and developing future version of their service. Laurent joined Microsoft 15 years ago as a developer in the kernel team for the same product and led the kernel team for 4 years when they were in charge of all developer experience (compiler, interpreter, debugger etc…) in what was called Dynamics AX. He then moved to the application part of AX leading different teams (Planning, Manufacturing, SCM …). Before joining Microsoft, Laurent worked for 10 years in a consulting company in France doing projects mainly in the defense area before moving to Denmark and working 4 years building a compiler and its environment for a Sales Configuration Solution. He is French from Paris and relocated to Denmark 20 years ago."
+  thumbnailUrl:
+  rockstar: true
+  social: 
+

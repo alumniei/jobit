@@ -1,0 +1,64 @@
+- 
+  id: 0
+  name: "André"
+  surname: "Fernandes"
+  title: ""
+  thumbnailUrl: andrefernandes.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/af-fernandes"}
+    - {name: "github", link: "https://github.com/Marko50"}
+    - {name: "site", link: "http://www.andrefernandes.me/"}
+
+- 
+  id: 1
+  name: "Pedro"
+  surname: "Silva"
+  title: ""
+  thumbnailUrl: pedrosilva.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-silva-1200a9160/"}
+    - {name: "github", link: "https://github.com/Peteraya"}
+
+- 
+  id: 2
+  name: "Filipe"
+  surname: "Pinto Reis"
+  title: ""
+  thumbnailUrl: filipereis.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/filipe-pinto-dos-reis-3b4338118"}
+    - {name: "github", link: "https://github.com/FilipePintoReis"}
+- 
+  id: 3
+  name: "Daniel"
+  surname: "Machado"
+  title: ""
+  thumbnailUrl: danielmachado.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielpmachado"}
+    - {name: "github", link: "https://github.com/dolfander"}
+
+
+- 
+  id: 4
+  name: "Gonçalo"
+  surname: "Moreno"
+  title: ""
+  thumbnailUrl: goncalomoreno.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/goncalomoreno/"}
+    - {name: "github", link: "https://github.com/GonVas"}
+- 
+  id: 5
+  name: "Diogo"
+  surname: "Pereira"
+  title: ""
+  thumbnailUrl: diogopereira.jpg
+  team: true
+  social: 
+    - {name: "github", link: "https://github.com/Diogopp"}

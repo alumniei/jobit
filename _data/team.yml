@@ -1,76 +1,64 @@
 - 
   id: 0
-  name: "Bernardo"
-  surname: "Belchior"
+  name: "André"
+  surname: "Fernandes"
   title: ""
-  thumbnailUrl: bernardobelchior.jpg
+  thumbnailUrl: andrefernandes.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bernardobelchior"}
-    - {name: "github", link: "https://github.com/bernardobelchior"}
-    - {name: "site", link: "http://belchior.me/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/af-fernandes"}
+    - {name: "github", link: "https://github.com/Marko50"}
+    - {name: "site", link: "http://www.andrefernandes.me/"}
 
 - 
   id: 1
   name: "Pedro"
-  surname: "Costa"
+  surname: "Silva"
   title: ""
-  thumbnailUrl: pedrocosta.jpg
+  thumbnailUrl: pedrosilva.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodcosta"}
-    - {name: "github", link: "https://github.com/pedroduartecosta"}
-    - {name: "site", link: "http://pedrocosta.eu/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-silva-1200a9160/"}
+    - {name: "github", link: "https://github.com/Peteraya"}
 
 - 
   id: 2
-  name: "David"
-  surname: "Azevedo"
+  name: "Filipe"
+  surname: "Pinto Reis"
   title: ""
-  thumbnailUrl: davidazevedo.jpg
+  thumbnailUrl: filipereis.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/david-azevedo/"}
-    - {name: "github", link: "https://github.com/PeaceOff"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/filipe-pinto-dos-reis-3b4338118"}
+    - {name: "github", link: "https://github.com/FilipePintoReis"}
 - 
   id: 3
-  name: "Miriam"
-  surname: "Gonçalves"
+  name: "Daniel"
+  surname: "Machado"
   title: ""
-  thumbnailUrl: miriamgoncalves.jpg
+  thumbnailUrl: danielmachado.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/miriamcmcg/"}
-    - {name: "github", link: "https://github.com/miriamcmcg1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielpmachado"}
+    - {name: "github", link: "https://github.com/dolfander"}
 
 
 - 
   id: 4
-  name: "Nuno"
-  surname: "Ramos"
+  name: "Gonçalo"
+  surname: "Moreno"
   title: ""
-  thumbnailUrl: runonamos.jpg
+  thumbnailUrl: goncalomoreno.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nunoramos7/"}
-    - {name: "github", link: "https://github.com/nunoramos"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/goncalomoreno/"}
+    - {name: "github", link: "https://github.com/GonVas"}
 - 
   id: 5
-  name: "Inês"
-  surname: "Teixeira"
+  name: "Diogo"
+  surname: "Pereira"
   title: ""
-  thumbnailUrl: inesteixeira.jpg
+  thumbnailUrl: diogopereira.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nunoramos7/"}
-    - {name: "github", link: "https://github.com/inesteixeira"}
-
-- 
-  id: 6
-  name: "Andre"
-  surname: "Reis"
-  title: ""
-  thumbnailUrl: andrereis.jpg
-  team: true
-  social: 
-    - {name: "github", link: "https://github.com/andrebreis"}
+    - {name: "github", link: "https://github.com/Diogopp"}

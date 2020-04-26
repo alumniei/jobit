@@ -69,7 +69,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "feup.jpg"
 statisticBlock:
- - {count: "5", specialCharacter: "", info: "Days", detail: ""}
+ - {count: "3", specialCharacter: "", info: "Days", detail: ""}
  - {count: "10", specialCharacter: "+", info: "Companies", detail: "Stay Tuned."}
 
 # Latest News Block

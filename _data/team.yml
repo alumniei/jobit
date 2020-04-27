@@ -62,3 +62,12 @@
   team: true
   social: 
     - {name: "github", link: "https://github.com/Diogopp"}
+- 
+  id: 6
+  name: "Eduarda"
+  surname: "Cunha"
+  title: ""
+  thumbnailUrl: eduardacunha.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduarda-cunha/"}

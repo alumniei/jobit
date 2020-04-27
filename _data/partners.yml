@@ -32,4 +32,3 @@
   group: "Partners"
   elements: 
     - {name: "Departamento de Engenharia Informática", description: "", link: "https://dei.fe.up.pt/pt/home-page/", imageUrl: "dei.png"}
-    - {name: "Universidade do Porto", description: "", link: "https://www.up.pt/", imageUrl: "up.png"}

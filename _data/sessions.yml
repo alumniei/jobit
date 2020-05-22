@@ -5,7 +5,7 @@
   subtype: keynote
   speakers: [023, 038]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -14,7 +14,7 @@
   subtype: keynote
   speakers: [039]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -23,7 +23,7 @@
   subtype: keynote
   speakers: [034]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
@@ -32,7 +32,7 @@
   subtype: keynote
   speakers: [032]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -41,7 +41,7 @@
   subtype: keynote
   speakers: [040]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
@@ -50,7 +50,7 @@
   subtype: keynote
   speakers: [041, 042]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
@@ -59,16 +59,16 @@
   subtype: keynote
   speakers: [019]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
   title: "Talkdesk"
   description: "Talkdesk is the most innovative cloud contact center platform, available for +1400 customers around the world. At Talkdesk, we are action-driven, embrace positivity and fun, treat challenges as stepping stones, and enjoy the adventure that we are on together! With offices in San Francisco, Lisbon, Porto, Coimbra, London and Salt Lake City, Talkdesk has multicultural teams working on innovative software as a service, developed with recent technologies and agile methodologies."
   subtype: keynote
-  speakers: [025, 026]
+  speakers: [026]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
@@ -77,7 +77,7 @@
   subtype: keynote
   speakers: [015, 016, 035]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
@@ -86,7 +86,7 @@
   subtype: keynote
   speakers: [031]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -96,7 +96,7 @@
   subtype: keynote
   speakers: [028]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -106,7 +106,7 @@
   subtype: keynote
   speakers: [012]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -116,7 +116,7 @@
   subtype: keynote
   speakers: []
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -126,7 +126,7 @@
   subtype: keynote
   speakers: [017, 018]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -136,7 +136,7 @@
   subtype: keynote
   speakers: [024]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -146,8 +146,8 @@
   subtype: keynote
   speakers: [029]
   language: pt
-  place: Room B014
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  place: Remote
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 017
@@ -156,7 +156,7 @@
   subtype: keynote
   speakers: [020]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
@@ -165,7 +165,7 @@
   subtype: keynote
   speakers: [030]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -175,7 +175,7 @@
   subtype: keynote
   speakers: [043]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -185,7 +185,7 @@
   subtype: keynote
   speakers: [013, 014]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -195,7 +195,7 @@
   subtype: keynote
   speakers: [044]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -205,7 +205,7 @@
   subtype: keynote
   speakers: [021, 022]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -215,17 +215,17 @@
   subtype: keynote
   speakers: [036, 037]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 024
-  title: "Google"
-  description: "Organise the world’s information and make it universally accessible and useful.' Since the beginning, our goal has been to develop services that significantly improve the lives of as many people as possible. Not just for some. For everyone."
+  title: "André Lago"
+  description: 
   subtype: keynote
   speakers: [033]
   language: pt
-  place: Room B014
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -235,7 +235,49 @@
   subtype: workshop
   speakers: [033]
   language: pt
-  place: Room B014
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 026
+  title: "Natixis"
+  description: ""
+  subtype: keynote
+  speakers: [036]
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 027
+  title: "Semasio"
+  description: "Semasio is a Germany-based tech startup that develops high-performance, low-latency software focused on infrastructure and real-time machine learning for marketing and online advertising. Our main development center is in Porto, Portugal; we have a R&D center in Aalborg, Denmark; and our commercial HQ is in Hamburg, Germany. We're currently looking for talented developers to join our Porto team!"
+  subtype: keynote
+  speakers: [048]
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 028
+  title: "Fraunhofer"
+  description: "Fraunhofer Portugal’s mission to undertake applied research of direct utility to private and public
+enterprises and of wide benefit to society currently materializes itself through the Fraunhofer Portugal
+Research Center for Assistive Information and Communication Solutions (AICOS), located in Porto and
+born in 2009 following a partnership between the Fraunhofer Society (Fraunhofer-Gesellschaft), the
+Foundation for Science and Technology and the University of Porto."
+  subtype: keynote
+  speakers: []
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 029
+  title: "Darwin Interactive"
+  description: "Darwin Interactive is a startup founded by experienced industry veterans with a clear vision and high ambition of evolving the Games & Casino industry with innovative games and products. Darwin's main focus is creativity, technology and people. We bet on awesome people that love to learn, grow and be challenged."
+  subtype: keynote
+  speakers: [046, 049]
+  language: pt
+  place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -

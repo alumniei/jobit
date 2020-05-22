@@ -165,38 +165,39 @@
 
 - 
   id: 026
-  name: "Luis"
-  surname: "Duarte"
+  name: "João"
+  surname: "Fernandes"
   company: "Talkdesk"
-  title: "Software Engineer"
-  bio: "I am a software engineer with a masters in Informatics and Computer Engineering from FEUP, and I joined Talkdesk a little over 6 months ago through the Tech Dojo program. Currently part of a fullstack development team that focuses mainly on pre-call interactions, I will be sharing a bit of my experience, on the leap from student to software engineering, talking about the main challenges I faced, as well as the growth and learning opportunities that Talkdesk gave me."
-  thumbnailUrl: luisduarte.jpg
+  title: "Senior Engineering Manager"
+  bio: "Highly motivated and enthusiastic Software Engineering Manager who leads multidisciplinary teams to deliver high quality and performant web and mobile applications. Focused on creating a safe, organized and agile environment where everyone is aligned with the project and organization goals and is able to perform at their very best.
+Believes the best leadership is demonstrated with action rather than words (lead by example) and is not afraid to roll up his sleeves and work with the team to solve problems. Acts with a leader-leader mindset using empowerment, delegation and trust as weapons of choice.."
+  thumbnailUrl: joaofernandes.jpg
   rockstar: true
   social: 
 
 
 - 
   id: 028
-  name: "André"
-  surname: "Pinto Vieira"
+  name: "Ricardo"
+  surname: "Nogueira"
   company: "Outsystems"
-  title: "Senior Software Engineer"
-  bio: "He is a passionate software craftsman who loves to write clean code and software development processes. He loves to learn and share his experiences and knowledge about everything related to software. Also, André is a frequent participant of several tech communities and events such as NetPonto or meetups. He is currently a Senior Software Engineer at OutSystems working in the OutSystems IDE."
-  thumbnailUrl: andrevieira.png
+  title: "Engineering Development Manager"
+  bio: "My past experience includes a position as Engineering Manager at Farfetch, leading the engineering practice on the Pricing Cluster. I’ve also worked as Portfolio Leader at SISCOG, leading one of SISCOG’s portfolios in the Projects Department, which included project teams working on ongoing projects, maintenance teams supporting systems in production, and a team of managers responsible for a set of systems running in production, being the line manager of the group of managers and leaders in the portfolio. Additionally, I was the responsible for SISCOG's office in Oporto, being the Administration's local representative, and responsible for promoting the office's development according to the company's strategic plan. At SISCOG I also gained experience as a Maintenance Team Leader, leading one of the Maintenance Teams in the Projects Department; as Maintenance Manager, managing the PDS system, which is a CREWS based system for DSB S-tog A/S which provides urban rail services in the Greater Copenhagen area; and as a Software Engineer.
+<br> Previously I also worked as a Consultant at WeDo; as a Consultant at Wipro; as a Teacher at some Portuguese schools; as a Systems Analyst, Technical Consultant and Developer at Blaupunkt Auto-Rádio Portugal, Lda; and as a Researcher at INESC – Porto."
+  thumbnailUrl: ricardonogueira.jpg
   rockstar: true
   social: 
 
 - 
   id: 029
-  name: "Piotr"
-  surname: "Sielecki"
+  name: ""
+  surname: "To complete"
   company: "Bosch"
   title: ""
   bio: "Após concluir o Mestrado em Informática, na Poznan University of Technology (Polónia) e Alpen-Adria Universitaet Klagenfurt na Austria (Joint Diploma Degree), Piotr Sielecki especializou-se em Software Engineering. Após concluir o Mestrado em Informática, prosseguiu os estudos com a realização do Mestrado em Economia, na Poznan University of Economics. Após a conclusão dos estudos, passou por algumas empresas de IT, passando por Portugal, na área de IT, mais concretamente, em telecomunicações. O percurso na Bosch teve início em 2009, através do Junior Management Program. Piotr passou pela área de Embedded Systems, pelos departamentos de desenvolvimento de SW para ESP, iBooster (Freno Inteligente), Ultrasound Driver Assistence Systems, integrando diferentes funções (Test Manager, SW Project Manager, SW Process Expert). Em 2015, começou a trabalhar como Senior Manager, responsável pela ADAS Central ECU SW. Em 2018, integrou a Bosch Car Multimedia, em Braga, como responsável para secção de desenvolvimento de SW para ADAS Sensor."
-  thumbnailUrl: piotr.jpg
+  thumbnailUrl: 
   rockstar: true
-  social:
-
+  social: 
 - 
   id: 030
   name: "João"
@@ -363,3 +364,62 @@
   rockstar: true
   social: 
 
+  -
+  id: 045
+  name: "Hugo"
+  surname: "Silva"
+  company: "Semasio"
+  title: "Head of Dev"
+  bio: "Hugo holds an MSc in Software Engineering from Instituto Superior de Engenharia do Porto. He started his career at ParadigmaXis, where he gained extensive experience with high-load, low-latency systems across a range of industries, including financial services. In 2013, Hugo joined Semasio as Head of Development."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+
+  -
+  id: 046
+  name: "Rui"
+  surname: "Pena"
+  company: "Darwin Interactive"
+  title: "COO & Co-Founder"
+  bio: "Rui Pena is at his best when solving problems and working with people. After graduating from FEUP he found in the Games & Casino industry the right fit for his ingenuity where he has played multiple roles.  He recently co-founded Darwin to keep evolving the game."
+  thumbnailUrl: ruipena.jpg
+  rockstar: true
+  social: 
+
+  -
+  id: 047
+  name: "Nuno"
+  surname: "Gonçalinho"
+  company: "Darwin Interactive"
+  title: "CEO & Co-Founder"
+  bio: "Nuno Gonçalinho has over 10 years of executive leadership experience in the Games & Casino industry. He has a successful entrepreneurial history, having set-up a prior tech-based startup which he grew to over 150 employees and millions of euros in yearly revenue."
+  thumbnailUrl: nunogoncalinho.jpg
+  rockstar: true
+  social: 
+
+-
+
+  
+  id: 048
+  name: "Hugo"
+  surname: "Silva"
+  company: "Semasio"
+  title: "Head of Dev"
+  bio: "Hugo holds an MSc in Software Engineering from Instituto Superior de Engenharia do Porto. He started his career at ParadigmaXis, where he gained extensive experience with high-load, low-latency systems across a range of industries, including financial services. In 2013, Hugo joined Semasio as Head of Development."
+  thumbnailUrl: hs.jpg
+  rockstar: true
+  social: 
+
+-
+  
+  id: 049
+  name: "Rui"
+  surname: "Pena"
+  company: "Darwin Interactive"
+  title: "COO & Co-Founder"
+  bio: "Rui Pena is at his best when solving problems and working with people. After graduating from FEUP he found in the Games & Casino industry the right fit for his ingenuity where he has played multiple roles.  He recently co-founded Darwin to keep evolving the game."
+  thumbnailUrl: ruipena.jpg
+  rockstar: true
+  social: 
+
+-

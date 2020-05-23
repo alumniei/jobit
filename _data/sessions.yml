@@ -39,7 +39,7 @@
   title: "Fabamaq"
   description: "At Fabamaq we believe we have a part in transforming the Portuguese economy. We're a start-up from Porto born in 2010 with only 10 gamers, and now we're more than 170. We work with clients from all over the world, from Asia to South America. Proximity, innovation and development are the foundations of FMQ's identity. That's why we invest in internal development programmes, because we know that we owe our growth to each and every person working here."
   subtype: keynote
-  speakers: [040]
+  speakers: [052]
   language: pt
   place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -144,10 +144,10 @@
   title: "Bosch"
   description: "Let’s be remarkable. <br> Carros autónomos, máquinas que falam entre si, casas e cidades inteligentes. <br> Na Bosch, transformamos estas visões em realidade para melhorar a qualidade de vida das pessoas por todo o mundo. Inicia algo grande e junta-te a esta equipa, onde vais poder criar algo extraordinário: Tecnologia para a vida.<br> Presente em Portugal desde 1911, a Bosch é uma das empresas mais reconhecidas do país. Com uma presença consolidada, exporta mais de 95% da sua produção para mercados internacionais e tem vindo a alargar as atividades de investigação e desenvolvimento em hardware e software para diferentes áreas de negócio.<br> As exigências do mercado e o objetivo de tornar a Bosch líder em IoT (Internet das Coisas) são relevantes também para as atividades em Portugal. Com mais de 5.000 colaboradores, a Bosch é um dos maiores empregadores industriais de Portugal e gerou, em 2017, 1,5 mil milhões de euros em vendas internas.<br> Transforma as tuas ideias em tecnologias benéficas. Quer seja nas áreas de soluções de mobilidade, bens de consumo, tecnologia industrial ou tecnologia de energia e construção, connosco vais ter a oportunidade de melhorar a qualidade de vida em todo o mundo!<br> Sabe mais em www.bosch.pt/."
   subtype: keynote
-  speakers: [029]
+  speakers: []
   language: pt
   place: Remote
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 017
@@ -240,9 +240,9 @@
 -
   id: 026
   title: "Natixis"
-  description: ""
+  description: "Natixis is a French multinational financial services firm specialized in asset & wealth management, corporate & investment banking, insurance and payments. A subsidiary of Groupe BPCE, the second-largest banking group in France through its two retail banking networks, Banque Populaire and Caisse d’Epargne, Natixis counts nearly 16,000 employees across 38 countries. <br> As Natixis Innovation Hub, Natixis in Portugal mission is to transform traditional banking by developing innovative solutions for the bank’s business, operations and work culture, being a key driver of the company’s culture of agility and innovation. Teams of IT and Banking Support Activities work in an integrated, inclusive and transversal way, supporting all the business lines and country platforms."
   subtype: keynote
-  speakers: [036]
+  speakers: [055,056,057]
   language: pt
   place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -275,10 +275,41 @@ Foundation for Science and Technology and the University of Porto."
   title: "Darwin Interactive"
   description: "Darwin Interactive is a startup founded by experienced industry veterans with a clear vision and high ambition of evolving the Games & Casino industry with innovative games and products. Darwin's main focus is creativity, technology and people. We bet on awesome people that love to learn, grow and be challenged."
   subtype: keynote
-  speakers: [046, 049]
+  speakers: [049,047]
   language: pt
   place: Remote
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 030
+  title: "Uphold"
+  description: "One of the fastest growing fintech companies, Uphold is pursuing a mission to democratise investments and payments for people and companies worldwide. Founded in 2014, the Silicon Valley company today has more than 2 million customers in over 150 countries with an impressive 50x increase in Mobile App downloads during the first quarter of 2020. A bridge between the old and new money systems, Uphold allows people to buy, exchange and send more than 100 currencies, cryptocurrencies, precious metals and equities instantly. An engineering-led company with a social inclusion agenda, Uphold provides a stimulating and challenging home for the brightest and best coding talent. <br> We stand by the idea that ‘source code is a liability, not an asset’, so we do our best to keep things simple, readable and less complex to manage. We work collaboratively with a shared code ownership mindset to design and implement complex technical projects, balancing speed with quality, learning from our past mistakes, and allowing everyone time to take the challenge they see fit."
+  subtype: keynote
+  speakers: [050]
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 031
+  title: "Jumpseller"
+  description: "A Jumpseller é uma plataforma de e-commerce que permite a qualquer pessoa facilmente começar a vender online, através da sua loja online online ou de vários canais de e-commerce como o Facebook, Instagram e Google Shopping. Atualmente, a Jumpseller é um líder de e-commerce na América Latina."
+  subtype: keynote
+  speakers: [053,054]
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 032
+  title: "Critical Manufacturing"
+  description: "Critical Manufacturing V7 represents the next major leap forward in realizing Industry 4.0 by leveraging the complete capabilities of CM modern MES through Augmented Reality, creating the most advanced shop floor focused application for connecting the digital world to the physical world of Manufacturing."
+  subtype: keynote
+  speakers: [051]
+  language: pt
+  place: Remote
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
 
 -
   id: 500

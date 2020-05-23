@@ -399,7 +399,6 @@ Believes the best leadership is demonstrated with action rather than words (lead
 
 -
 
-  
   id: 048
   name: "Hugo"
   surname: "Silva"
@@ -419,6 +418,100 @@ Believes the best leadership is demonstrated with action rather than words (lead
   title: "COO & Co-Founder"
   bio: "Rui Pena is at his best when solving problems and working with people. After graduating from FEUP he found in the Games & Casino industry the right fit for his ingenuity where he has played multiple roles.  He recently co-founded Darwin to keep evolving the game."
   thumbnailUrl: ruipena.jpg
+  rockstar: true
+  social: 
+
+-
+  
+  id: 050
+  name: "Waldir"
+  surname: "Pimenta"
+  company: "Uphold"
+  title: "Software Developer"
+  bio: "I'm a software developer with a computer graphics background, passionate about visual understanding and intuitive human-computer interfaces. I love distilling complex systems into logical, structured models. I value clarity over cleverness at all levels of software development — including readable code, clean version history, and comprehensive documentation. <br> I'm also a strong supporter of open content and open source software. I'm a Linux user, I regularly contribute to various open source projects, and I'm a long-time volunteer in the Wikimedia movement and several other open content projects. Whenever possible, I try to integrate these aspects of collaboration and contributing back to the ecosystem into my career."
+  thumbnailUrl: waldirpimenta.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 051
+  name: "Jorge"
+  surname: "Neto"
+  company: "Critical Manufacturing"
+  title: "Software Engineer"
+  bio: "Nascido na cidade do Porto em 1993, é licenciado em Engenharia Informática pelo Instituto Superior de Engenharia do Porto, em 2014, e mestre em Sistemas Computacionais, grau atingido pela mesma instituição em 2016.
+Iniciou o percurso profissional na empresa myPartner onde foi consultor de Dynamics CRM e responsável pela integração e extensibilidade do mesmo, de forma a responder às necessidades de clientes como a Delta, Casino Estoril, Universidade Católica de Lisboa, entre outros.
+Na Critical Manufacturing desde 2017, trabalha desde então na equipa do produto de manufatura de última geração, o Critical Manufacturing MES, solução atualmente utilizada por clientes como a BBraun, Imec, Elekta, Ultradente, entre outras."
+  thumbnailUrl: jorgeneto.jpg
+  rockstar: true
+  social: 
+-
+  id: 052
+  name: "Marco"
+  surname: "Paiva"
+  company: "Fabamaq"
+  title: "Head of Game Development"
+  bio: "Having MacGyver as one of his childhood heros, SNES and MegaDrive as one of his favourite hobbies as a child, and a huge fascination with computers.
+Marco could not escape the destiny of graduating as a Electrical and Computers Engineer at FEUP, becoming a full time researcher soon after graduating and later on, to spend is time creating games, problem solving, engineering software, and making defying decisions while managing a great team of game developers as the current Head of Game Development at FABAMAQ."
+  thumbnailUrl: marcopaiva.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 053
+  name: "Mashood"
+  surname: "Hassan"
+  company: "Jumpseller"
+  title: "Digital Marketing Specialist"
+  bio: "O Mashood tem um Mestrado em Marketing. Trata do marketing digital e da criação de conteúdo para o site. É um ávido fã da culinária árabe e tem paixão por aprender a dançar."
+  thumbnailUrl: mh.jpg
+  rockstar: true
+  social: 
+
+-
+
+  id: 054
+  name: "André"
+  surname: "Fernandes"
+  company: "Jumpseller"
+  title: "Engenheiro Informático"
+  bio: "Atualmente, o André está no último ano de engenharia informática na Faculdade de Engenharia da Universidade do Porto. Ele está a realizar a sua dissertação de mestrado em recomendações usando machine learning incremental e gosta de aprender coisas novas e enfrentar novos desafios."
+  thumbnailUrl: af.jpg
+  rockstar: true
+  social: 
+
+-
+
+  id: 055
+  name: "José Eduardo"
+  surname: "Bastos"
+  company: "Natixis"
+  title: "Human Resources"
+  bio: "Responsible for connecting Natixis with Universities"
+  thumbnailUrl: josebastos.jpeg
+  rockstar: true
+  social: 
+
+-
+
+  id: 056
+  name: "Mariana"
+  surname: "Silva"
+  company: "Natixis"
+  title: "Junior Developer"
+  bio: "Currently working on her master thesis"
+  thumbnailUrl: marianasilva.jpg
+  rockstar: true
+  social: 
+
+-
+  id: 057
+  name: "Simão"
+  surname: "Lúcio"
+  company: "Natixis"
+  title: "Junior Developer"
+  bio: "Currently working on his master thesis"
+  thumbnailUrl: simaolucio.jpg
   rockstar: true
   social: 
 

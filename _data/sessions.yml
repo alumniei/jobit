@@ -5,7 +5,7 @@
   subtype: keynote
   speakers: [023, 038]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -14,7 +14,7 @@
   subtype: keynote
   speakers: [039]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -23,7 +23,7 @@
   subtype: keynote
   speakers: [034]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 004
@@ -32,7 +32,7 @@
   subtype: keynote
   speakers: [032]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -41,7 +41,7 @@
   subtype: keynote
   speakers: [052]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 006
@@ -50,7 +50,7 @@
   subtype: keynote
   speakers: [041, 042]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 007
@@ -59,7 +59,7 @@
   subtype: keynote
   speakers: [019]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
@@ -68,7 +68,7 @@
   subtype: keynote
   speakers: [026]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 009
@@ -77,7 +77,7 @@
   subtype: keynote
   speakers: [015, 016, 035]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 010
@@ -86,7 +86,7 @@
   subtype: keynote
   speakers: [031]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -96,7 +96,7 @@
   subtype: keynote
   speakers: [028]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -106,7 +106,7 @@
   subtype: keynote
   speakers: [012]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -116,7 +116,7 @@
   subtype: keynote
   speakers: []
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -126,7 +126,7 @@
   subtype: keynote
   speakers: [017, 018]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -136,7 +136,7 @@
   subtype: keynote
   speakers: [024]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -146,7 +146,7 @@
   subtype: keynote
   speakers: []
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -156,7 +156,7 @@
   subtype: keynote
   speakers: [020]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 018
@@ -165,7 +165,7 @@
   subtype: keynote
   speakers: [030]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -175,7 +175,7 @@
   subtype: keynote
   speakers: [043]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -185,7 +185,7 @@
   subtype: keynote
   speakers: [013, 014]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -195,7 +195,7 @@
   subtype: keynote
   speakers: [044]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -205,7 +205,7 @@
   subtype: keynote
   speakers: [021, 022]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -215,7 +215,7 @@
   subtype: keynote
   speakers: [036, 037]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -225,7 +225,7 @@
   subtype: keynote
   speakers: [033]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -235,7 +235,7 @@
   subtype: workshop
   speakers: [033]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 026
@@ -244,7 +244,7 @@
   subtype: keynote
   speakers: [055,056,057]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 027
@@ -253,7 +253,7 @@
   subtype: keynote
   speakers: [048]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -267,7 +267,7 @@ Foundation for Science and Technology and the University of Porto."
   subtype: keynote
   speakers: []
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -277,17 +277,17 @@ Foundation for Science and Technology and the University of Porto."
   subtype: keynote
   speakers: [049,047]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 030
   title: "Uphold"
-  description: "One of the fastest growing fintech companies, Uphold is pursuing a mission to democratise investments and payments for people and companies worldwide. Founded in 2014, the Silicon Valley company today has more than 2 million customers in over 150 countries with an impressive 50x increase in Mobile App downloads during the first quarter of 2020. A bridge between the old and new money systems, Uphold allows people to buy, exchange and send more than 100 currencies, cryptocurrencies, precious metals and equities instantly. An engineering-led company with a social inclusion agenda, Uphold provides a stimulating and challenging home for the brightest and best coding talent. <br> We stand by the idea that ‘source code is a liability, not an asset’, so we do our best to keep things simple, readable and less complex to manage. We work collaboratively with a shared code ownership mindset to design and implement complex technical projects, balancing speed with quality, learning from our past mistakes, and allowing everyone time to take the challenge they see fit."
+  description: "One of the fastest growing fintech companies, Uphold is pursuing a mission to democratise investments and payments for people and companies worldwide. Founded in 2014, the Silicon Valley company today has more than 2 million customers in over 150 countries with an impressive 50x increase in Mobile App downloads during the first quarter of 2020. A bridge between the old and new money systems, Uphold allows people to buy, exchange and send more than 100 currencies, cryptocurrencies, precious metals and equities instantly. An engineering-led company with a social inclusion agenda, Uphold provides a stimulating and challenging  for the brightest and best coding talent. <br> We stand by the idea that ‘source code is a liability, not an asset’, so we do our best to keep things simple, readable and less complex to manage. We work collaboratively with a shared code ownership mindset to design and implement complex technical projects, balancing speed with quality, learning from our past mistakes, and allowing everyone time to take the challenge they see fit."
   subtype: keynote
   speakers: [050]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -297,7 +297,7 @@ Foundation for Science and Technology and the University of Porto."
   subtype: keynote
   speakers: [053,054]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
@@ -307,7 +307,7 @@ Foundation for Science and Technology and the University of Porto."
   subtype: keynote
   speakers: [051]
   language: pt
-  place: Remote
+  place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 

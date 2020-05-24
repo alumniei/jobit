@@ -173,6 +173,8 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://alumniei.pt/", text: "AlumniEI"}
+   - {link: "https://www.facebook.com/jobITAlumniEIFEUP", text: "Facebook"}
+   - {link: "https://www.instagram.com/jobit.alumnieifeup/", text: "Instagram"}
  -
   title: "Contacts"
   links:

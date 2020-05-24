@@ -1,16 +1,16 @@
 - 
-  date: "2019-04-03"
-  dateReadable: "3rd of April"
+  date: "2020-05-25"
+  dateReadable: "25th of May"
   timeslots:
     - {
     	startTime: "14:45",
     	endTime: "15:05",
-    	sessionIds: [009]
+    	sessionIds: [013]
     }
     - {
       startTime: "15:05",
       endTime: "15:25",
-      sessionIds: [010]
+      sessionIds: [011]
     }
     - {
     	startTime: "15:25",
@@ -54,8 +54,8 @@
     }
 
 - 
-  date: "2019-04-10"
-  dateReadable: "10th of April"
+  date: "2020-05-27"
+  dateReadable: "27th of May"
   timeslots:
     - {
     	startTime: "14:45",
@@ -109,8 +109,8 @@
     }
 
 - 
-  date: "2019-04-24"
-  dateReadable: "24th of April"
+  date: "2020-05-29"
+  dateReadable: "29th of May"
   timeslots:
     - {
     	startTime: "14:45",

@@ -42,7 +42,7 @@
   speakers: [052]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/0CknChNQJnY"
 -
   id: 006
   title: "Feedzai"
@@ -69,7 +69,7 @@
   speakers: [026]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/PFinOAVgzDk"
 -
   id: 009
   title: "Farfetch"
@@ -97,7 +97,7 @@
   speakers: [028]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/qFMdbLalZZY"
 
 -
   id: 012
@@ -147,7 +147,7 @@
   speakers: []
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/antkUVYggyI"
 
 -
   id: 017
@@ -226,7 +226,7 @@
   speakers: [033]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/Rp3U9pulQ5I"
 
 -
   id: 025
@@ -245,7 +245,7 @@
   speakers: [055,056,057]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/3MJbcSE2w3k"
 -
   id: 027
   title: "Semasio"
@@ -254,7 +254,7 @@
   speakers: [048]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/kI--Z2I6P2M"
 
 -
   id: 028
@@ -268,7 +268,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: []
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/A1NAAXrQZyk"
 
 -
   id: 029
@@ -278,7 +278,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: [049,047]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/xxrlhyNoP2Q"
 
 -
   id: 030
@@ -288,7 +288,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: [050]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/B-SBWCDM2YE"
 
 -
   id: 031
@@ -298,7 +298,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: [053,054]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/y_9FmjVm3W4"
 
 -
   id: 032
@@ -308,7 +308,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: [051]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/IWjGlep1Nj0"
 
 -
   id: 033
@@ -318,7 +318,7 @@ Foundation for Science and Technology and the University of Porto."
   speakers: [058]
   language: pt
   place: 
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "https://www.youtube.com/embed/2Ffc3RtkOc0"
 
 -
   id: 034

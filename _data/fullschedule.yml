@@ -9,25 +9,25 @@
     - {
     	startTime: "14:45",
     	endTime: "15:05",
-    	sessionIds: [033, 034, 034]
+    	sessionIds: [033, 008, 005]
     }
     - {
     	startTime: "14:45",
     	endTime: "15:05",
-    	sessionIds: [016, 008, 005]
+    	sessionIds: [016, 024, 027]
     }
     - {
       startTime: "15:05",
       endTime: "15:25",
-      sessionIds: [011, 024, 027]
+      sessionIds: [011, 029, 031]
     }
     - {
     	startTime: "15:25",
     	endTime: "15:45",
-    	sessionIds: [026, 029, 031]
+    	sessionIds: [026, 030, 032]
     }
     - {
     	startTime: "15:45",
     	endTime: "16:05",
-    	sessionIds: [028, 030, 032]
+    	sessionIds: [028, 034, 034]
     }

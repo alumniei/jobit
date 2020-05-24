@@ -310,6 +310,25 @@ Foundation for Science and Technology and the University of Porto."
   place: 
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
+-
+  id: 033
+  title: "Apresentação"
+  description: "Vídeo de apresentação inicial."
+  subtype: keynote
+  speakers: [058]
+  language: pt
+  place: 
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 034
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  place: 
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 500

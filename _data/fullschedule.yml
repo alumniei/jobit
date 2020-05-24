@@ -9,6 +9,11 @@
     - {
     	startTime: "14:45",
     	endTime: "15:05",
+    	sessionIds: [033, 034, 034]
+    }
+    - {
+    	startTime: "14:45",
+    	endTime: "15:05",
     	sessionIds: [016, 008, 005]
     }
     - {

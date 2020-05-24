@@ -493,7 +493,6 @@ Marco could not escape the destiny of graduating as a Electrical and Computers E
   social: 
 
 -
-
   id: 056
   name: "Mariana"
   surname: "Silva"
@@ -513,6 +512,15 @@ Marco could not escape the destiny of graduating as a Electrical and Computers E
   bio: "Currently working on his master thesis"
   thumbnailUrl: simaolucio.jpg
   rockstar: true
-  social: 
+  social:
 
 -
+  id: 058
+  name: "Pascoal"
+  surname: "Faria"
+  company: "FEUP"
+  title: "Professor"
+  bio: "João Pascoal Faria tem um doutoramento em Engenharia Electrotécnica e de Computadores pela Faculdade de Engenharia da Universidade do Porto em 1999, onde é atualmente Professor Associado no Departamento de Engenharia Informática e Diretor do Mestrado Integrado em Engenharia Informática e Computação. É membro do Grupo de Investigação em Engenharia de Software e investigador do INESC TEC na área de Engenharia de Software. É Presidente da Comissão Setorial para as Tecnologia da Informação e das Comunicações (CS/03), no âmbito do Instituto Português da Qualidade (IPQ), em representação da FEUP. No passado, trabalhou com várias empresas de software (Novabase Saúde, Sidereus, Medidata) e foi co-fundador de outras duas (QualiSoft e Strongstep). Tem mais de 25 anos de experiência em ensino, investigação, desenvolvimento e consultoria em diversas áreas de engenharia de software. É o principal autor de uma ferramenta de desenvolvimento rápido de aplicações (SAGA), com base em linguagens específicas de domínio, com mais de 25 anos de presença no mercado e evolução (1989-presente). As áreas de investigação atuais focam-se em automação de testes de software com base em modelos, melhoria de processos de software e desenvolvimento de software conduzido por modelos."
+  thumbnailUrl: pascoalfaria.jpg
+  rockstar: true
+  social:

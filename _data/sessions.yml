@@ -144,7 +144,7 @@
   title: "Bosch"
   description: "Let’s be remarkable. <br> Carros autónomos, máquinas que falam entre si, casas e cidades inteligentes. <br> Na Bosch, transformamos estas visões em realidade para melhorar a qualidade de vida das pessoas por todo o mundo. Inicia algo grande e junta-te a esta equipa, onde vais poder criar algo extraordinário: Tecnologia para a vida.<br> Presente em Portugal desde 1911, a Bosch é uma das empresas mais reconhecidas do país. Com uma presença consolidada, exporta mais de 95% da sua produção para mercados internacionais e tem vindo a alargar as atividades de investigação e desenvolvimento em hardware e software para diferentes áreas de negócio.<br> As exigências do mercado e o objetivo de tornar a Bosch líder em IoT (Internet das Coisas) são relevantes também para as atividades em Portugal. Com mais de 5.000 colaboradores, a Bosch é um dos maiores empregadores industriais de Portugal e gerou, em 2017, 1,5 mil milhões de euros em vendas internas.<br> Transforma as tuas ideias em tecnologias benéficas. Quer seja nas áreas de soluções de mobilidade, bens de consumo, tecnologia industrial ou tecnologia de energia e construção, connosco vais ter a oportunidade de melhorar a qualidade de vida em todo o mundo!<br> Sabe mais em www.bosch.pt/."
   subtype: keynote
-  speakers: []
+  speakers: [059]
   language: pt
   place: 
   video: "https://www.youtube.com/embed/antkUVYggyI"
@@ -265,7 +265,7 @@ Research Center for Assistive Information and Communication Solutions (AICOS), l
 born in 2009 following a partnership between the Fraunhofer Society (Fraunhofer-Gesellschaft), the
 Foundation for Science and Technology and the University of Porto."
   subtype: keynote
-  speakers: []
+  speakers: [060]
   language: pt
   place: 
   video: "https://www.youtube.com/embed/A1NAAXrQZyk"

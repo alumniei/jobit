@@ -524,3 +524,25 @@ Marco could not escape the destiny of graduating as a Electrical and Computers E
   thumbnailUrl: pascoalfaria.jpg
   rockstar: true
   social:
+
+-
+  id: 059
+  # name: "Bosch"
+  # surname: "Faria"
+  company: "Bosch"
+  title: "Company"
+  bio: ""
+  thumbnailUrl: bosch.jpg
+  rockstar: true
+  social:
+
+-
+  id: 060
+  # name: "Bosch"
+  # surname: "Faria"
+  company: "Fraunhofer"
+  title: "Company"
+  bio: ""
+  thumbnailUrl: fraunhofer.png
+  rockstar: true
+  social:

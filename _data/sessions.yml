@@ -359,3 +359,13 @@ Foundation for Science and Technology and the University of Porto."
   title: "Networking"
   place: "I-105"
   service: true
+
+-
+  id: 035
+  title: "Cerimónia de encerramento"
+  description: "Vídeo da conversa da cerimónia de encerramento."
+  subtype: keynote
+  speakers: [061, 058]
+  language: pt
+  place: 
+  video: "https://www.youtube.com/embed/sXTbhD4dJSw"

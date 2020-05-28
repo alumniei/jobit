@@ -546,3 +546,14 @@ Marco could not escape the destiny of graduating as a Electrical and Computers E
   thumbnailUrl: fraunhofer.png
   rockstar: true
   social:
+
+-
+  id: 061
+  name: "Augusto"
+  surname: "de Sousa"
+  company: "FEUP"
+  title: "Professor"
+  bio: "A. Augusto de Sousa terminou o seu doutoramento em 1996 na Faculdade de Engenharia da Universidade do Porto (FEUP), Portugal, nas áreas de Computação Gráfica/Síntese de Imagem e Computação Paralela. É docente na mesma Faculdade desde 1983, em áreas relacionadas com a Computação Gráfica e Arquitetura de Computadores. É, atualmente, membro da direção da FEUP, com o cargo de Vice-Presidente do Conselho Pedagógico. Foi, de 2008 a 2014, diretor do curso de Mestrado Integrado em Engenharia Informática e Computação da FEUP e, de 2000 a 2003, membro da primeira Direção do curso de Licenciatura em Jornalismo e Ciências da Comunicação da Universidade do Porto, responsável pela instalação do curso. É membro da Comissão Científica do ProDEI (Programa Doutoral em Engenharia Informática da FEUP). Foi por várias vezes membro eleito do Conselho Pedagógico da FEUP e é membro do Conselho Científico da FEUP e do Conselho de Departamento do DEi (Departamento de Engenharia Informática da FEUP). É investigador no INESC TEC desde 1985, onde coordena o grupo de Computação Gráfica do CSIG e desempenhou funções de coordenador da Unidade de Sistemas de Informação e Computação Gráfica (1998 a 2000). Foi orientador de duas teses de doutoramento, em Otimização de Visualização em Cenas 3D Extensas, e em Armazenamento, Processamento e Visualização de Dados Espaço-temporais, assim como co-orientador de três teses de doutoramento em Síntese de Imagem, Realidade Virtual e Modelação Automática de Ambientes Virtuais Urbanos. Foi orientador de várias teses de mestrado em diversas áreas da Computação Gráfica, Realidade Virtual e Sistemas de Informação Geográfica. A. Augusto de Sousa tem estado envolvido em vários projetos de I&D genericamente relacionadas com Interação Avançada/Intuitiva, Síntese de Imagem e Realidade Virtual. Foi e é Investigador Responsável de vários projetos financiados pela FCT em Processamento e Visualização de Dados Espácio-temporais, em Modelação Expedita e Visualização de Ambientes Virtuais Urbanos e em Ambientes Virtuais Multissensoriais e colaborou em um projeto Europeu na área da Interação Avançada para Modelação 3D. Participou na organização e na comissão científica de inúmeras conferências nacionais e internacionais, tendo sido organizador responsável de três conferências internacionais. Foi membro da direção do EUROGRAPHICS Portuguese Chapter, tendo ocupado os cargos de Presidente, Vice-Presidente e Tesoureiro, bem como, por inerência de funções, foi membro da Comissão Executiva da Associação EUROGRAPHICS."
+  thumbnailUrl: augustosousa.jpg
+  rockstar: true
+  social:

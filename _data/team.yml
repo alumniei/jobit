@@ -1,73 +1,64 @@
 - 
   id: 0
-  name: "André"
-  surname: "Fernandes"
+  name: "Beatriz"
+  surname: "Lopes dos Santos"
   title: ""
-  thumbnailUrl: andrefernandes.jpg
+  thumbnailUrl: beatrizlopesdossantos.png
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/af-fernandes"}
-    - {name: "github", link: "https://github.com/Marko50"}
-    - {name: "site", link: "http://www.andrefernandes.me/"}
+    - {name: "linkedin", link: "www.linkedin.com/in/beatriz-lopes-dos-santos-bb8853148"}
+    - {name: "github", link: "https://github.com/beatrizlopesdossantos"}
 
 - 
   id: 1
-  name: "Pedro"
-  surname: "Silva"
+  name: "Eduardo"
+  surname: "Macedo"
   title: ""
-  thumbnailUrl: pedrosilva.jpg
+  thumbnailUrl: eduardomacedo.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pedro-silva-1200a9160/"}
-    - {name: "github", link: "https://github.com/Peteraya"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eduardo-macedo99/"}
+    - {name: "github", link: "https://github.com/EduMacedo99"}
 
 - 
   id: 2
   name: "Filipe"
   surname: "Pinto Reis"
   title: ""
-  thumbnailUrl: filipereis.jpg
+  thumbnailUrl: filipepintoreis.jpg
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/filipe-pinto-dos-reis-3b4338118"}
     - {name: "github", link: "https://github.com/FilipePintoReis"}
 - 
   id: 3
-  name: "Daniel"
-  surname: "Machado"
+  name: "João"
+  surname: "Martins"
   title: ""
-  thumbnailUrl: danielmachado.jpg
+  thumbnailUrl: joaomartins.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danielpmachado"}
-    - {name: "github", link: "https://github.com/dolfander"}
-
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaomrcsmartins"}
+    - {name: "github", link: "https://github.com/joaomrcsmartins/"}
 
 - 
   id: 4
-  name: "Gonçalo"
-  surname: "Moreno"
+  name: "João"
+  surname: "Matos"
   title: ""
-  thumbnailUrl: goncalomoreno.jpg
+  thumbnailUrl: joaomartins.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/goncalomoreno/"}
-    - {name: "github", link: "https://github.com/GonVas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/filipe-pinto-dos-reis-3b4338118"}
+    - {name: "github", link: "https://github.com/FilipePintoReis"}
+
 - 
   id: 5
-  name: "Diogo"
-  surname: "Pereira"
+  name: "Matilde"
+  surname: "Oliveira"
   title: ""
-  thumbnailUrl: diogopereira.jpg
+  thumbnailUrl: matildeoliveira.JPG
   team: true
   social: 
-    - {name: "github", link: "https://github.com/Diogopp"}
-- 
-  id: 6
-  name: "Eduarda"
-  surname: "Cunha"
-  title: ""
-  thumbnailUrl: eduardacunha.jpg
-  team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/eduarda-cunha/"}
+    - {name: "linkedin", link: "www.linkedin.com/in/matildejoliveira"}
+    - {name: "github", link: "https://github.com/maildejoliveira "}

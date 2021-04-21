@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Job IT 2020"
+title: "Job IT 2021"
 email: "info@jobit.pt"
 description: "Job IT is a three day conference for graduating students @ FEUP"
 baseurl: ""
@@ -44,25 +44,25 @@ organizerLink: "http://alumniei.pt/"
 navigationLinks:
  #- {permalink: "/", text: "Home"}
 bottomNavigationLinks:
- - {link: "https://forms.gle/as4vi5bJuai7XZnr5", text: "Share your CV"}
+ - {link: "https://forms.gle/SJTv7bZHUJNUULd57", text: "Share your CV"}
 rightNavigationButtons:
- - {link: "https://forms.gle/as4vi5bJuai7XZnr5", text: "Share your CV"}
+ - {link: "https://forms.gle/SJTv7bZHUJNUULd57", text: "Share your CV"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroVideo: "porto.webm"
-heroTitle: "Job IT 2020"
+heroTitle: "Job IT 2021"
 eventDate: "<typeout> of May"
-typeoutTextValues: '"", "25th", "27th", "29th", ""'
-typeoutFallback: "25th, 27th and 29th"
+typeoutTextValues: '"", "5th", "12th", "19th", ""'
+typeoutFallback: "5th, 12th and 19th"
 heroButtons:
 #- {link: "https://bit.ly/dfua-c4p", text: "Send your CV"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "25th, 27th and 29th of May"
+aboutTitle: "5th, 12th and 19th of May"
 aboutBlock:
- - {title: "Who knows? Maybe your career starts here!", link: "https://forms.gle/as4vi5bJuai7XZnr5", buttonText: "Share your CV", text: "Your CV will be sent to the companies participating in the event. " }
+ - {title: "Who knows? Maybe your career starts here!", link: "https://forms.gle/SJTv7bZHUJNUULd57", buttonText: "Share your CV", text: "Your CV will be sent to the companies participating in the event. " }
 # - {title: "20+ Companies", image: "workshop.jpg", text: "" }
 # - {title: "Speed Networking", image: "hackathon.jpg", text: "" }
 

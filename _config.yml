@@ -182,6 +182,7 @@ footerBlocks:
  -
   title: "Previous Editions"
   links:
+   - {permalink: "/previous-editions/2020", text: "2020"}
    - {permalink: "/previous-editions/2019", text: "2019"} 
    - {permalink: "/previous-editions/2018", text: "2018"}
    - {permalink: "/previous-editions/2017", text: "2017"}

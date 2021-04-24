@@ -1,169 +1,59 @@
 - 
-  date: "2020-05-25"
-  dateReadable: "25th of May"
+  date: "2021-05-05"
+  dateReadable: "5th of May"
   timeslots:
-    - {
-    	startTime: "14:45",
-    	endTime: "15:05",
-    	sessionIds: [013]
-    }
-    - {
-      startTime: "15:05",
-      endTime: "15:25",
-      sessionIds: [011]
-    }
-    - {
-    	startTime: "15:25",
-    	endTime: "15:45",
-    	sessionIds: [011]
-    }
-    - {
-    	startTime: "15:45",
-    	endTime: "16:05",
-    	sessionIds: [012]
-    }
-    - {
-      startTime: "16:05",
-      endTime: "16:35",
-      sessionIds: [500]
-    }
-    - {
-    	startTime: "16:35",
-    	endTime: "16:55",
-    	sessionIds: [013]
-    }
-    - {
-    	startTime: "16:55",
-    	endTime: "17:25",
-    	sessionIds: [014]
-    }
-    - {
-      startTime: "17:25",
-      endTime: "17:45",
-      sessionIds: [023]
-    }
-    - {
-    	startTime: "17:45",
-    	endTime: "18:05",
-    	sessionIds: [016]
-    }
-    - {
-    	startTime: "18:05",
-    	endTime: "18:35",
-    	sessionIds: [501]
-    }
-
-- 
-  date: "2020-05-27"
-  dateReadable: "27th of May"
-  timeslots:
-    - {
-    	startTime: "14:45",
-    	endTime: "15:05",
+    - - {
+    	startTime: "14:15",
+    	endTime: "14:45",
     	sessionIds: [001]
     }
     - {
-      startTime: "15:05",
-      endTime: "15:25",
-      sessionIds: [002]
+    	startTime: "14:50",
+    	endTime: "15:20",
+    	sessionIds: [001]
     }
     - {
-    	startTime: "15:25",
-    	endTime: "15:45",
-    	sessionIds: [003]
+      startTime: "15:40",
+      endTime: "16:10",
+      sessionIds: [001]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "16:05",
-    	sessionIds: [004]
+    	startTime: "16:15",
+    	endTime: "16:45",
+    	sessionIds: [001]
     }
     - {
-      startTime: "16:05",
-      endTime: "16:35",
-      sessionIds: [503]
-    }
-    - {
-    	startTime: "16:35",
-    	endTime: "16:55",
-    	sessionIds: [005]
-    }
-    - {
-    	startTime: "16:55",
-    	endTime: "17:25",
-    	sessionIds: [006]
-    }
-    - {
-      startTime: "17:25",
-      endTime: "17:45",
-      sessionIds: [007]
-    }
-    - {
-    	startTime: "17:45",
-    	endTime: "18:05",
-    	sessionIds: [008]
-    }
-    - {
-    	startTime: "18:05",
-    	endTime: "18:35",
-    	sessionIds: [504]
+    	startTime: "17:00",
+    	endTime: "18:00",
+    	sessionIds: [002]
     }
 
 - 
-  date: "2020-05-29"
-  dateReadable: "29th of May"
+  date: "2021-05-12"
+  dateReadable: "12th of May"
   timeslots:
     - {
-    	startTime: "14:45",
-    	endTime: "15:05",
-    	sessionIds: [017]
+    	startTime: "14:15",
+    	endTime: "14:45",
+    	sessionIds: [001]
     }
     - {
-      startTime: "15:05",
-      endTime: "15:25",
-      sessionIds: [018]
+    	startTime: "14:50",
+    	endTime: "15:20",
+    	sessionIds: [001]
     }
     - {
-    	startTime: "15:25",
-    	endTime: "15:45",
-    	sessionIds: [019]
+      startTime: "15:40",
+      endTime: "16:10",
+      sessionIds: [001]
     }
     - {
-    	startTime: "15:45",
-    	endTime: "16:05",
-    	sessionIds: [020]
+    	startTime: "16:15",
+    	endTime: "16:45",
+    	sessionIds: [001]
     }
     - {
-      startTime: "16:05",
-      endTime: "16:35",
-      sessionIds: [503]
-    }
-    - {
-    	startTime: "16:35",
-    	endTime: "16:55",
-    	sessionIds: [021]
-    }
-    - {
-    	startTime: "16:55",
-    	endTime: "17:25",
-    	sessionIds: [022]
-    }
-    - {
-      startTime: "17:25",
-      endTime: "17:45",
-      sessionIds: [015]
-    }
-    - {
-    	startTime: "17:45",
-    	endTime: "18:05",
-    	sessionIds: [024]
-    }
-    - {
-    	startTime: "18:05",
-    	endTime: "18:25",
-    	sessionIds: [025]
-    }
-    - {
-    	startTime: "18:25",
-    	endTime: "18:55",
-    	sessionIds: [504]
+    	startTime: "17:00",
+    	endTime: "18:00",
+    	sessionIds: [002]
     }

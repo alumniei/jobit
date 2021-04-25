@@ -1,3 +1,9 @@
+- id: 000
+  title: "Opening Session"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: []
+  language: pt
 - id: 001
   title: "TBD Keynote"
   description: "To be announced soon."
@@ -9,6 +15,12 @@
 - id: 002
   title: "Networking Session"
   description: "Meet our partner companies in our networking session, powered by Discord."
+  subtype: keynote
+  speakers: []
+  language: pt
+- id: 003
+  title: "Closing Session"
+  description: "To be announced soon."
   subtype: keynote
   speakers: []
   language: pt

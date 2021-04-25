@@ -1,4 +1,5 @@
 - group: "Companies"
+  ready: false
   elements:
     - {
         name: "Critical Manufacturing",
@@ -83,6 +84,7 @@
       }
 
 - group: "Partners"
+  ready: true
   elements:
     - {
         name: "Departamento de Engenharia Informática",

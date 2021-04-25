@@ -46,11 +46,11 @@
   name: "João"
   surname: "Matos"
   title: ""
-  thumbnailUrl: joaomartins.jpg
+  thumbnailUrl: joaomatos.jpg
   team: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/filipe-pinto-dos-reis-3b4338118"}
-    - {name: "github", link: "https://github.com/FilipePintoReis"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/joaonmatos"}
+    - {name: "github", link: "https://github.com/joaonmatos"}
 
 - 
   id: 5

@@ -7,6 +7,11 @@
     - {title: "19th of May", color: "#e91e63"}
   timeslots:
     - {
+        startTime: "14:00",
+        endTime: "14:15",
+        sessionIds: [000, 404, 404]
+    }
+    - {
     	startTime: "14:15",
     	endTime: "14:45",
     	sessionIds: [001, 001, 001]

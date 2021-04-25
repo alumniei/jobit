@@ -1,3 +1,9 @@
+- id: 000
+  title: "Opening Session"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: []
+  language: pt
 - id: 001
   title: "TBD Keynote"
   description: "To be announced soon."

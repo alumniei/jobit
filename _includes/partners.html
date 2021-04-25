@@ -4,15 +4,21 @@
         <div class="col-lg-10 col-lg-offset-1">
             {% for partner in site.data.partners %}
             <h3>{{ partner.group }}</h3>
+            {% if partner.ready %}
             <ul class="list-inline">
                 {% for element in partner.elements %}
+                {% if element.show %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
+                {% endif %}
                 {% endfor %}
             </ul>
+            {% else %}
+            <h4>Anouncing soon...</h4>
+            {% endif %}
             {% endfor %}
         </div>
     </div> 

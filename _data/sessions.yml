@@ -18,3 +18,9 @@
   subtype: keynote
   speakers: []
   language: pt
+- id: 003
+  title: "Closing Session"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: []
+  language: pt

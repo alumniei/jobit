@@ -1,26 +1,26 @@
 - group: "Companies"
-  ready: false
+  ready: true
   elements:
     - {
         name: "Critical Manufacturing",
         description: "",
         link: "https://www.criticalmanufacturing.com/en/homepage",
         imageUrl: "critical-manufacturing.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Fabamaq",
         description: "At Fabamaq we believe we have a part in transforming the Portuguese economy. We're a start-up from Porto born in 2010 with only 10 gamers, and now we're more than 180. We work with clients from all over the world, from Asia to South America. Proximity, innovation and development are the foundations of FMQ's identity. That's why we invest in internal development programmes, because we know that we owe our growth to each and every person working here.",
         link: "https://www.fabamaq.com/",
         imageUrl: "fabamaq.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Farfetch",
         description: "Farfetch Limited is the leading global platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch Marketplace connects customers in over 190 countries with items from more than 50 countries and over 1,300 of the world’s best brands, boutiques, and department stores, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Farfetch’s additional businesses include Farfetch Platform Solutions, which services enterprise clients with e-commerce and technology capabilities; Browns and Stadium Goods, which offer luxury products to consumers; and New Guards, a platform for the development of global fashion brands. Farfetch also invests in innovations such as its Store of the Future augmented retail solution and develops key technologies, business solutions, and services for the luxury fashion industry.",
         link: "https://aboutfarfetch.com/",
         imageUrl: "farfetch.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Glintt",
@@ -31,49 +31,49 @@
           Outro pilar de atuação é a Consultoria Tecnológica, através da nossa marca Nexllence​​, promovemos a adoção e o desenvolvimento de soluções baseadas em tecnologias e infraestruturas emergentes para a administração publica e organizações de vários setores de atividade.",
         link: "https://www.glintt.com/en/Pages/home.aspx",
         imageUrl: "glintt.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Google",
         description: "Google's mission is to organize the world’s information and make it universally accessible and useful.",
         link: "https://about.google/",
         imageUrl: "google.png",
-        show: false,
+        show: true,
       }
     - {
         name: "ITSector",
         description: "Somos uma empresa de desenvolvimento de software especializada na transformação digital para instituições financeiras e a criação de soluções disruptivas para o setor bancário é aquilo que nos motiva. Há mais de 15 anos, e desenvolvendo projetos em mais de 20 países, temos construído a próxima Era Digital para o setor financeiro, combinando tecnologia, inovação e conhecimento especializado.",
         link: "https://www.itsector.pt/",
         imageUrl: "itsector.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Jscrambler",
         description: "A Jscrambler é uma empresa líder em cibersegurança client-side. A empresa, nascida e sediada no Porto, apresenta soluções empresariais de proteção de aplicações JavaScript, bem como de monitorização em tempo real de páginas Web. Com a Jscrambler, as aplicações JavaScript tornam-se autodefensivas e resistentes a ataques de adulteração de código, roubo e engenharia reversa, e garantem total visibilidade face a ataques client-side, incluindo skimmers digitais, injeções maliciosas de código e roubo de dados dos utilizadores. Entre os clientes da Jscrambler contam-se alguns dos maiores bancos e retalhistas do mundo, incluindo empresas listadas na Fortune 500.",
         link: "https://jscrambler.com/",
         imageUrl: "jscrambler.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Jumpseller",
         description: "Jumpseller é uma plataforma de e-commerce que permite a qualquer pessoa facilmente começar a vender online, através da sua loja online online ou de vários canais de e-commerce como o Whatsapp, Facebook, Instagram, OLX e Google Shopping. Atualmente, a Jumpseller é um dos líderes de e-commerce para pequenos negócios na América Latina.",
         link: "https://jumpseller.pt/",
         imageUrl: "jumpseller.png",
-        show: false,
+        show: true,
       }
     - {
         name: "KPMG",
         link: "https://home.kpmg/",
         description: "",
         imageUrl: "kpmg.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Semasio",
         description: "",
         link: "https://www.semasio.com/",
         imageUrl: "semasio.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Switch",
@@ -82,7 +82,7 @@
           Through the Switch Platform you’re able to capitalize on existing legacy systems, analyze transactional data, and manage your payment operations all in one place with no need for additional code.",
         link: "https://switchpayments.com/",
         imageUrl: "switch-payments.png",
-        show: false,
+        show: true,
       }
     - {
         name: "Veniam",
@@ -92,7 +92,7 @@
           ",
         link: "https://veniam.com/",
         imageUrl: "veniam.png",
-        show: false,
+        show: true,
       }
 
 - group: "Partners"

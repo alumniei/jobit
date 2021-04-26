@@ -12,3 +12,26 @@
   subtype: keynote
   speakers: []
   language: pt
+- id: 003
+  title: "Opening Cerimony"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  place:
+- id: 004
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pt
+  place:
+- id: 005
+  title: "The Future of Mobility and Telecomunications"
+  description: "Less than a year ago, mobility trends around the world seemed quite clear: 51 million connected cars shipped in 2019, shared mobility a la Uber, Lyft and Didi growing fast in many countries, and billions of dollars of venture capital and corporate investment poured into developing autonomous vehicles and racing them to the market. With the Covid-19 pandemic everything changed from one day to another. While it’s clear that our human society will continue to move large numbers of people and goods, nobody really knows how mobility will look like even six months from now let alone one year. In this keynote, we will start by exploring the available data on how the pandemic is changing the mobility landscape in the near-term. After formulating a few scenarios for the aftermath, we will draw from eight years of experience deploying city-scale networks of connected vehicles to illustrate how the convergence of transportation, communication and computation continues to offer unparalleled opportunities for smarter and more sustainable mobility services — all of which indispensable for us to face the very real and enormous challenges of climate change."
+  subtype: keynote
+  speakers: [012]
+  language: pt
+  place:
+
+

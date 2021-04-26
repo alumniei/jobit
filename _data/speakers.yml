@@ -1,11 +1,11 @@
 - 
   id: 012
-  name: "Ivo"
-  surname: "Pereira"
-  company: "E-goi"
-  title: "Developer Relations Program Manager"
-  bio: "Ivo Pereira, Doutorado em Engenharia Eletrotécnica e de Computadores pela UTAD, colabora, desde 2017, como Head of Innovation & Research na E-goi. Além da coordenação da inovação e investigação, tem sido responsável pela ligação da empresa com as instituições de ensino superior e de investigação. Faz ainda a gestão dos estágios curriculares na E-goi. Atualmente, é também Professor Adjunto Convidado no Instituto Superior de Engenharia do Porto."
-  thumbnailUrl: ivopereira.jpg
+  name: "João"
+  surname: "Barros"
+  company: "Veniam"
+  title: "CEO"
+  bio: "João Barros is Founder and CEO of Veniam Inc. and Professor Catedrático (on leave) of Electrical and Computer Engineering at the University of Porto, Portugal. He was Founding Director of Instituto de Telecomunicações in Porto, which grew from 8 to 100 researchers during his six-year tenure. João Barros was also a Fulbright scholar twice and has held visiting appointments at MIT, Stanford, Cornell, and Carnegie Mellon. He regularly teaches at the Porto Business School and serves on the board of Streambolico, a WiFi multicast company he co-founded. Dr. Barros has received several awards, including the 2010 IEEE ComSoc Young Researcher Award (EMEA), the 2011 IEEE ComSoC and Information Theory Society Joint Paper Award, the 2012 BES National Innovation Award, the 2013 Building Global Innovators Grand Prize (ISCTE-IUL and MIT) and a best teaching award by the Bavarian State Ministry of Sciences, Research and the Arts. His work has been featured on NPR, BBC, MIT Technology Review, TechCrunch, FastCompany, and The Atlantic, among several other relevant media outlets. João is fluent in Portuguese, German, English, French and Spanish. He received his undergraduate education in ECE from the Universidade do Porto (UP), Portugal and Universitaet Karlsruhe, Germany, a performing arts degree in flute from the Music Conservatory of Porto, and the Ph.D. degree in EE and IT from the Technische Universitaet Muenchen (TUM), Germany."
+  thumbnailUrl: joaobarros.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

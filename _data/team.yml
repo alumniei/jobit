@@ -6,7 +6,7 @@
   thumbnailUrl: beatrizlopesdossantos.png
   team: true
   social: 
-    - {name: "linkedin", link: "www.linkedin.com/in/beatriz-lopes-dos-santos-bb8853148"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/beatriz-lopes-dos-santos-bb8853148/"}
     - {name: "github", link: "https://github.com/beatrizlopesdossantos"}
 
 - 
@@ -60,5 +60,5 @@
   thumbnailUrl: matildeoliveira.JPG
   team: true
   social: 
-    - {name: "linkedin", link: "www.linkedin.com/in/matildejoliveira"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matildejoliveira"}
     - {name: "github", link: "https://github.com/maildejoliveira "}

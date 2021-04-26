@@ -1,5 +1,6 @@
 # Local Variables
 form_link: &form_link https://forms.gle/SJTv7bZHUJNUULd57
+registration_link: &registration_link https://www.eventbrite.com/e/152197479759
 
 # Plugins
 gems:
@@ -34,9 +35,12 @@ organizerLink: "http://alumniei.pt/"
 navigationLinks:
   #- {permalink: "/", text: "Home"}
 bottomNavigationLinks:
+ - {link: *registration_link, text: "Get your ticket"}
  - {link: *form_link, text: "Share your CV"}
 rightNavigationButtons:
+ - {link: *registration_link, text: "Get your ticket"}
  - {link: *form_link, text: "Share your CV"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -52,6 +56,12 @@ heroButtons:
 # About Block
 aboutTitle: "5th, 12th, and 19th of May"
 aboutBlock:
+  - {
+    title: "Get your ticket now!",
+    link: *registration_link,
+    buttonText: "Get your ticket",
+    text: "The ticket will give you access to the Q&A and networking platform."
+  }
   - {
       title: "Who knows? Maybe your career starts here!",
       link: *form_link, 

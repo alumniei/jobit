@@ -21,6 +21,78 @@
 - id: 003
   title: "Closing Session"
   description: "To be announced soon."
+  subtype: keynote  
+  speakers: []
+  language: pt
+- id: 004
+  title: "Veniam"
+  description: ""
+  subtype: keynote
+  speakers: [012]
+  language: pt
+- id: 005
+  title: "Jumpseller"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [013]
+  language: pt
+- id: 006
+  title: "Fabamaq"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [014]
+  language: pt
+- id: 007
+  title: "Jscrambler"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [015,016]
+  language: pt
+- id: 008
+  title: "Glintt"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [017]
+  language: pt
+- id: 009
+  title: "IT-Sector"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [018]
+  language: pt
+- id: 010
+  title: "Google"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [019]
+  language: pt
+- id: 011
+  title: "Critical Manufacturing"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [020]
+  language: pt
+- id: 012
+  title: "KPMG"
+  description: "To be announced soon."
   subtype: keynote
   speakers: []
+  language: pt
+- id: 013
+  title: "Switch"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [022]
+  language: pt
+- id: 014
+  title: "Farfetch"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [023]
+  language: pt
+- id: 015
+  title: "Semasio"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: [024]
   language: pt

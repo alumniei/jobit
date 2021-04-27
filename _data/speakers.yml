@@ -3,7 +3,7 @@
   name: "João"
   surname: "Barros"
   company: "Veniam"
-  title: ""
+  title: "CEO"
   bio: ""
   thumbnailUrl: joao-barros.jpg
   rockstar: true
@@ -14,7 +14,7 @@
   name: "Luís Filipe"
   surname: "Gonçalves"
   company: "Jumpseller"
-  title: ""
+  title: "Software Engineer and Co-Founder"
   bio: ""
   thumbnailUrl: filipe-goncalves.jpeg
   rockstar: true
@@ -25,7 +25,7 @@
   name: "Marco"
   surname: "Pinto"
   company: "Fabamaq"
-  title: ""
+  title: "Game developer"
   bio: ""
   thumbnailUrl: marco-pinto.jpg
   rockstar: true
@@ -36,7 +36,7 @@
   name: "Joss"
   surname: "Santos"
   company: "Jscrambler"
-  title: ""
+  title: "Product Growth Team Lead"
   bio: ""
   thumbnailUrl: joss-santos.jpg
   rockstar: true
@@ -58,7 +58,7 @@
   name: "Cátia"
   surname: "Domingues"
   company: "Glintt"
-  title: ""
+  title: "Talent Acquisition & Employer Branding"
   bio: ""
   thumbnailUrl: catia-domingues.jpg
   rockstar: true
@@ -69,9 +69,9 @@
   name: "Stéphanie"
   surname: "Dermagne"
   company: "IT-Sector"
-  title: ""
+  title: "Talent Acquisition Manager"
   bio: ""
-  thumbnailUrl: .jpg
+  thumbnailUrl: stephanie-dermagne.JPEG
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -80,7 +80,7 @@
   name: "André"
   surname: "Lago"
   company: "Google"
-  title: ""
+  title: "Software Engineer and Tech Lead"
   bio: ""
   thumbnailUrl: andre-lago.jpg
   rockstar: true
@@ -91,7 +91,7 @@
   name: "Rui"
   surname: "Vilaça"
   company: "Critical Manufacturing"
-  title: ""
+  title: "Senior Software Engineer"
   bio: ""
   thumbnailUrl: rui-vilaca.jpg
   rockstar: true
@@ -113,7 +113,7 @@
   name: "Simão"
   surname: "Belchior"
   company: "Switch"
-  title: ""
+  title: "Head of Engineering"
   bio: ""
   thumbnailUrl: simao-belchior.jpg
   rockstar: true
@@ -124,7 +124,7 @@
   name: "Guilherme"
   surname: "Faria"
   company: "Farfetch"
-  title: ""
+  title: "Junior iOS Mobile Engineer"
   bio: ""
   thumbnailUrl: guilherme-faria.jpg
   rockstar: true
@@ -135,7 +135,7 @@
   name: "Hugo"
   surname: "Silva"
   company: "Semasio"
-  title: ""
+  title: "Head of Development"
   bio: ""
   thumbnailUrl: hugo-silva.jpg
   rockstar: true
@@ -146,7 +146,7 @@
   name: "João"
   surname: "Barros"
   company: "Veniam"
-  title: ""
+  title: "CEO"
   bio: ""
   thumbnailUrl: joao-barros.jpg
   rockstar: true

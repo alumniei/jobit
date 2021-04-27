@@ -3,7 +3,9 @@
   elements:
     - {
         name: "Critical Manufacturing",
-        description: "",
+        description: " Critical Manufacturing is dedicated to empowering manufacturers of complex, high tech discrete products with a manufacturing execution and intelligence system to achieve their goals. It’s ready for the future whether you call it Industry 4.0 or something else. It scales to your operations, gives clear insight and guidance on any desktop or mobile device, drives visibility of production and its costs across your supply chain, and is easy to implement on your existing infrastructure. As a result, our state-of-the-art products and services enable you to drive down cost, flexibly meet market demands, and ultimately achieve greater agility, visibility and reliability.
+
+Critical Manufacturing’s success is rooted in the inspiration and experience of an experienced team of internationally renowned industry experts. With headquarters and main technical center in Porto (Maia), Portugal, our phenomenal growth has inspired the establishment of additional subsidiaries in Dresden, Germany, Suzhou, China, Austin, USA and a branch office in Taiwan.",
         link: "https://www.criticalmanufacturing.com/en/homepage",
         imageUrl: "critical-manufacturing.png",
         show: true,
@@ -64,13 +66,14 @@
     - {
         name: "KPMG",
         link: "https://home.kpmg/",
-        description: "",
+        description: "A KPMG é uma rede global de firmas profissionais que prestam serviços de auditoria, fiscalidade e consultoria. Estamos presentes em 147 países e territórios com mais de 219 mil profissionais a trabalhar nas firmas membro a nível mundial. Em Portugal, a KPMG tem escritórios em Lisboa e no Porto com 55 membros da Partnership e mais de 1100 colaboradores. De forma apaixonada e com propósito trabalhamos lado-a-lado com os nossos clientes, combinando abordagens inovadoras com uma vasta experiência, de forma a entregar resultados reais.
+",
         imageUrl: "kpmg.png",
         show: true,
       }
     - {
         name: "Semasio",
-        description: "",
+        description: "Semasio is a Germany-based tech startup that develops high-performance, low-latency software focused on infrastructure and real-time machine learning for marketing and online advertising. Our main development center is in Porto, Portugal; we have a R&D center in Aalborg, Denmark; and our commercial HQ is in Hamburg, Germany. We're currently looking for talented developers to join our Porto team!",
         link: "https://www.semasio.com/",
         imageUrl: "semasio.png",
         show: true,

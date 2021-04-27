@@ -1,559 +1,154 @@
 - 
   id: 012
-  name: "Ivo"
-  surname: "Pereira"
-  company: "E-goi"
-  title: "Developer Relations Program Manager"
-  bio: "Ivo Pereira, Doutorado em Engenharia Eletrotécnica e de Computadores pela UTAD, colabora, desde 2017, como Head of Innovation & Research na E-goi. Além da coordenação da inovação e investigação, tem sido responsável pela ligação da empresa com as instituições de ensino superior e de investigação. Faz ainda a gestão dos estágios curriculares na E-goi. Atualmente, é também Professor Adjunto Convidado no Instituto Superior de Engenharia do Porto."
-  thumbnailUrl: ivopereira.jpg
+  name: "João"
+  surname: "Barros"
+  company: "Veniam"
+  title: ""
+  bio: ""
+  thumbnailUrl: joao-barros.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 013
-  name: "Rui"
+  name: "Luís Filipe"
   surname: "Gonçalves"
-  company: "Facebook"
-  title: "Software Engineer"
-  bio: "All-around, hardworking and dedicated software engineer. Enthusiast of programming paradigms, algorithms and data structures, distributed systems and software architecture in general. Loves learning new stuff every day, working with state-of-the-art \nologies and making an impact on the technological decisions in the environment he works. An active contributor and a lover of the open-source model with a desire to keep developing products and services that have a great impact on society."
-  thumbnailUrl: ruigoncalves.jpg
+  company: "Jumpseller"
+  title: ""
+  bio: ""
+  thumbnailUrl: filipe-goncalves.jpeg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 014
-  name: "Federica"
-  surname: "De Cillis"
-  company: "Facebook"
-  title: "EMEA University Recruiter"
+  name: "Marco"
+  surname: "Pinto"
+  company: "Fabamaq"
+  title: ""
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: marco-pinto.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 015
-  name: "José"
-  surname: "Duarte Silva"
-  company: "Farfetch"
-  title: "Engineering Manager at Farfetch"
-  bio: "José has 9 years of professional experience in the Software Engineering area, in companies with international presence like Rocket Internet, Blip and Farfetch. Started managing Quality Assurance areas, now is managing and growing multi-functional technology teams as an Engineering Manager for Consumer Products Web at Farfetch."
-  thumbnailUrl: joseduartesilva.jpg
+  name: "Joss"
+  surname: "Santos"
+  company: "Jscrambler"
+  title: ""
+  bio: ""
+  thumbnailUrl: joss-santos.jpg
   rockstar: true
   social: 
-
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 016
-  name: "Maria"
-  surname: "Cabral"
-  company: "Farfetch"
-  title: "Talent Acquisition Specialist"
+  name: "Emanuel"
+  surname: "Fernandes"
+  company: "Jscrambler"
+  title: ""
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: emanuel-fernandes.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 017
-  name: "Pedro"
-  surname: "Vincente"
-  company: "Mindera"
-  title: "Mobile Software Craftsman"
-  bio: "Pedro Vicente is an improver. “What kind of bs title is that?” - you probably were asking yourself. Well, he thrives by (trying - sometimes a lot - until he successfully) improves the processes around him either it being human or software related. He has been developing mobile apps since 2008ish. Currently he is a Mobile Software Craftsman at Mindera, organizes stuff at GDG Porto and recently founded LoopGain"
-  thumbnailUrl: pedrovincente.jpg
+  name: "Cátia"
+  surname: "Domingues"
+  company: "Glintt"
+  title: ""
+  bio: ""
+  thumbnailUrl: catia-domingues.jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 018
-  name: "Ricardo"
-  surname: "Rodrigues"
-  company: "Mindera"
-  title: "Product Owner"
-  bio: "Ricardo Rodrigues loves learning and sharing. He believes every experience is an opportunity to improve. Sharing  experiences, knowledge , stories is just another tool for our continuous improvement. Currently is he a Product Owner at Mindera and Product Tank Porto co-organiser."
-  thumbnailUrl: ricardorodrigues.jpg
+  name: "Stéphanie"
+  surname: "Dermagne"
+  company: "IT-Sector"
+  title: ""
+  bio: ""
+  thumbnailUrl: .jpg
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
 - 
   id: 019
   name: "André"
-  surname: "Oliveira"
-  company: "Pixelmatters"
-  title: "Founder & CEO"
-  bio: "Started as UX/UI Designer, but it is in the adrenaline rush of business that his true passion is. Founder & CEO of Pixelmatters, he’s a new generation entrepreneur. <br>Totally self-taught, at the age of 28 he leads the company he created in December 2013. He is pleased - according to his own - to work everyday with a team of over 30 world-class professionals."
-  thumbnailUrl: andreoliveira.jpg
-  rockstar: true
-  social: 
-    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
-- 
-  id: 020
-  name: "Predrag Pedro"
-  surname: "Gajic"
-  company: "Toptal"
-  title: "Talent Specialist"
-  bio: "With more than 15 years of experience, Predrag Pedro Gajic has lead business and people operations all over the globe, with stints in Serbia, Portugal, Russia, and Uganda. For the last four years, he has been a prominent member of the Talent/People Operations team at Toptal, using his skills to find the top developers around the world."
-  thumbnailUrl: predragpedrogajic.jpg
-  rockstar: true
-  social: 
-    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
-- 
-  id: 021
-  name: "Pedro"
-  surname: "Campos"
-  company: "Switch"
-  title: "Co-Founder & CTO"
-  bio: "Pedro Campos is Switch’s CTO. He loves searching the simplest solutions to hard problems. He founded and led several software companies and development teams, having developed web and mobile apps for millions of users, startups, and giant corps."
-  thumbnailUrl: pedrocampos.jpg
-  rockstar: true
-  social: 
-    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
-- 
-  id: 022
-  name: "João"
-  surname: "Álvaro"
-  company: "Switch"
-  title: "Head of HR"
-  bio: "João Álvaro is Switch’s Head of HR, with the mission to attract the best talent and create a unique employee journey. He is a human resources professional with transversal experience in recruitment, training and organizational culture projects. Outside the office he’s absolutely passionate about sport and competition."
-  thumbnailUrl: joaoalvaro.jpg
-  rockstar: true
-  social: 
-    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-
-- 
-  id: 023
-  name: "Inês"
-  surname: "Quaresma"
-  company: "Blip"
-  title: "Talent Acquisition Specialist"
-  bio: "As Talent Acquisition Specialist at Blip, Inês Quaresma is responsible for developing Blip's new young talent strategy in the company. She has a background in Management and began her career in a multinational which allowed her to gain a great experience in the recruitment, selection and retention of young talents."
-  thumbnailUrl: inesquaresma.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 024
-  name: "Luís"
-  surname: "Roque"
-  company: "HUUB"
-  title: "CEO & Co-founder"
-  bio: "The continuous academic evolution is a backbone of Luís’ path, with a Masters of Science in Industrial Engineering and Management, a degree in Computer Engineering, a specialization in Web Development and a Postgraduate degree in Business Intelligence & Analytics already completed. Currently Luís is taking a PhD in Informatics Engineering, focused on Sequential Data-related Deep Learning Applications."
-  thumbnailUrl: luisroque.jpg
-  rockstar: true
-  social: 
-
-
-- 
-  id: 025
-  name: "Pedro"
-  surname: "Gustavo Torres"
-  company: "Talkdesk"
-  title: "Engineering Director"
-  bio: "Pedro is an impact-driven person passionate about People, Technology, and Products. I’m a fan of Agile, Lean, and all the practices that enable organizations to deliver early value to their customers. I have 10+ years of experience creating and running engineering teams in blue chip companies and also in startups."
-  thumbnailUrl: pedrotorres.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 026
-  name: "João"
-  surname: "Fernandes"
-  company: "Talkdesk"
-  title: "Senior Engineering Manager"
-  bio: "Highly motivated and enthusiastic Software Engineering Manager who leads multidisciplinary teams to deliver high quality and performant web and mobile applications. Focused on creating a safe, organized and agile environment where everyone is aligned with the project and organization goals and is able to perform at their very best.
-Believes the best leadership is demonstrated with action rather than words (lead by example) and is not afraid to roll up his sleeves and work with the team to solve problems. Acts with a leader-leader mindset using empowerment, delegation and trust as weapons of choice.."
-  thumbnailUrl: joaofernandes.jpg
-  rockstar: true
-  social: 
-
-
-- 
-  id: 028
-  name: "Ricardo"
-  surname: "Nogueira"
-  company: "Outsystems"
-  title: "Engineering Development Manager"
-  bio: "My past experience includes a position as Engineering Manager at Farfetch, leading the engineering practice on the Pricing Cluster. I’ve also worked as Portfolio Leader at SISCOG, leading one of SISCOG’s portfolios in the Projects Department, which included project teams working on ongoing projects, maintenance teams supporting systems in production, and a team of managers responsible for a set of systems running in production, being the line manager of the group of managers and leaders in the portfolio. Additionally, I was the responsible for SISCOG's office in Oporto, being the Administration's local representative, and responsible for promoting the office's development according to the company's strategic plan. At SISCOG I also gained experience as a Maintenance Team Leader, leading one of the Maintenance Teams in the Projects Department; as Maintenance Manager, managing the PDS system, which is a CREWS based system for DSB S-tog A/S which provides urban rail services in the Greater Copenhagen area; and as a Software Engineer.
-<br> Previously I also worked as a Consultant at WeDo; as a Consultant at Wipro; as a Teacher at some Portuguese schools; as a Systems Analyst, Technical Consultant and Developer at Blaupunkt Auto-Rádio Portugal, Lda; and as a Researcher at INESC – Porto."
-  thumbnailUrl: ricardonogueira.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 029
-  name: ""
-  surname: "To complete"
-  company: "Bosch"
-  title: ""
-  bio: "Após concluir o Mestrado em Informática, na Poznan University of Technology (Polónia) e Alpen-Adria Universitaet Klagenfurt na Austria (Joint Diploma Degree), Piotr Sielecki especializou-se em Software Engineering. Após concluir o Mestrado em Informática, prosseguiu os estudos com a realização do Mestrado em Economia, na Poznan University of Economics. Após a conclusão dos estudos, passou por algumas empresas de IT, passando por Portugal, na área de IT, mais concretamente, em telecomunicações. O percurso na Bosch teve início em 2009, através do Junior Management Program. Piotr passou pela área de Embedded Systems, pelos departamentos de desenvolvimento de SW para ESP, iBooster (Freno Inteligente), Ultrasound Driver Assistence Systems, integrando diferentes funções (Test Manager, SW Project Manager, SW Process Expert). Em 2015, começou a trabalhar como Senior Manager, responsável pela ADAS Central ECU SW. Em 2018, integrou a Bosch Car Multimedia, em Braga, como responsável para secção de desenvolvimento de SW para ADAS Sensor."
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-- 
-  id: 030
-  name: "João"
-  surname: "Chapa"
-  company: "Jscrambler"
-  title: ""
-  bio: "Driven by a longstanding passion for solving problems using the power of computer science, João Chapa has turned a Masters in Chemical and Biochemical engineering into a career as a software developer. Currently, his day job is developing all kinds of JavaScript dark magic at Jscrambler's Code Integrity team, and during his off-time, he pursues his interests in philosophy, politics, and League of Legends. - João Chapa"
-  thumbnailUrl: joaochapa.jpg
-  rockstar: true
-  social:
-
-- 
-  id: 031
-  name: "Pedro"
-  surname: "Vieira da Silva"
-  company: "Critical TechWorks"
-  title: "CTO"
-  bio: "With 20 years of experience in IT Pedro has since ever wanted to solve problems and create solutions. For the last 12 years he has been leading dev teams in creating high quality solutions in different businesses critical domains. This allowed him to experience different challenges in business and technical domains. Advocate of agile methodologies, continuous delivery and cloud architectures he aims to bring the best working model to his teams so they become masters of engineering and the greatest value achievers. In 2018 he addressed his greatest challenge to date, by becoming CTO at Critical TechWorks, where he aims to help shape the future of mobility."
-  thumbnailUrl:
-  rockstar: true
-  social:
-
-- 
-  id: 032
-  name: "Roberto"
-  surname: "Ugo"
-  company: "Vestas Porto"
-  title: "Director of the Data Engineering & Analytics department"
-  bio: "Experienced in bootstrapping and leading multidisciplinary engineering teams in market leading companies and international environments, Roberto is currently the Director of the Data Engineering & Analytics department at Vestas Porto. He is also a startup mentor (Techstars Berlin) and former startup CTO in the fintech sector. Winner of the MIT Portugal Award and several other innovation awards, he has a strong technical background in computer science (data engineering) & network engineering (security), with a growing patent portfolio in those areas."
-  thumbnailUrl: robertougo.jpg
-  rockstar: true
-  social:
-
-- 
-  id: 033
-  name: "André"
   surname: "Lago"
   company: "Google"
-  title: "Software Engineer"
-  bio: "André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world."
-  thumbnailUrl: andrelago.jpg
-  rockstar: true
-  social:
-
-- 
-  id: 034
-  name: "João"
-  surname: "Oliveira e Silva"
-  company: ""
-  title: "Freelancer"
-  bio: "Ainda no 4º ano da faculdade comecei a minha carreira profissional como freelancer. Decidi que o mercado internacional era muito importante e portanto juntei-me ao Upwork com o objetivo de angariar clientes dos mais diversos países. Durante este tempo tive a oportunidade de trabalhar com a UPTEC, uma corretora de seguros, uma startup holandesa que desenvolvia uma plataforma de gestão de escolas nesse mesmo país, ainda tive a oportunidade de dar aulas de programação em Go. Atualmente sou freelancer a full-time no motel.io uma spinoff da Critical Software."
-  thumbnailUrl: joaosilva.jpg
-  rockstar: true
-  social:
-
-- 
-  id: 035
-  name: "Lucas"
-  surname: "Alves"
-  company: "Farfetch"
-  title: "Junior Software Engineer"
-  bio: ""
-  thumbnailUrl:
-  rockstar: true
-  social: 
-
-- 
-  id: 036
-  name: "Guilherme"
-  surname: "Pinto"
-  company: "Hostelworld"
-  title: ""
-  bio: "Guilherme found his passion for software development on the very first day in college. After finishing his master in informatics and computing engineering in the University of Porto, began his professional journey in Hostelworld as a backend engineer. Currently, Guilherme is part of the Checkout and Payments squad, working to constantly improve the experience of every user during the checkout phase while providing a flexible and safe service for any traveller that dreams about meeting the world."
-  thumbnailUrl: guilhermepinto.jpg
-  rockstar: true
-  social:
-
-- 
-  id: 037
-  name: "Hélder"
-  surname: "Nunes"
-  company: "Hostelworld"
-  title: ""
-  bio: "I found my passion in web development later on my career, I've worked on system's administrations for several years, and then moved to web development. From the several companies I've worked on, I've worked on very different areas ranging from API's, Payments, frontend, Backend apps and web site architectures. I'm currently working on backend api's, but moving to site performance soon. I've changed to HostelWorld 1,5 years ago and I'm fully committed to these new challenges, and enjoying every bit of the way."
-  thumbnailUrl: heldernunes.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 038
-  name: "Eduardo"
-  surname: "Ribeiro"
-  company: "Blip"
-  title: "Software Developer"
-  bio: "With 10 years of experience as a software developer, Eduardo Ribeiro has special pleasure when is finding solutions and interacting with people. Working at Blip since 2014, he currently works as a front-end developer, having gone through various projects and roles."
-  thumbnailUrl: eduardoribeiro.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 039
-  name: "João"
-  surname: "Ferreira"
-  company: "Deloitte"
-  title: "Manager"
-  bio: "I've started my career at Deloitte in 2009, as a Technology Integration consultant, and I am currently in the management team of the Deloitte Porto Digital Studio. During my consulting career I've worked in major technological transformation programs in Portugal, Angola, Middle East, UK and in the Nordic countries. I am ITIL certified and have a master in Service Engineering and Management from FEUP. I was involved in the definition of IT methodologies, mainly for Agile contexts, and defended thesis in the application of Design Thinking and CMMI to the design of services, with a practical case in the design of a Center of Excellence for the insurance industry."
-  thumbnailUrl: joaoferreira.jpg
-  rockstar: true
-  social: 
-
-- 
-  id: 040
-  name: "João"
-  surname: "Paulo"
-  company: "Fabamaq"
-  title: "Software Engineer"
-  bio: "Soon after he was born João Paulo started tearing apart his car toys and detuning his dad's guitars. With this background he could only be one of two things, an Engineer or a Musician.  So he became both. After graduating from FEUP João Paulo went on to work at FABAMAQ where he engineers software solutions for the creative team. "
-  thumbnailUrl: joaopaulo.jpg
-  rockstar: true
-  social: 
-
--
-  id: 041
-  name: "Mário"
-  surname: "Amaral"
-  company: "Feedzai"
-  title: "Technical Project Manager"
-  bio: "I’ve been a Technical Project Manager at Feedzai for 1 year. During that time I managed the Core Systems team and have been working with the Cloud Operations team for the past 6 months while also devoting some time to improving processes at company level. When I’m not working I love building things, photography and watching movies."
-  thumbnailUrl: marioamaral.jpg
-  rockstar: true
-  social: 
-
--
-  id: 042
-  name: "Marian"
-  surname: "Lima"
-  company: "Feedzai"
   title: ""
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: andre-lago.jpg
   rockstar: true
   social: 
-
-
--
-  id: 043
-  name: "Daniel"
-  surname: "Pires"
-  company: "KPMG"
-  title: "Manager"
-  bio: "Daniel Pires is a Manager at KPMG and is responsible for managing IT Advisory operations in Porto office. With an MSc in Electrical Engineering Daniel felt since the beginning the passion about consulting and now has more than 10 years of experience managing all levels of IT project development life cycle and business development. During his career Daniel worked with several customers from Portugal, Spain, United Kingdom, France, among others."
-  thumbnailUrl: danielpires.jpg
-  rockstar: true
-  social: 
-
--
-  id: 044
-  name: "Laurent"
-  surname: "Ricci"
-  company: "Microsoft"
-  title: "Senior Architect"
-  bio: "Laurent Ricci is a Senior Architect for the Dynamics 365 for Finance & Operations Team based in Copenhagen Denmark. There are around 50 software engineers building the SCM part of the Microsoft ERP system and his role is to help in preparing and developing future version of their service. Laurent joined Microsoft 15 years ago as a developer in the kernel team for the same product and led the kernel team for 4 years when they were in charge of all developer experience (compiler, interpreter, debugger etc…) in what was called Dynamics AX. He then moved to the application part of AX leading different teams (Planning, Manufacturing, SCM …). Before joining Microsoft, Laurent worked for 10 years in a consulting company in France doing projects mainly in the defense area before moving to Denmark and working 4 years building a compiler and its environment for a Sales Configuration Solution. He is French from Paris and relocated to Denmark 20 years ago."
-  thumbnailUrl:
-  rockstar: true
-  social: 
-
-  -
-  id: 045
-  name: "Hugo"
-  surname: "Silva"
-  company: "Semasio"
-  title: "Head of Dev"
-  bio: "Hugo holds an MSc in Software Engineering from Instituto Superior de Engenharia do Porto. He started his career at ParadigmaXis, where he gained extensive experience with high-load, low-latency systems across a range of industries, including financial services. In 2013, Hugo joined Semasio as Head of Development."
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-
-  -
-  id: 046
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 020
   name: "Rui"
-  surname: "Pena"
-  company: "Darwin Interactive"
-  title: "COO & Co-Founder"
-  bio: "Rui Pena is at his best when solving problems and working with people. After graduating from FEUP he found in the Games & Casino industry the right fit for his ingenuity where he has played multiple roles.  He recently co-founded Darwin to keep evolving the game."
-  thumbnailUrl: ruipena.jpg
-  rockstar: true
-  social: 
-
-  -
-  id: 047
-  name: "Nuno"
-  surname: "Gonçalinho"
-  company: "Darwin Interactive"
-  title: "CEO & Co-Founder"
-  bio: "Nuno Gonçalinho has over 10 years of executive leadership experience in the Games & Casino industry. He has a successful entrepreneurial history, having set-up a prior tech-based startup which he grew to over 150 employees and millions of euros in yearly revenue."
-  thumbnailUrl: nunogoncalinho.jpg
-  rockstar: true
-  social: 
-
--
-
-  id: 048
-  name: "Hugo"
-  surname: "Silva"
-  company: "Semasio"
-  title: "Head of Dev"
-  bio: "Hugo holds an MSc in Software Engineering from Instituto Superior de Engenharia do Porto. He started his career at ParadigmaXis, where he gained extensive experience with high-load, low-latency systems across a range of industries, including financial services. In 2013, Hugo joined Semasio as Head of Development."
-  thumbnailUrl: hs.jpg
-  rockstar: true
-  social: 
-
--
-  
-  id: 049
-  name: "Rui"
-  surname: "Pena"
-  company: "Darwin Interactive"
-  title: "COO & Co-Founder"
-  bio: "Rui Pena is at his best when solving problems and working with people. After graduating from FEUP he found in the Games & Casino industry the right fit for his ingenuity where he has played multiple roles.  He recently co-founded Darwin to keep evolving the game."
-  thumbnailUrl: ruipena.jpg
-  rockstar: true
-  social: 
-
--
-  
-  id: 050
-  name: "Waldir"
-  surname: "Pimenta"
-  company: "Uphold"
-  title: "Software Developer"
-  bio: "I'm a software developer with a computer graphics background, passionate about visual understanding and intuitive human-computer interfaces. I love distilling complex systems into logical, structured models. I value clarity over cleverness at all levels of software development — including readable code, clean version history, and comprehensive documentation. <br> I'm also a strong supporter of open content and open source software. I'm a Linux user, I regularly contribute to various open source projects, and I'm a long-time volunteer in the Wikimedia movement and several other open content projects. Whenever possible, I try to integrate these aspects of collaboration and contributing back to the ecosystem into my career."
-  thumbnailUrl: waldirpimenta.jpg
-  rockstar: true
-  social: 
-
--
-  id: 051
-  name: "Jorge"
-  surname: "Neto"
+  surname: "Vilaça"
   company: "Critical Manufacturing"
-  title: "Software Engineer"
-  bio: "Nascido na cidade do Porto em 1993, é licenciado em Engenharia Informática pelo Instituto Superior de Engenharia do Porto, em 2014, e mestre em Sistemas Computacionais, grau atingido pela mesma instituição em 2016.
-Iniciou o percurso profissional na empresa myPartner onde foi consultor de Dynamics CRM e responsável pela integração e extensibilidade do mesmo, de forma a responder às necessidades de clientes como a Delta, Casino Estoril, Universidade Católica de Lisboa, entre outros.
-Na Critical Manufacturing desde 2017, trabalha desde então na equipa do produto de manufatura de última geração, o Critical Manufacturing MES, solução atualmente utilizada por clientes como a BBraun, Imec, Elekta, Ultradente, entre outras."
-  thumbnailUrl: jorgeneto.jpg
+  title: ""
+  bio: ""
+  thumbnailUrl: rui-vilaca.jpg
   rockstar: true
   social: 
--
-  id: 052
-  name: "Marco"
-  surname: "Paiva"
-  company: "Fabamaq"
-  title: "Head of Game Development"
-  bio: "Having MacGyver as one of his childhood heros, SNES and MegaDrive as one of his favourite hobbies as a child, and a huge fascination with computers.
-Marco could not escape the destiny of graduating as a Electrical and Computers Engineer at FEUP, becoming a full time researcher soon after graduating and later on, to spend is time creating games, problem solving, engineering software, and making defying decisions while managing a great team of game developers as the current Head of Game Development at FABAMAQ."
-  thumbnailUrl: marcopaiva.jpg
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 021
+  name: ""
+  surname: ""
+  company: "KPMG"
+  title: ""
+  bio: ""
+  thumbnailUrl: .jpg
   rockstar: true
   social: 
-
--
-  id: 053
-  name: "Mashood"
-  surname: "Hassan"
-  company: "Jumpseller"
-  title: "Digital Marketing Specialist"
-  bio: "O Mashood tem um Mestrado em Marketing. Trata do marketing digital e da criação de conteúdo para o site. É um ávido fã da culinária árabe e tem paixão por aprender a dançar."
-  thumbnailUrl: mh.jpg
-  rockstar: true
-  social: 
-
--
-
-  id: 054
-  name: "André"
-  surname: "Fernandes"
-  company: "Jumpseller"
-  title: "Engenheiro Informático"
-  bio: "Atualmente, o André está no último ano de engenharia informática na Faculdade de Engenharia da Universidade do Porto. Ele está a realizar a sua dissertação de mestrado em recomendações usando machine learning incremental e gosta de aprender coisas novas e enfrentar novos desafios."
-  thumbnailUrl: af.jpg
-  rockstar: true
-  social: 
-
--
-
-  id: 055
-  name: "José Eduardo"
-  surname: "Bastos"
-  company: "Natixis"
-  title: "Human Resources"
-  bio: "Responsible for connecting Natixis with Universities"
-  thumbnailUrl: josebastos.jpeg
-  rockstar: true
-  social: 
-
--
-  id: 056
-  name: "Mariana"
-  surname: "Silva"
-  company: "Natixis"
-  title: "Junior Developer"
-  bio: "Currently working on her master thesis"
-  thumbnailUrl: marianasilva.jpg
-  rockstar: true
-  social: 
-
--
-  id: 057
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 022
   name: "Simão"
-  surname: "Lúcio"
-  company: "Natixis"
-  title: "Junior Developer"
-  bio: "Currently working on his master thesis"
-  thumbnailUrl: simaolucio.jpg
+  surname: "Belchior"
+  company: "Switch"
+  title: ""
+  bio: ""
+  thumbnailUrl: simao-belchior.jpg
   rockstar: true
-  social:
-
--
-  id: 058
-  name: "Pascoal"
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 023
+  name: "Guilherme"
   surname: "Faria"
-  company: "FEUP"
-  title: "Professor"
-  bio: "João Pascoal Faria tem um doutoramento em Engenharia Electrotécnica e de Computadores pela Faculdade de Engenharia da Universidade do Porto em 1999, onde é atualmente Professor Associado no Departamento de Engenharia Informática e Diretor do Mestrado Integrado em Engenharia Informática e Computação. É membro do Grupo de Investigação em Engenharia de Software e investigador do INESC TEC na área de Engenharia de Software. É Presidente da Comissão Setorial para as Tecnologia da Informação e das Comunicações (CS/03), no âmbito do Instituto Português da Qualidade (IPQ), em representação da FEUP. No passado, trabalhou com várias empresas de software (Novabase Saúde, Sidereus, Medidata) e foi co-fundador de outras duas (QualiSoft e Strongstep). Tem mais de 25 anos de experiência em ensino, investigação, desenvolvimento e consultoria em diversas áreas de engenharia de software. É o principal autor de uma ferramenta de desenvolvimento rápido de aplicações (SAGA), com base em linguagens específicas de domínio, com mais de 25 anos de presença no mercado e evolução (1989-presente). As áreas de investigação atuais focam-se em automação de testes de software com base em modelos, melhoria de processos de software e desenvolvimento de software conduzido por modelos."
-  thumbnailUrl: pascoalfaria.jpg
-  rockstar: true
-  social:
-
--
-  id: 059
-  # name: "Bosch"
-  # surname: "Faria"
-  company: "Bosch"
-  title: "Company"
+  company: "Farfetch"
+  title: ""
   bio: ""
-  thumbnailUrl: bosch.jpg
+  thumbnailUrl: guilherme-faria.jpg
   rockstar: true
-  social:
-
--
-  id: 060
-  # name: "Bosch"
-  # surname: "Faria"
-  company: "Fraunhofer"
-  title: "Company"
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 024
+  name: "Hugo"
+  surname: "Silva"
+  company: "Semasio"
+  title: ""
   bio: ""
-  thumbnailUrl: fraunhofer.png
+  thumbnailUrl: hugo-silva.jpg
   rockstar: true
-  social:
-
--
-  id: 061
-  name: "Augusto"
-  surname: "de Sousa"
-  company: "FEUP"
-  title: "Professor"
-  bio: "A. Augusto de Sousa terminou o seu doutoramento em 1996 na Faculdade de Engenharia da Universidade do Porto (FEUP), Portugal, nas áreas de Computação Gráfica/Síntese de Imagem e Computação Paralela. É docente na mesma Faculdade desde 1983, em áreas relacionadas com a Computação Gráfica e Arquitetura de Computadores. É, atualmente, membro da direção da FEUP, com o cargo de Vice-Presidente do Conselho Pedagógico. Foi, de 2008 a 2014, diretor do curso de Mestrado Integrado em Engenharia Informática e Computação da FEUP e, de 2000 a 2003, membro da primeira Direção do curso de Licenciatura em Jornalismo e Ciências da Comunicação da Universidade do Porto, responsável pela instalação do curso. É membro da Comissão Científica do ProDEI (Programa Doutoral em Engenharia Informática da FEUP). Foi por várias vezes membro eleito do Conselho Pedagógico da FEUP e é membro do Conselho Científico da FEUP e do Conselho de Departamento do DEi (Departamento de Engenharia Informática da FEUP). É investigador no INESC TEC desde 1985, onde coordena o grupo de Computação Gráfica do CSIG e desempenhou funções de coordenador da Unidade de Sistemas de Informação e Computação Gráfica (1998 a 2000). Foi orientador de duas teses de doutoramento, em Otimização de Visualização em Cenas 3D Extensas, e em Armazenamento, Processamento e Visualização de Dados Espaço-temporais, assim como co-orientador de três teses de doutoramento em Síntese de Imagem, Realidade Virtual e Modelação Automática de Ambientes Virtuais Urbanos. Foi orientador de várias teses de mestrado em diversas áreas da Computação Gráfica, Realidade Virtual e Sistemas de Informação Geográfica. A. Augusto de Sousa tem estado envolvido em vários projetos de I&D genericamente relacionadas com Interação Avançada/Intuitiva, Síntese de Imagem e Realidade Virtual. Foi e é Investigador Responsável de vários projetos financiados pela FCT em Processamento e Visualização de Dados Espácio-temporais, em Modelação Expedita e Visualização de Ambientes Virtuais Urbanos e em Ambientes Virtuais Multissensoriais e colaborou em um projeto Europeu na área da Interação Avançada para Modelação 3D. Participou na organização e na comissão científica de inúmeras conferências nacionais e internacionais, tendo sido organizador responsável de três conferências internacionais. Foi membro da direção do EUROGRAPHICS Portuguese Chapter, tendo ocupado os cargos de Presidente, Vice-Presidente e Tesoureiro, bem como, por inerência de funções, foi membro da Comissão Executiva da Associação EUROGRAPHICS."
-  thumbnailUrl: augustosousa.jpg
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 025
+  name: "João"
+  surname: "Barros"
+  company: "Veniam"
+  title: ""
+  bio: ""
+  thumbnailUrl: joao-barros.jpg
   rockstar: true
-  social:
+  social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

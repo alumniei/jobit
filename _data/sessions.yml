@@ -96,3 +96,9 @@
   subtype: keynote
   speakers: [024]
   language: pt
+- id: 016
+  title: "Adidas"
+  description: "To be announced soon."
+  subtype: keynote
+  speakers: []
+  language: en

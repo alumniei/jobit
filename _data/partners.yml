@@ -2,6 +2,13 @@
   ready: true
   elements:
     - {
+        name: "Adidas",
+        description: "adidas Global Business Services (GBS) is the engine to drive the transformation to ONE adidas. It is the company's operational backbone, through delivering standard global services, focusing on enhancing customer user experience, and providing consistent skills and quality. We deliver high quality services in the areas of Order to Cash, Source To Pay, Record to Report, Planning & Reporting and Hire to Retire for adidas companies and subsidiaries located in Europe, North America and Latin America.",
+        link: "https://careers.adidas-group.com/",
+        imageUrl: "adidas.png",
+        show: true
+      }
+    - {
         name: "Critical Manufacturing",
         description: " Critical Manufacturing is dedicated to empowering manufacturers of complex, high tech discrete products with a manufacturing execution and intelligence system to achieve their goals. It’s ready for the future whether you call it Industry 4.0 or something else. It scales to your operations, gives clear insight and guidance on any desktop or mobile device, drives visibility of production and its costs across your supply chain, and is easy to implement on your existing infrastructure. As a result, our state-of-the-art products and services enable you to drive down cost, flexibly meet market demands, and ultimately achieve greater agility, visibility and reliability.
 

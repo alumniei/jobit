@@ -1,16 +1,14 @@
-- 
-  id: 012
+- id: 012
   name: "João"
   surname: "Barros"
   company: "Veniam"
   title: "CEO"
-  bio: ""
+  bio: "João Barros is Founder and CEO of Veniam Inc. and Professor Catedrático (on leave) of Electrical and Computer Engineering at the University of Porto, Portugal. He was Founding Director of Instituto de Telecomunicações in Porto, which grew from 8 to 100 researchers during his six-year tenure. João Barros was also a Fulbright scholar twice and has held visiting appointments at MIT, Stanford, Cornell, and Carnegie Mellon. He regularly teaches at the Porto Business School and serves on the board of Streambolico, a WiFi multicast company he co-founded. Dr. Barros has received several awards, including the 2010 IEEE ComSoc Young Researcher Award (EMEA), the 2011 IEEE ComSoC and Information Theory Society Joint Paper Award, the 2012 BES National Innovation Award, the 2013 Building Global Innovators Grand Prize (ISCTE-IUL and MIT) and a best teaching award by the Bavarian State Ministry of Sciences, Research and the Arts. His work has been featured on NPR, BBC, MIT Technology Review, TechCrunch, FastCompany, and The Atlantic, among several other relevant media outlets. João is fluent in Portuguese, German, English, French and Spanish. He received his undergraduate education in ECE from the Universidade do Porto (UP), Portugal and Universität Karlsruhe, Germany, a performing arts degree in flute from the Music Conservatory of Porto, and the Ph.D. degree in EE and IT from the Technische Universitaet Muenchen (TUM), Germany."
   thumbnailUrl: joao-barros.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 013
+- id: 013
   name: "Luís Filipe"
   surname: "Gonçalves"
   company: "Jumpseller"
@@ -18,10 +16,9 @@
   bio: ""
   thumbnailUrl: filipe-goncalves.jpeg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 014
+- id: 014
   name: "Marco"
   surname: "Pinto"
   company: "Fabamaq"
@@ -29,10 +26,9 @@
   bio: ""
   thumbnailUrl: marco-pinto.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 015
+- id: 015
   name: "Joss"
   surname: "Santos"
   company: "Jscrambler"
@@ -40,10 +36,9 @@
   bio: ""
   thumbnailUrl: joss-santos.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 016
+- id: 016
   name: "Emanuel"
   surname: "Fernandes"
   company: "Jscrambler"
@@ -51,10 +46,9 @@
   bio: ""
   thumbnailUrl: emanuel-fernandes.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 017
+- id: 017
   name: "Cátia"
   surname: "Domingues"
   company: "Glintt"
@@ -62,10 +56,9 @@
   bio: ""
   thumbnailUrl: catia-domingues.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 018
+- id: 018
   name: "Stéphanie"
   surname: "Dermagne"
   company: "IT-Sector"
@@ -73,10 +66,9 @@
   bio: ""
   thumbnailUrl: stephanie-dermagne.JPEG
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 019
+- id: 019
   name: "André"
   surname: "Lago"
   company: "Google"
@@ -84,10 +76,9 @@
   bio: ""
   thumbnailUrl: andre-lago.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 020
+- id: 020
   name: "Rui"
   surname: "Vilaça"
   company: "Critical Manufacturing"
@@ -95,21 +86,19 @@
   bio: ""
   thumbnailUrl: rui-vilaca.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 021
-  name: ""
-  surname: ""
+- id: 021
+  name: "Filipa"
+  surname: "Muchacho"
   company: "KPMG"
   title: ""
   bio: ""
-  thumbnailUrl: .jpg
+  thumbnailUrl: ""
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 022
+- id: 022
   name: "Simão"
   surname: "Belchior"
   company: "Switch"
@@ -117,10 +106,9 @@
   bio: ""
   thumbnailUrl: simao-belchior.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 023
+- id: 023
   name: "Guilherme"
   surname: "Faria"
   company: "Farfetch"
@@ -128,21 +116,19 @@
   bio: ""
   thumbnailUrl: guilherme-faria.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 024
+- id: 024
   name: "Hugo"
   surname: "Silva"
   company: "Semasio"
   title: "Head of Development"
-  bio: ""
+  bio: "Hugo holds an MSc in Software Engineering from Instituto Superior de Engenharia do Porto. He started his career at ParadigmaXis, where he gained extensive experience with high-load, low-latency systems across a range of industries, including financial services. In 2013, Hugo joined Semasio as Head of Development."
   thumbnailUrl: hugo-silva.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 025
+- id: 025
   name: "João"
   surname: "Barros"
   company: "Veniam"
@@ -150,10 +136,9 @@
   bio: ""
   thumbnailUrl: joao-barros.jpg
   rockstar: true
-  social: 
+  social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 026
+- id: 026
   name: "João"
   surname: "Pascoal Faria"
   company: "FEUP"

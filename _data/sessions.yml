@@ -21,84 +21,104 @@
 - id: 003
   title: "Closing Session"
   description: "To be announced soon."
-  subtype: keynote  
+  subtype: keynote
   speakers: []
   language: pt
 - id: 004
   title: "Veniam"
-  description: ""
+  description: "The Future of Mobility and Telecommunications: Less than a year ago, mobility trends around the world seemed quite clear: 51 million connected cars shipped in 2019, shared mobility a la Uber, Lyft and Didi growing fast in many countries, and billions of dollars of venture capital and corporate investment poured into developing autonomous vehicles and racing them to the market. With the Covid-19 pandemic everything changed from one day to another. While it’s clear that our human society will continue to move large numbers of people and goods, nobody really knows how mobility will look like even six months from now let alone one year. In this keynote, we will start by exploring the available data on how the pandemic is changing the mobility landscape in the near-term. After formulating a few scenarios for the aftermath, we will draw from eight years of experience deploying city-scale networks of connected vehicles to illustrate how the convergence of transportation, communication and computation continues to offer unparalleled opportunities for smarter and more sustainable mobility services — all of which indispensable for us to face the very real and enormous challenges of climate change."
   subtype: keynote
   speakers: [012]
   language: pt
 - id: 005
   title: "Jumpseller"
-  description: "To be announced soon."
+  description: "Jumpseller é uma plataforma de e-commerce que permite a qualquer pessoa facilmente começar a vender online, através da sua loja online online ou de vários canais de e-commerce como o Whatsapp, Facebook, Instagram, OLX e Google Shopping. Atualmente, a Jumpseller é um dos líderes de e-commerce para pequenos negócios na América Latina."
   subtype: keynote
   speakers: [013]
   language: pt
 - id: 006
   title: "Fabamaq"
-  description: "To be announced soon."
+  description: "At Fabamaq we believe we have a part in transforming the Portuguese economy. We're a start-up from Porto born in 2010 with only 10 gamers, and now we're more than 180. We work with clients from all over the world, from Asia to South America. Proximity, innovation and development are the foundations of FMQ's identity. That's why we invest in internal development programmes, because we know that we owe our growth to each and every person working here."
   subtype: keynote
   speakers: [014]
   language: pt
 - id: 007
   title: "Jscrambler"
-  description: "To be announced soon."
+  description: "A Jscrambler é uma empresa líder em cibersegurança client-side. A empresa, nascida e sediada no Porto, apresenta soluções empresariais de proteção de aplicações JavaScript, bem como de monitorização em tempo real de páginas Web. Com a Jscrambler, as aplicações JavaScript tornam-se autodefensivas e resistentes a ataques de adulteração de código, roubo e engenharia reversa, e garantem total visibilidade face a ataques client-side, incluindo skimmers digitais, injeções maliciosas de código e roubo de dados dos utilizadores. Entre os clientes da Jscrambler contam-se alguns dos maiores bancos e retalhistas do mundo, incluindo empresas listadas na Fortune 500."
   subtype: keynote
-  speakers: [015,016]
+  speakers: [015, 016]
   language: pt
 - id: 008
   title: "Glintt"
-  description: "To be announced soon."
+  description: "Somos a Glintt, uma empresa de referência na Península Ibéria em Consultoria e Serviços Tecnológicos, com mais de 20 anos de experiência. Através da inovação, pretendemos ajudar a transformar as organizações e melhorar a vida das pessoas.
+Somos líderes Ibéricos no mercado de Saúde, onde desenvolvemos, implementamos e suportamos um conjunto diversificado de produtos próprios para Hospitais, Clínicas e Farmácias. As nossas soluções são utilizadas em mais de 250 Hospitais, 500 Clínicas e 14.000 Farmácias em Portugal, Espanha, Brasil e Angola.
+Para o segmento de Farmácia Comunitária desenvolvemos ainda uma oferta completa de serviços, que engloba Consultoria, Conceção e Projeção de Espaço de Lojas, Automação, Infraestruturas e Consumíveis.
+Outro pilar de atuação é a Consultoria Tecnológica, através da nossa marca Nexllence​​, promovemos a adoção e o desenvolvimento de soluções baseadas em tecnologias e infraestruturas emergentes para a administração publica e organizações de vários setores de atividade."
   subtype: keynote
   speakers: [017]
   language: pt
 - id: 009
   title: "IT-Sector"
-  description: "To be announced soon."
+  description: "Somos uma empresa de desenvolvimento de software especializada na transformação digital para instituições financeiras e a criação de soluções disruptivas para o setor bancário é aquilo que nos motiva. Há mais de 15 anos, e desenvolvendo projetos em mais de 20 países, temos construído a próxima Era Digital para o setor financeiro, combinando tecnologia, inovação e conhecimento especializado."
   subtype: keynote
   speakers: [018]
   language: pt
 - id: 010
   title: "Google"
-  description: "To be announced soon."
+  description: "Google's mission is to organize the world’s information and make it universally accessible and useful. André's team is building a safer, more trusted internet with useful tools that make digital privacy easier."
   subtype: keynote
   speakers: [019]
   language: pt
 - id: 011
   title: "Critical Manufacturing"
-  description: "To be announced soon."
+  description: "Critical Manufacturing is dedicated to empowering manufacturers of complex, high tech discrete products with a manufacturing execution and intelligence system to achieve their goals. It’s ready for the future whether you call it Industry 4.0 or something else. It scales to your operations, gives clear insight and guidance on any desktop or mobile device, drives visibility of production and its costs across your supply chain, and is easy to implement on your existing infrastructure. As a result, our state-of-the-art products and services enable you to drive down cost, flexibly meet market demands, and ultimately achieve greater agility, visibility and reliability.
+  Critical Manufacturing’s success is rooted in the inspiration and experience of an experienced team of internationally renowned industry experts. With headquarters and main technical center in Porto (Maia), Portugal, our phenomenal growth has inspired the establishment of additional subsidiaries in Dresden, Germany, Suzhou, China, Austin, USA and a branch office in Taiwan."
   subtype: keynote
   speakers: [020]
   language: pt
 - id: 012
   title: "KPMG"
-  description: "To be announced soon."
+  description: "A KPMG é uma rede global de firmas profissionais que prestam serviços de auditoria, fiscalidade e consultoria. Estamos presentes em 147 países e territórios com mais de 219 mil profissionais a trabalhar nas firmas membro a nível mundial. Em Portugal, a KPMG tem escritórios em Lisboa e no Porto com 55 membros da Partnership e mais de 1100 colaboradores. De forma apaixonada e com propósito trabalhamos lado-a-lado com os nossos clientes, combinando abordagens inovadoras com uma vasta experiência, de forma a entregar resultados reais."
   subtype: keynote
-  speakers: []
+  speakers: [021]
   language: pt
 - id: 013
   title: "Switch"
-  description: "To be announced soon."
+  description: "Switch is a payment orchestration platform that allows merchants, ISVs, PSPs, and acquirers to access the entire payments value chain through a single API integration. Our microservices architecture allows exposure to our applications on a modular basis, offering our clients the chance to decouple their payment stack into the Switch Platform on a SaaS model, instead of developing in-house.
+Through the Switch Platform you’re able to capitalize on existing legacy systems, analyze transactional data, and manage your payment operations all in one place with no need for additional code."
   subtype: keynote
   speakers: [022]
   language: pt
 - id: 014
   title: "Farfetch"
-  description: "To be announced soon."
+  description: "Farfetch Limited is the leading global platform for the luxury fashion industry. Founded in 2007 by José Neves for the love of fashion, and launched in 2008, Farfetch began as an e-commerce marketplace for luxury boutiques around the world. Today the Farfetch Marketplace connects customers in over 190 countries with items from more than 50 countries and over 1,300 of the world’s best brands, boutiques, and department stores, delivering a truly unique shopping experience and access to the most extensive selection of luxury on a single platform. Farfetch’s additional businesses include Farfetch Platform Solutions, which services enterprise clients with e-commerce
+and technology capabilities; Browns and Stadium Goods, which offer luxury products to consumers; and New Guards, a platform for the development of global fashion brands. Farfetch also invests in innovations such as its Store of the Future augmented retail solution and develops key technologies, business solutions, and services for the luxury fashion industry.
+"
   subtype: keynote
   speakers: [023]
   language: pt
 - id: 015
   title: "Semasio"
-  description: "To be announced soon."
+  description: "Semasio is a Germany-based tech startup that develops high-performance, low-latency software focused on infrastructure and real-time machine learning for marketing and online advertising. Our main development center is in Porto, Portugal; we have a R&D center in Aalborg, Denmark; and our commercial HQ is in Hamburg, Germany. We're currently looking for talented developers to join our Porto team!"
   subtype: keynote
   speakers: [024]
   language: pt
 - id: 016
   title: "Adidas"
-  description: "To be announced soon."
+  description: "adidas Global Business Services (GBS) is the engine to drive the transformation to ONE adidas. It is the company's operational backbone, through delivering standard global services, focusing on enhancing customer user experience, and providing consistent skills and quality. We deliver high quality services in the areas of Order to Cash, Source To Pay, Record to Report, Planning & Reporting and Hire to Retire for adidas companies and subsidiaries located in Europe, North America and Latin America.
+
+We believe in Collaboration, Creativity and Confidence. We embrace diverse backgrounds, experiences, and perspectives and seek to create a workforce which reflects our consumers and communities. We champion individual uniqueness and cultivate a culture of belonging, so that everyone can create at their best.
+
+We are creators in our fields, thinking strategically about how digital tools can make reporting more transparent. If you see yourself as a playmaker, planner and problem solver, we invite you to be a part of our team, all it takes is for you to apply and share your CV in English.  
+
+English is our official language, and we are always looking for new talent for the new teams and areas we continue to open.  
+
+In fact, we are growing at a fast paced rhythm and we have a new TechHub coming to our office. For that, we are looking for Tech Profiles in the areas of #SAP and #DataEngineering to join this new department.
+
+Want to have a sneak peek on our company, environment and culture? Don’t lose this opportunity on the 19th of May!
+
+We hope to see you soon! 
+"
   subtype: keynote
   speakers: []
   language: en

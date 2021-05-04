@@ -1,8 +1,8 @@
 - id: 000
   title: "Opening Session"
-  description: "To be announced soon."
+  description: "We open our 2021 edition of JobIT with the presence of our institutional partners."
   subtype: keynote
-  speakers: []
+  speakers: [026]
   language: pt
 - id: 001
   title: "TBD Keynote"

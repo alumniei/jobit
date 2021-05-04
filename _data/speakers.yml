@@ -152,3 +152,11 @@
   rockstar: true
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 026
+  name: "João"
+  surname: "Pascoal Faria"
+  company: "FEUP"
+  title: "Associate Professor"
+  thumbnailUrl: "joao-pascoal-faria.jpg"
+  rockstar: true

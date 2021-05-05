@@ -89,13 +89,13 @@
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - id: 021
-  name: "Filipa"
-  surname: "Muchacho"
+  name: ""
+  surname: ""
   company: "KPMG"
   title: ""
   bio: ""
   thumbnailUrl: ""
-  rockstar: true
+  rockstar: false
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - id: 022

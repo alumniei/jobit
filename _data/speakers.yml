@@ -59,12 +59,12 @@
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - id: 018
-  name: "Stéphanie"
-  surname: "Dermagne"
+  name: "Marta"
+  surname: "Rodrigues"
   company: "IT-Sector"
   title: "Talent Acquisition Manager"
   bio: ""
-  thumbnailUrl: stephanie-dermagne.JPEG
+  thumbnailUrl: marta-rodrigues.png
   rockstar: true
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

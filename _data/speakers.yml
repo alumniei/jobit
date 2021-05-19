@@ -89,13 +89,13 @@
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - id: 021
-  name: ""
-  surname: ""
+  name: "Paulo"
+  surname: "Dias"
   company: "KPMG"
-  title: ""
+  title: "Senior Manager for IT Advisory"
   bio: ""
-  thumbnailUrl: ""
-  rockstar: false
+  thumbnailUrl: "paulo-m-dias.jpg"
+  rockstar: true
   social:
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - id: 022
@@ -144,4 +144,11 @@
   company: "FEUP"
   title: "Associate Professor"
   thumbnailUrl: "joao-pascoal-faria.jpg"
+  rockstar: true
+- id: 027
+  name: "Carlos"
+  surname: "Costa"
+  company: "Adidas"
+  title: "Senior Data Engineer"
+  thumbnailUrl: "carlos-costa.png"
   rockstar: true
